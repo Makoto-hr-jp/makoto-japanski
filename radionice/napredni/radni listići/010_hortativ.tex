@@ -1,0 +1,73 @@
+% !TeX program = xelatex
+
+\documentclass[12pt]{article}
+
+\usepackage[colorlinks=true,urlcolor=blue]{hyperref}
+\usepackage{xeCJK}
+\usepackage{tabularx}
+\setCJKmainfont{AozoraMinchoRegular.ttf}
+\usepackage[CJK,overlap]{ruby}
+\usepackage{hhline}
+\usepackage{multirow,array,amssymb}
+\usepackage[croatian]{babel}
+\usepackage{soul}
+\renewcommand{\rubysep}{0.1ex}
+\renewcommand{\rubysize}{0.55}
+\usepackage[margin=0.7in]{geometry}
+\pagenumbering{gobble}
+\author{Tomislav Mamić}
+\title{Inicijalna provjera}
+
+%\ruby{}{}
+%$($\href{URL}{text}$)$
+
+\begin{document}
+	\Large Hortativ (~よう)
+	
+	\large
+	\vspace{20pt}
+	\begin{tabular}{r l|r l|r l}
+		\multicolumn{2}{c}{Nepravilni}&\multicolumn{2}{c}{一段}&\multicolumn{2}{c}{五段}\\
+		\hline
+		いく&いこう&\multirow{4}{20pt}{-る}&\multirow{4}{25pt}{-よう}&\multirow{4}{20pt}{-u}&\multirow{4}{30pt}{-oう}\\
+		くる&\textbf{こよう}&&&\\
+		する&しよう&&&\\
+		ある&\textbf{あろう}&&&\\
+	\end{tabular}
+
+	\vspace{20pt}
+	\large \textbf{Poziv/prijedlog}
+	\vspace{10pt}
+	
+	\ruby{明日}{あした}、\ruby{映画}{えいが}を\ruby{見}{み}にいきましょう。
+	
+	\ruby{今日}{きょう}は\ruby{食堂}{しょくどう}で\ruby{食}{た}べよう。
+	
+	\ruby{図書館}{としょかん}で\ruby{一緒}{いっしょ}に\ruby{勉強}{べんきょう}しよう。
+	
+	\vspace{10pt}
+	\textbf{Namjera (izravno)}
+	\vspace{10pt}
+	
+	今日から\ruby{日記}{にっき}を\ruby{書}{か}こう。
+	
+	\ruby{家}{いえ}に\ruby{帰}{かえ}ったら\ruby{掃除}{そうじ}しよう。
+	
+	\vspace{10pt}
+	\textbf{Razmatranje mogućnosti/namjera (manje izravno) s と思う}
+	\vspace{10pt}
+	
+	\ruby{船}{ふね}を\ruby{買}{か}おうと\ruby{思}{おも}っています。
+	
+	\vspace{10pt}
+	\textbf{Pokušaj/samo što nije s とする}
+	\vspace{10pt}
+	
+	図書館で勉強しようとしたけど、\ruby{休}{やす}みだった。
+	
+	\ruby{彼}{は}\ruby{逃}{に}げようとした。
+	
+	\ruby{九月}{くがつ}が\ruby{始}{はじ}まろうとしていた。
+	
+	\ruby{西}{にし}の\ruby{空}{そら}に\ruby{日}{ひ}が\ruby{沈}{しず}もうとしています。
+\end{document}

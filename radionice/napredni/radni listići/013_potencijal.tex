@@ -1,0 +1,124 @@
+% !TeX program = xelatex
+
+\documentclass[12pt]{article}
+
+\usepackage[colorlinks=true,urlcolor=blue]{hyperref}
+\usepackage{xeCJK}
+\usepackage{tabularx}
+\setCJKmainfont{AozoraMinchoRegular.ttf}
+\usepackage[CJK,overlap]{ruby}
+\usepackage{hhline}
+\usepackage{multirow,array,amssymb}
+\usepackage[croatian]{babel}
+\usepackage{soul}
+\usepackage[usenames, dvipsnames]{color}
+\usepackage{wrapfig,lipsum,booktabs}
+\renewcommand{\rubysep}{0.1ex}
+\renewcommand{\rubysize}{0.55}
+\usepackage[margin=50pt]{geometry}
+\author{Tomislav Mamić}
+\title{Inicijalna provjera}
+
+\definecolor{faded}{RGB}{100, 100, 100}
+
+%\ruby{}{}
+%$($\href{URL}{text}$)$
+
+\begin{document}
+
+	\large Potencijal
+		
+	\begin{wraptable}[24]{l}{0pt}
+	\begin{tabular}{|l|l|}
+		\hline
+		\multicolumn{2}{|c|}{nepravilni}\\
+		\hline
+		いく&いける\\
+		くる&こられる\\
+		&これる\footnotemark[1]\\
+		ある&ありえる\footnotemark[2]\\
+		する&できる\\
+		\hline
+		\hline
+		\multicolumn{2}{|c|}{一段}\\
+		\hline
+		\multirow{2}{30pt}{-る}&-られる\\
+		&-れる\footnotemark[1]\\
+		\hline
+		\hline
+		\multicolumn{2}{|c|}{五段\footnotemark[3]}\\
+		\hline
+		く&ける\\
+		ぐ&げる\\
+		す&せる\\
+		\hline
+		ぬ&ねる\\
+		む&める\\
+		ぶ&べる\\
+		\hline
+		う&える\\
+		つ&てる\\
+		る&れる\\
+		\hline
+	\end{tabular}
+	\end{wraptable}
+
+	\vspace{20pt}
+	\normalsize \textbf{Osnovno značenje}
+	\vspace{20pt}
+	
+	Potencijal izražava praktičnu mogućnost/sposobnost subjekta da se neki glagol izvrši ili dogodi, kao u hrvatskom jeziku pom. glagol \textit{moći} + infinitiv, npr.
+	
+	にんじんがたべれる。　\textit{Mogu jesti mrkve.}
+	
+	日本語がよめる。　\textit{Mogu čitati japanski.}
+	
+	Za razliku od hrvatskog \textit{moći}, potencijal u japanskom \textbf{ne izražava teoretsku mogućnost}, npr.
+	
+	\textit{Mogao sam umrijeti.}　しねた。　\textbf{iznimno krivo!}
+	
+	U japanskom postoji i "potencijal za lijenčine" koji se tvori nominalizacijom s こと:
+	
+	いける　$\approx$　いくことが　できる 
+	
+	はしれる　$\approx$　はしることが　できる
+	
+	Potencijal glagola i sam postaje 一段 glagol. Kao takav može poprimiti vrijeme, negaciju, pristojnost i spojne oblike い i て, kao i kondicional, ali semantički nema puno smisla s potencijalom, pasivom, kauzativom, imperativom ni hortativom. Čak i ako možete zamisliti situaciju gdje biste neki od tih oblika htjeli upotrijebiti, jako je neprirodno.
+	
+	Bitno je uočiti da potencijal nije prijelazni glagol. To znači da se događa standardno pomicanje uloga čestica - objekt (を) postaje subjekt (が), a subjekt (が) postaje tema (は):
+	
+	きつねは　はりねずみを　たべる。$\rightarrow$きつねは　はりねずみが　たべれる。
+	
+	Tema, naravno, ostaje tema.
+	
+	\vspace{20pt}
+	\normalsize \textbf{Neki česti izrazi}
+	\vspace{20pt}
+	
+	<reč.>かもしれない　\textit{možda <reč.>}
+	
+	もりの　なかに　いる。　\textit{U šumi su.}
+	
+	もりの　なかに　いる　かもしれない。　\textit{Možda su u šumi.}
+	\vspace{10pt}
+	
+	ありえない!　\textit{Nemoguće/nema šanse!}
+	\vspace{10pt}
+	
+	しんじられない!　\textit{Ne mogu vjerovati!}
+	
+	\vspace{20pt}
+	\normalsize \textbf{Primjeri za vježbu}
+	\vspace{20pt}
+	
+	いちねんかん　れんしゅうしても　かれには　かてなかった。
+	
+	わたしの　ともだちは　じぶんの　へやを　でることさえ　できない　ひきこもりに　なって　しまいました。
+	
+	あと　いちじかん　おきていられたら　さいごまで　えいがが　みれた　かもしれない。
+	
+	\footnotetext[1]{Pomalo kolokvijalno, ne koristiti kad treba biti jako pristojan ili u pisanom obliku.}
+	\footnotetext[2]{U rječničkom obliku može biti i ありうる, ne dajte se prevariti.}
+	\footnotetext[3]{Savršeno pravilno, hiragana う red u え + る.}
+	
+\end{document}

@@ -1,0 +1,161 @@
+% !TeX program = xelatex
+
+\documentclass[12pt]{article}
+
+\usepackage[colorlinks=true,urlcolor=blue]{hyperref}
+\usepackage{xeCJK}
+\usepackage{tabularx}
+\setCJKmainfont{AozoraMinchoRegular.ttf}
+\usepackage[CJK,overlap]{ruby}
+\usepackage{hhline}
+\usepackage{multirow,array,amssymb}
+\usepackage[croatian]{babel}
+\usepackage{soul}
+\usepackage[usenames, dvipsnames]{color}
+\usepackage{wrapfig,lipsum,booktabs}
+\renewcommand{\rubysep}{0.1ex}
+\renewcommand{\rubysize}{0.55}
+\usepackage[margin=50pt]{geometry}
+\author{Tomislav Mamić}
+\title{rl4}
+
+\definecolor{faded}{RGB}{100, 100, 100}
+
+%\ruby{}{}
+%$($\href{URL}{text}$)$
+
+\begin{document}
+	
+	\large Rečenice složene veznicima
+	
+	\vspace{20pt}
+	\normalsize \textbf{Teorija}
+	\vspace{20pt}
+	
+	U japanskom je relativno u odnosu na hrvatski ovakvo slaganje nešto rjeđe, ali još uvijek neophodno. Osnovni princip je gotovo kao i u hrvatskom, osim što "veznici" u japanskom ne igraju uvijek po pravilima. Naime, spojevi su nastali iz različitih drugih gramatičkih kategorija pa nose svoje stare navike sa sobom. Zbog toga bi bilo puno točnije grupno ih nazvati \textit{spojevi} da izbjegnemo asocijaciju s vrstom riječi u hrvatskom, iako pretežno obavljaju istu gramatičku funkciju.
+	
+	\vspace{20pt}
+	\normalsize \textbf{Spojevi iz čestica}
+	\vspace{20pt}
+	
+	Postoje čestice koje ne slijede tradicionalnu <opis>imenica<gramatika> recepturu nego mogu direktno označiti cijelu rečenicu. Pogledajmo neke:
+	
+	\vspace{5pt}
+	\noindent
+	$\bullet$\textbf{から označava razlog} - <razlog>から<rezultat>
+	\vspace{5pt}
+	
+	つまらないから　映画を　見ない。　\textit{Ne gledam filmove jer su dosadni.}
+	
+	たまねぎを　たくさん　食べなかったから　びょうきに　なった。　\textit{Razbolio sam se jer nisam jeo puno luka.}
+	
+	しずかだから　だれにも　気付かれない。　\textit{Nitko me ne primjećuje jer sam tih.}
+	
+	\vspace{5pt}
+	Vrlo je bitno uočiti da su sve tri rečenice označene s から u \textbf{predikatnom} obliku, dakle čestica označava rečenicu izravno.
+	
+	\vspace{5pt}
+	\noindent
+	$\bullet$\textbf{か označava pitanje i kao zavisnu rečenicu!} - <pitanje>か
+	\vspace{5pt}
+	
+	つまらないか　分からない。　\textit{Ne znam je li dosadno.}
+	
+	たまねぎを　たくさん　食べたか　どうでも　いい。　\textit{Tako je svejedno jesi li jeo puno luka.}\footnotemark[1]
+	
+	にんじんがすきだか　知りません。　\textit{Ne znam voli li mrkve.}
+	
+	\vspace{5pt}
+	Kao i s から, sve tri označene rečenice su u \textbf{predikatnom} obliku.
+	
+	\vspace{5pt}
+	\noindent
+	$\bullet$\textbf{が kao ali} - <situacija>が<rezultat>
+	\vspace{5pt}
+	
+	つまらないが、私は　きらいじゃない。　\textit{Dosadno/bezveze je, ali meni nije mrsko.}
+	
+	きいてみたが、先生も　知りませんでした。　\textit{Pitao sam, ali ni prof. nije znao.}
+	
+	今は　しずかだが、あさは　けっこう　にぎやかです。　\textit{Sad je tiho, ali ujutro je prilično živahno.}
+	
+	\vspace{5pt}
+	Opet, sve rečenice su u \textbf{predikatnom obliku}.
+	
+	\vspace{5pt}
+	\noindent
+	$\bullet$\textbf{けれども/けれど/けど kao ali} - <situacija>けれども<rezultat>
+	\vspace{5pt}
+	
+	うさぎは　はやいけど、きつねも　はやい。　\textit{Zečevi su brzi, ali i lisice su brze.}
+	
+	たけしに　飲むなと　いったけど　飲みすぎて　また　すずきさんに　こくはくしてきた。　\textit{Rekao sam Takešiju da ne pije, ali opet se razvalio i otišao ispovjediti svoju ljubav gosp. Suzuki.}
+	
+	夜のみちは　こわく　みえるけど　明るいときと　かわらないよ。　\textit{Grad po noći izgleda strašno, ali nije drugačiji nego po danu.}
+	
+	\footnotetext[1]{Izraz どうでもいい je kolokvijalan i može ispasti \textbf{iznimno} nepristojno za reći u krivom kontekstu. Ima cijeli raspon značenja od \textit{svejedno je} do \textit{baš me briga kako je}.}
+	
+	\newpage
+	\vspace{5pt}
+	\noindent
+	$\bullet$\textbf{も kao unatoč/iako} - <situacija konjunktiv>+も<rezultat>
+	\vspace{5pt}
+	
+	つまらなくても　私は　きらいじゃない。　\textit{Iako je dosadno/bezveze, meni nije mrsko.}
+	
+	一日中食べても　食べきれない。　\textit{Čak i da jedeš cijeli dan, ne bi sve pojeo.}
+	
+	びょうき\underline{でも}　行くと　きめた。　\textit{Odlučio sam ići makar i bolestan.}
+	
+	にげても　むだ、むだ。　\textit{Možeš da bežiš, ali džaba, džaba.}
+	
+	\vspace{5pt}
+	Za razliku od prijašnjih čestica, ova očekuje rečenicu u \textbf{konjunktivu}. Kao što ćemo vidjeti kasnije, vrlo je zanimljiv komadić podcrtan u trećem primjeru.
+	
+	\vspace{5pt}
+	\noindent
+	$\bullet$\textbf{ので kao razlog} - <razlog>ので<rezultat>
+	\vspace{5pt}
+	
+	つまらないので　映画を　見ません。　\textit{Ne gledam filmove jer su dosadni.}
+	
+	たまねぎを　たくさん　食べなかったので　びょうきに　なってしまった。　\textit{Razbolio sam se jer nisam jeo puno luka.}
+	
+	しずか\underline{なので}　だれにも　気付かれない。　\textit{Nitko me ne primjećuje jer sam tih.}
+	
+	\vspace{5pt}
+	Kako se da vidjeti iz primjera, ので i から imaju istu osnovnu funkciju. Razlika je u tome što ので zvuči pristojno i suzdržano dok から može zvučati izravno i pomalo naprasito u formalnijem kontekstu. Međutim ispod naizgled identične upotrebe krije se strašna tajna - ので je zapravo fiksni izraz od lažne imenice もの i čestice で. Posljedica toga je da ので očekuje rečenicu u \textbf{opisnom} obliku!
+	
+	\vspace{5pt}
+	\noindent
+	$\bullet$\textbf{のに kao unatoč/iako} - <situacija>のに<rezultat>
+	\vspace{5pt}
+	
+	あたまが　いたいのに　おちつかない。　\textit{Iako me boli glava, ne mogu se smiriti.}
+	
+	たまねぎを　たくさん　食べたのに　かぜを　引いてしまった。　\textit{Iako sam jeo puno luka, ulovio sam prehladu.}
+	
+	冬なのに　アイスが　食べたい。　\textit{Iako je zima, jede mi se sladoled.}
+	
+	\vspace{5pt}
+	Ista priča kao ので, obavezno \textbf{opisni} oblik.
+	
+	\vspace{10pt}
+	Svi spomenuti spojevi osim か (koji je inače malo škakljiv u odnosu na ostale i dosta sličan čestici と za citiranje) imaju i tzv. kontekstualnu verziju. Ta verzija obavezno započinje rečenicu i nadovezuje je na kontekst izgovorenog, a tvori se spajanjem spojnog glagola i spoja. Tamo gdje je spojni glagol u predikatnom obliku, moguće je koristiti pristojni oblik.
+	\vspace{5pt}
+	
+	だからあまいものを食べては行けないと言った。　\textit{Zato sam ti rekao da ne smiješ jesti slatko.}
+	
+	だが、私はそれを知らなかった。　\textit{Ali, ja to nisam znao.}
+	
+	だけど、まだ　かえっていない。　\textit{Ali, još se nije vratio.}\footnotemark[2]
+	
+	でも、森の中にいるかも知れない。　\textit{Ali, možda su u šumi!}
+	
+	なので日本に行くことにしました。　\textit{Zato sam odlučio otići u Japan.}
+	
+	なのに日本に行かないことにしました。　\textit{Unatoč tome, odlučio sam ne otići u japan.}
+	
+	\footnotetext[2]{U ovom obliku se uobičajeno koristi samo kratko けど.}
+	
+\end{document}

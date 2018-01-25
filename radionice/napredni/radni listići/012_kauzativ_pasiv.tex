@@ -1,0 +1,160 @@
+% !TeX program = xelatex
+
+\documentclass[12pt]{article}
+
+\usepackage[colorlinks=true,urlcolor=blue]{hyperref}
+\usepackage{xeCJK}
+\usepackage{tabularx}
+\setCJKmainfont{AozoraMinchoRegular.ttf}
+\usepackage[CJK,overlap]{ruby}
+\usepackage{hhline}
+\usepackage{multirow,array,amssymb}
+\usepackage[croatian]{babel}
+\usepackage{soul}
+\usepackage[usenames, dvipsnames]{color}
+\usepackage{wrapfig,lipsum,booktabs}
+\renewcommand{\rubysep}{0.1ex}
+\renewcommand{\rubysize}{0.55}
+\usepackage[margin=50pt]{geometry}
+\author{Tomislav Mamić}
+\title{Inicijalna provjera}
+
+\definecolor{faded}{RGB}{100, 100, 100}
+
+%\ruby{}{}
+%$($\href{URL}{text}$)$
+
+\begin{document}
+
+	\large Kauzativ i pasiv
+	
+	\vspace{20pt}
+	\normalsize \textbf{Tvorba}
+	\vspace{20pt}
+
+\begin{wraptable}[22]{l}{0pt}
+	\begin{tabular}{|l|l|l|}
+		\hline
+		\multicolumn{3}{|c|}{nepravilni}\\
+		\hline
+		&kauzativ&pasiv\\
+		\hline
+		いく&いかせる&いかれる\\
+		&いかす&\\
+		くる&こさせる&こられる\\
+		ある&nema\footnotemark[1]&nema\footnotemark[1]\\
+		する&させる&される\\
+		\hline
+		\hline
+		\multicolumn{3}{|c|}{一段}\\
+		\hline
+		&kauzativ&pasiv\\
+		\hline
+		る&させる&られる\footnotemark[2]\\
+		\hline
+		\hline
+		\multicolumn{3}{|c|}{五段}\\
+		\hline
+		&kauzativ&pasiv\\
+		\hline
+		く&かせる&かれる\\
+		ぐ&がせる&がれる\\
+		す&させる&される\\
+		\hline
+		ぬ&なせる&なれる\\
+		む&ませる&まれる\\
+		ぶ&ばせる&ばれる\\
+		\hline
+		う&わせる&われる\\
+		つ&たせる&たれる\\
+		る&らせる&られる\\
+		\hline
+	\end{tabular}
+\end{wraptable}
+
+	Kako se da uočiti iz tablice desno, osnova tvorbe kauzativa i pasiva je あ stupac, kao za negaciju. Kauzativ dobijemo dodavanjem せる, a pasiv pomoću れる. Iz tablice se također da uočiti da glagol いく ima 2 oblika kauzativa. Iako u tablici nisu navedeni jer bi zauzimalo puno mjesta, a i pravilno je, zapravo svi 五段 glagoli također imaju dva kauzativa. Moguće je naime umjesto せる staviti す. Bitno je da, ako odlučite koristiti す, znate da zvuči pomalo kolokvijalno i da nije dobra praksa iz kauzativa na す dalje raditi složenije oblike. Dakle u bilo kojoj situaciji gdje treba na kauzativ dodati još promjena, bolja opcija je せる.
+	
+	S pasivom nema nikakvih komplikacija.
+	
+	\vspace{20pt}
+	\normalsize \textbf{Osnovno značenje}
+	\vspace{20pt}
+	
+	Kauzativ može značiti da se neka radnja dopušta:
+	
+	いぬに　えさを　そとに　いかせた。　\textit{Pustio sam psa van.}
+	
+	Ili da se izvršavanje radnje prisiljava:
+	
+	こどもに　にんじんを　たべさせた。　\textit{Natjerao sam dijete da jede mrkve.}
+	
+	Valja primijetiti kako se događa pomak u ulogama - subjekt (は/が) postaje meta radnje (に), a novi subjekt je onaj tko dopušta ili prisiljava na radnju.
+	
+	\vspace{10pt}
+	
+	Pasiv može značiti upravo gramatički kontekst pasiva - radnja je izvršena:
+	
+	りんごは　たべられた。　\textit{Jabuka je pojedena.}
+	
+	Ali nosi i potencijalno opasnu konotaciju - izriče nezadovoljstvo onog iz čije se perspektive govori učinjenim:
+	
+	せんせいに　よく　いわれた。　dosl. \textit{Prof mi je dobro rekao.}, eufemizam za \textit{Prof me sažvakao i ispljunuo.}
+	
+	すずきさんは　りんごを　たべられて　ないている。　\textit{Suzuki je netko pojeo jabuku pa plače.}
+	
+	I kod pasiva dolazi do zamjene uloga u rečenici, ali malo složenije. Kad nije specificiran vršitelj radnje, subjekt (は/が) postaje meta (に), a objekt (を) postaje subjekt:
+	
+	せんせいが　はなこ
+	
+	\footnotetext[1]{Ne možemo baš dopustiti nečemu ili natjerati nešto da biva, a bivanje je samo po sebi dosta pasivna aktivnost.}
+	\footnotetext[2]{Ne pomiješati s potencijalom - \textit{potencijalno} opasno! HA ha.}
+	
+	\newpage
+	\vspace{20pt}
+	\normalsize \textbf{Pasiv kauzativa}
+	\vspace{20pt}
+	
+	U principu znači samo kombinaciju kauzativa i pasiva - \textit{dopušteno mi je} / \textit{natjeran sam} nešto učiniti. Oblik je kompozicija kauzativa i pasiva - pasiv(kauzativ(glagol)). S obzirom da završava pasivom, može imati i onu konotaciju da govornik nije sretan situacijom, npr.
+	
+	こどものころ　にんじんを　たべさせられていた。　\textit{Kad sam bio dijete tjerali su me da jedem mrkve.} (i nisam bio sretan zbog toga)
+	
+	日本では　さけを　のませられる　ことが　おおい。　\textit{U japanu često budeš natjeran da piješ alkohol.}
+	
+	Moguće je koristiti i skraćeni kauzativ, ali ne smijemo zaboraviti da ga 一段 i 五段 す glagoli nemaju! Znači smijemo reći
+	
+	日本では　さけを　のまされる　ことが　おおい。
+	
+	\vspace{20pt}
+	\normalsize \textbf{Za vježbu}
+	\vspace{20pt}
+	
+	\vspace{5pt}
+	\normalsize Lv. 1
+	\vspace{5pt}
+	
+	せんせいに　いわれた。
+	
+	せいとたちに　そうじさせました。
+	
+	たけしくんは　２じかん　またされた。
+	
+	\vspace{5pt}
+	\normalsize Lv. 2
+	\vspace{5pt}
+	
+	けさ　がっこうに　きた　とたん、せんせいに　あぶらを　しぼられた。
+	
+	わるい　せいとたちに　にわを　そうじさせました。
+	
+	たけしくんは　かのじょに　２じかんも　またされた。
+	
+	\vspace{5pt}
+	\normalsize Lv. 3
+	\vspace{5pt}
+	
+	けさ　がっこうに　きた　とたん　せんせいに　あぶらを　しぼられた　たけしくんは　なにが　おきているか　わからなかった。
+	
+	わるい　せいとたちに　にわの　そうじ　を　させた　せんせいは　とうりょうと　いっしょに　それを　みながら　わらっていました。
+	
+	かのじょに　２じかんも　またされて　おこっていた　たけしくんは　けっきょく　かえってしまった。
+\end{document}

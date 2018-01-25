@@ -1,0 +1,105 @@
+% !TeX program = xelatex
+
+\documentclass[12pt]{article}
+
+\usepackage[colorlinks=true,urlcolor=blue]{hyperref}
+\usepackage{xeCJK}
+\usepackage{tabularx}
+\setCJKmainfont{AozoraMinchoRegular.ttf}
+\usepackage[CJK,overlap]{ruby}
+\usepackage{hhline}
+\usepackage{multirow,array,amssymb}
+\usepackage[croatian]{babel}
+\usepackage{soul}
+\usepackage[usenames, dvipsnames]{color}
+\usepackage{wrapfig,lipsum,booktabs}
+\renewcommand{\rubysep}{0.1ex}
+\renewcommand{\rubysize}{0.55}
+\usepackage[margin=50pt]{geometry}
+\author{Tomislav Mamić}
+\title{rl4}
+
+\definecolor{faded}{RGB}{100, 100, 100}
+
+%\ruby{}{}
+%$($\href{URL}{text}$)$
+
+\begin{document}
+
+	\large Imperativi
+
+	\vspace{20pt}
+	\normalsize \textbf{Pravi imperativ}
+	\vspace{20pt}
+	
+	\begin{wraptable}[17]{l}{0pt}
+	\begin{tabular}{|l|l|}
+		\hline
+		\multicolumn{2}{|c|}{nepr.}\\
+		\hline
+		いく&いけ\\
+		\hline
+		くる&こい\\
+		\hline
+		\multirow{2}{50pt}{する}&しろ\\\cline{2-2}
+		&せよ\footnotemark[1]\\
+		\hline
+		ある&あれ\\
+		\hline
+		\hline
+		\multicolumn{2}{|c|}{一段}\\
+		\hline
+		\multirow{2}{50pt}{(i/e)る}&ろ\\\cline{2-2}
+		&よ\footnotemark[1]\\
+		\hline
+		\hline
+		\multicolumn{2}{|c|}{五段}\\
+		\hline
+		く&け\\
+		ぐ&げ\\
+		す&せ\\
+		\hline
+		ぬ&ね\\
+		む&め\\
+		ぶ&べ\\
+		\hline
+		う&え\\
+		つ&て\\
+		る&れ\\
+		\hline
+	\end{tabular}
+	\end{wraptable}
+	\vspace{20pt}
+
+	Imperativ kao glagolski oblik je vrlo grub i izravan. U pravilu se ne koristi nikad kad pokušavamo biti imalo pristojni, ali možemo ga koristiti u citatu da bismo izrazili što je nama naređeno, čak i ako u originalu nije bio korišten pravi imperativ (dopušteno je tako parafrazirati i nije nepristojno).
+	\vspace{5pt}
+	
+	せんせい:　やまだくん、ちょっとこっちきて。
+	
+	やまだ: は\textasciitilde い。
+	
+	せんせい:　きのうの　しゅくだい、まだ　だしていないでしょう?
+	
+	やまだ:　うん、はい。
+	
+	せんせい:　あしたまでには　ていしゅつしないと　おこりますよ。
+	
+	...
+	
+	すずき:　やまだ、せんせいと　なにを　はなした?
+	
+	やまだ:　あしたまでに　きのうの　しゅくたいを　もってこいと　いわれた。
+	
+	\vspace{20pt}
+	\normalsize \textbf{Ženski imperativ}
+	\vspace{20pt}
+	
+	Glagol u て obliku bez ikakvih dodataka predstavlja imperativ. Koriste ga žene i svi koji se tako osjećaju, a dolazi od zamolbe s ください, samo bez zamolbe.
+	
+	\vspace{20pt}
+	\normalsize \textbf{Dječji imperativ}
+	\vspace{20pt}
+	
+	Radi se iz い oblika glagola, dodavanjem pom. glagola なさい (なさる - する iz poštovanja). Nekad davno u povijesti japanskog jezika, glagoli su imali odvojen opisni i predikatni oblik. Opisni oblik se zvao 連体形 (れんたいけい) i bio je kao današnji kolokvijalni oblik, a predikatni se zvao 終止形 (しゅうしけい) i završavao je samoglasnikom \textit{i}. U modernom jeziku ta dva oblika su se spojila u jedan, koji izgleda kao stari 連体形, ali obavlja funkciju oba. Zato se nazivi ponekad u modernom kontekstu koriste kao sinonimi.
+	
+\end{document}
