@@ -16,6 +16,7 @@
 \usepackage{soul}
 \usepackage[usenames, dvipsnames]{color}
 \usepackage{wrapfig,booktabs}
+\usepackage{calc}
 \renewcommand{\rubysep}{0.1ex}
 \renewcommand{\rubysize}{0.75}
 \usepackage[margin=50pt]{geometry}
@@ -94,6 +95,17 @@
 	}{
 	\end{itemize}
 	\vspace{10pt}
+}
+
+\newcommand{\juuyou}[2][20pt]{
+	\vspace{5pt}
+	\noindent\hspace{#1}\parbox[c]{\textwidth-#1-#1}{\textit{#2}}
+	\vspace{5pt}
+}
+
+\newcommand{\ten}{
+	\vspace{5pt}
+	\noindent\hspace{-10pt}$\bullet$
 }
 
 \date{\today}
