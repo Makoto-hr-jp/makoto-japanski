@@ -23,6 +23,16 @@
 \usepackage[margin=50pt]{geometry}
 \modulolinenumbers[2]
 
+\date{\today}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\makeatletter
+\fancyhead[RE,LO]{rev. \@date}
+\makeatother
+
 \usepackage{pifont}
 \newcommand{\cmark}{\ding{51}}%
 \newcommand{\xmark}{\ding{55}}%
@@ -110,6 +120,8 @@
 	\noindent\hspace{-10pt}$\bullet$
 }
 
-\date{\today}
+\newcommand{\midashi}{
+	test
+}
 
 \CJKfamily{chanto}\CJKnospace
