@@ -19,17 +19,45 @@
 	
 	Japanski jezik ne zapisuje pojedinačne glasove nego m\={o}re. U tablici ispod nalazi se 46 osnovnih znakova pisma hiragana. M\={o}re u istom stupcu počinju istim suglasnikom, one u istom redu završavaju istim samoglasnikom. Jedina iznimka ovome je ranije spomenuti ん.
 	
+	\setlength{\tabcolsep}{10pt}
 	\vspace{10pt}
 	\begin{tabular}{|l|r|r|r|r|r|r|r|r|r|r|r|}
 		\hline
-		&\textasciitilde&k&s&t&n&m&r&h&j&v&\textasciitilde\\
+		&\textasciitilde&k&s&t&n&m&r&h&j(y)&v(w)&\textasciitilde\\
 		\hline
 		a&あ&か&さ&た&な&ま&ら&は&や&わ&ん\\
-		i&い&き&し&ち&に&み&り&ひ&&&\\
-		u&う&く&す&つ&ぬ&む&る&ふ&ゆ&&\\
+		i&い&き&*し&*ち&に&み&り&ひ&&&\\
+		u&う&く&す&*つ&ぬ&む&る&*ふ&ゆ&&\\
 		e&え&け&せ&て&ね&め&れ&へ&&&\\
 		o&お&こ&そ&と&の&も&ろ&ほ&よ&を&\\
 		\hline
 	\end{tabular}
+	
+	\fukudai{Zvučnost}
+
+	Kao i u hrvatskom, glasovi \textit{k}, \textit{s} i \textit{t} imaju zvučne verzije \textit{g}, \textit{z} i \textit{d}. Za razliku od hrvatskog, gdje glasove \textit{p} i \textit{b} smatramo parom, u japanskom \textit{h}, \textit{p} i \textit{b} čine skup u kojem se glas \textit{h} smatra bezvučnim, \textit{p} poluzvučnim\footnotemark[1], a \textit{b} zvučnim glasom.
+	
+	Zvučnost ovih glasova zapisuje se dodavanjem dijakritičkog znaka \textit{tenten} (dosl. \textit{crtica-crtica}) uz znak hiragane. Na primjer:
+	
+	\vspace{5pt}
+	\begin{tabular}{l l l l}
+		た&\textit{ta}&だ&\textit{da}\\
+		ほ&\textit{ho}&ぼ&\textit{bo}\\
+		き&\textit{ki}&ぎ&\textit{gi}\\
+		す&\textit{su}&ず&\textit{zu}\\
+	\end{tabular}
+	
+	\footnotetext[1]{Ovaj termin u hrvatskom ne postoji - radi se o doslovnom prijevodu s japanskog.}
+	
+	Iznimno, na glasove iz \textit{h} stupca hiragane dodaje se dijakritički znak \textit{maru} (dosl. \textit{kružić}) koji označava prijelaz \textit{h}$\rightarrow$\textit{p}:
+	
+	\vspace{5pt}
+	\begin{tabular}{l l l l}
+		は&\textit{ha}&ぱ&\textit{pa}\\
+		ひ&\textit{hi}&ぴ&\textit{pi}\\
+	\end{tabular}
+
+	\vspace{5pt}
+	Da ne bi sve bilo tako jednostavno, glasovi \textit{s} i \textit{t} se ispred samoglasnika \textit{i} palataliziraju (slično kao i u hrv.) pa ih se čita kao \textit{\'{s}} i \textit{ć}.
 	
 \end{document}
