@@ -1,4 +1,4 @@
 *.synctex
 *.synctex.gz
 **/tex_aux
-!keishiki_meishi_part3.pdf
+!*.pdf
