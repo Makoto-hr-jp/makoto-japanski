@@ -1,0 +1,78 @@
+% !TeX document-id = {560a1cad-8395-444a-8f36-5986f0ba0d2b}
+% !TeX program = xelatex ?me -synctex=0 -interaction=nonstopmode -aux-directory=../tex_aux -output-directory=./release
+\input{../../../000_template.tex}
+\usepackage{xcolor}
+\author{Tomislav Mamić}
+\begin{document}
+	\dai{Količina I}
+	
+	Prije susreta s civilizacijom Kine, japanski jezik imao je svoj sustav brojanja koji je i danas prisutan u jeziku, ali u tragovima. U modernom jeziku uglavnom se koriste brojevi "uvezeni" iz Kine zajedno s kanji znakovima. Od starog sustava dovoljno je znati samo brojeve do deset, dok ćemo na novom sustavu naučiti brojati dokle god to praktično ima smisla.
+	
+	\fukudai{Osnovni brojevi}
+	
+	Tablica ispod prikazuje stare brojeve s nastavkom za brojanje neživih stvari (つ). Ovi se brojevi koriste i danas. Valja primijetiti dvije stvari - pišu se kineskim znakom na kojeg je dodan brojač, a broj deset nema brojač već se on podrazumijeva kad se koristi staro čitanje.
+
+	Izuzev ovih deset brojeva, ostaci starog sustava mogu se naći u imenima i skamenjenim izrazima (npr. や.お.よろず - dosl. \textit{osam deset desettisuća} = 800 000, u starijim tekstovima izraz za \textit{jako puno}), kao i u nekim brojačima što ćemo vidjeti kasnije.
+	
+	Paralelno su prikazani i novi brojevi koji uz sebe nemaju brojač, a kojima se broje i veće količine. U zagradama se nalaze čitanja koja se koriste rjeđe i u posebnim situacijama.
+	
+	\vspace{5pt}
+	\begin{table}[h]
+		\centering
+		\begin{tabular}{r l l l l}\toprule[2pt]
+			rimski & novo čitanje & kanji & staro čitanje & kanji\\
+			\midrule
+			1			& いち & 一 & ひと.つ & 一つ \\
+			2			& に & 二 & ふた.つ & 二つ \\
+			3			& さん & 三 & みっ.つ & 三つ \\
+			4			& よん(し) & 四 & よっ.つ & 四つ \\
+			5			& ご & 五 & いつ.つ & 五つ \\
+			6			& ろく & 六 & むっ.つ & 六つ \\
+			7			& なな(しち) & 七 & なな.つ & 七つ \\
+			8			& はち & 八 & やっ.つ & 八つ \\
+			9			& きゅう(く) & 九 & ここの.つ & 九つ \\
+			10			& じゅう & 十 & とお & 十 \\
+			100			& ひゃく & 百 &  &  \\
+			1000		& せん & 千 &  &  \\
+			10 000		& まん & 万 &  &  \\
+			100 000 000	& おく & 億 &  &  \\
+			\bottomrule
+		\end{tabular}
+	\end{table}
+
+	\vspace{5pt}
+	Pogledamo li pomno veće brojeve, uočit ćemo da je svaki sljedeći imenovani broj 10 000 puta (4~nule) veći od prethodnog. U hrvatskom jeziku, imenovani brojevi uvećavaju se za po 1000 puta (3~nule). Ovo je u početku poprilično neugodna stvar na koju će se trebati naviknuti jer veći brojevi osim prevođenja zahtjevaju i preračunavanje u glavi.
+
+	\newpage
+	\fukudai{Kombiniranje u veće brojeve}
+	
+	Osnovni princip po kojem se brojevi čitaju identičan je onom u hrvatskom jeziku. Kao i kod nas, pri spajanju se ponekad događaju glasovne promjene, a broj se izgovara od najveće znamenke prema nižima bez ikakvih iznenađenja. Pogledajmo nekoliko primjera:
+	
+	\begin{reibun}
+		\rei{四十二}{četrdeset dva}
+		\rei{三百六十四}{tristo šezdeset četiri}
+		\rei{五千六百三十三}{pet tisuća šesto trideset tri}
+	\end{reibun}
+
+	Gledajući znakove vjerojatno bismo mogli odrediti o kojem se broju radi, no čitanje je dodatno zakomplicirano glasovnim promjenama. U tablici ispod navedene su kombinacije koje se mijenjaju. Za brojeve iznad tisuću (まん, おく) glasovne promjene se ne događaju.
+	
+	\vspace{5pt}
+	\begin{table}[h]
+		\centering
+		\begin{tabular}{r l r r r}\toprule[2pt]
+			rimski & osnovno čitanje & 十 (じゅう) & 百 (ひゃく) & 千 (せん)\\
+			\midrule
+			1			& いち & $\varnothing$ & $\varnothing$ & \colorbox{blue!10}{いっ.せん} \\
+			2			& に & に.じゅう & に.ひゃく & に.せん \\
+			3			& さん & さん.じゅう & \colorbox{blue!10}{さん.びゃく} & \colorbox{blue!10}{さん.ぜん} \\
+			4			& よん & よん.じゅう & よん.ひゃく & よん.せん \\
+			5			& ご & ご.じゅう & ご.ひゃく & ご.せん \\
+			6			& ろく & ろく.じゅう & \colorbox{blue!10}{ろっ.ぴゃく} & ろく.せん \\
+			7			& なな & なな.じゅう & なな.ひゃく & なな.せん \\
+			8			& はち & はち.じゅう & \colorbox{blue!10}{はっ.ぴゃく} & \colorbox{blue!10}{はっ.せん} \\
+			9			& きゅう & きゅう.じゅう & きゅう.ひゃく & きゅう.せん \\
+			\bottomrule
+		\end{tabular}
+	\end{table}
+	
+\end{document}
