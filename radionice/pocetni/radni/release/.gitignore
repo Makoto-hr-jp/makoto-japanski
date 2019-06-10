@@ -1,4 +1,0 @@
-*.synctex
-*.synctex.gz
-**/tex_aux
-!*.pdf
