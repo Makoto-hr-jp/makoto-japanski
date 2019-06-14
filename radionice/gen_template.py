@@ -9,6 +9,8 @@ import os
 
 __subfolder = "lekcije"
 
+__ignorable = "*.synctex\n*.synctex.gz\n**/tex_aux\n!*.pdf"
+
 """
 @what:  ID check
 @why:   enforce naming rule - ID in {0..999}
@@ -68,6 +70,9 @@ def generate_template(lesson_ID, lesson_name, group, author, title):
     l_folder = f"{ID}_{lesson_name}"
     folder = f"{g_folder}/{__subfolder}/{l_folder}"
     os.mkdir(folder)
+    os.mkdir(f"{folder}/release")
+    with open(f"{folder}/release/.gitignore", "w", encoding = "utf-8") as f:
+        f.write(__ignorable)
     print("OK")
     
     print("generating templates...", end = "")
