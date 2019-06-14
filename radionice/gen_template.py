@@ -71,18 +71,18 @@ def generate_template(lesson_ID, lesson_name, group, author, title):
     print("OK")
     
     print("generating templates...", end = "")
-    with open("003_blank.tex") as f:
+    with open("003_blank.tex", encoding = "utf-8") as f:
         source = f.read()
     source = source.replace("../../000_template.tex", "../../../000_template.tex")
     source = source.replace("{autor}", f"{{{author}}}")
     cin = source.replace("{naslov}", f"{{Ciljevi i napomene - {title}}}")
     lst = source.replace("{naslov}", f"{{{title}}}")
     dz = source.replace("{naslov}", f"{{Domaća zadaća - {title}}}")
-    with open(f"{folder}/{ID}_ciljevi_i_napomene.tex", "w") as f:
+    with open(f"{folder}/{ID}_ciljevi_i_napomene.tex", "w", encoding = "utf-8") as f:
         f.write(cin)
-    with open(f"{folder}/{l_folder}.tex", "w") as f:
+    with open(f"{folder}/{l_folder}.tex", "w", encoding = "utf-8") as f:
         f.write(lst)
-    with open(f"{folder}/{ID}_DZ.tex", "w") as f:
+    with open(f"{folder}/{ID}_DZ.tex", "w", encoding = "utf-8") as f:
         f.write(dz)
     print("OK")
 
