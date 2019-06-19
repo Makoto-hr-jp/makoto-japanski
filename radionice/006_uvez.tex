@@ -1,0 +1,129 @@
+% !TeX program = xelatex
+
+\documentclass[12pt]{book}
+
+\usepackage{lineno,changepage,lipsum}
+\usepackage[colorlinks=true,urlcolor=blue]{hyperref}
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\usepackage{tabularx}
+\usepackage{graphicx}
+\setCJKfamilyfont{chanto}{AozoraMinchoRegular.ttf}%
+\setCJKfamilyfont{tegaki}{Mushin.otf}%
+\usepackage[CJK,overlap]{ruby}
+\usepackage{hhline}
+\usepackage{multirow,array,amssymb}
+\usepackage[croatian]{babel}
+\usepackage{soul}
+\usepackage[usenames, dvipsnames]{color}
+\usepackage{wrapfig,booktabs}
+\usepackage{calc}
+\renewcommand{\rubysep}{0.1ex}
+\renewcommand{\rubysize}{0.75}
+\usepackage[margin=50pt]{geometry}
+\usepackage{hyperref}
+\modulolinenumbers[2]
+
+\date{\today}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\makeatletter
+\fancyhead[RE,LO]{rev. \@date 誠}
+\makeatother
+
+\usepackage{pifont}
+\newcommand{\cmark}{\ding{51}}%
+\newcommand{\xmark}{\ding{55}}%
+
+\newcommand{\dosl}{{\normalfont dosl. }}%
+\newcommand{\rem}[1]{{\normalfont #1 }}%
+
+\definecolor{faded}{RGB}{100, 100, 100}
+
+\renewcommand{\arraystretch}{1.2}
+
+%\ruby{}{}
+%$($\href{URL}{text}$)$
+
+\newcommand{\furigana}[2]{\ruby{#1}{#2}}
+\newcommand{\tegaki}[1]{
+	\CJKfamily{tegaki}\CJKnospace
+	#1
+	\CJKfamily{chanto}\CJKnospace
+}
+
+\newcommand{\dai}[1]{
+	\vspace{20pt}
+	\large
+	\noindent\textbf{#1}
+	\normalsize
+	\vspace{20pt}
+}
+
+\newcommand{\fukudai}[1]{
+	\vspace{10pt}
+	\noindent\textbf{#1}
+	\vspace{10pt}
+}
+
+\newenvironment{bunshou}{
+	\vspace{10pt}
+	\begin{adjustwidth}{1cm}{3cm}
+	\begin{linenumbers}
+}{
+	\end{linenumbers}
+	\end{adjustwidth}
+}
+
+\newenvironment{reibun}[1][]{
+	\vspace{10pt}
+	#1
+	
+	\begin{tabular}{l l}
+}{
+	\end{tabular}
+	\vspace{10pt}
+}
+\newcommand{\rei}[2]{
+	#1&\textit{#2}\\
+}
+\newcommand{\reinagai}[2]{
+	\multicolumn{2}{l}{#1}\\
+	\multicolumn{2}{l}{\hspace{10pt}\textit{#2}}\\
+}
+
+\newenvironment{mondai}[1]{
+	\vspace{10pt}
+	\noindent #1
+	
+	\begin{enumerate}
+		\itemsep-5pt
+	}{
+	\end{enumerate}
+}
+
+\newenvironment{hyou}{
+	\begin{itemize}
+		\itemsep-5pt
+	}{
+	\end{itemize}
+	\vspace{10pt}
+}
+
+\newcommand{\juuyou}[2][20pt]{
+	\vspace{5pt}
+		\noindent\hspace{#1}\parbox[c]{\textwidth-#1-#1}{\centering\textit{#2}}
+	\vspace{5pt}
+}
+
+\newcommand{\ten}{
+	\vspace{5pt}
+	\noindent\hspace{-10pt}$\bullet$
+}
+
+\CJKfamily{chanto}\CJKnospace
+
+\frenchspacing
