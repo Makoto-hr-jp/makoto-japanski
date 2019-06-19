@@ -67,5 +67,3 @@ def get_lesson_data(top_folder):
 """
 def generate_book(top_folder):
     lessons = get_lesson_data(top_folder)
-
-lessons = get_lesson_data("pocetni/lekcije")
