@@ -31,7 +31,7 @@
 \fancyhf{}
 \fancyhead[LE,RO]{\thepage}
 \makeatletter
-\fancyhead[RE,LO]{rev. \@date 誠}
+\fancyhead[RE,LO]{\the\year 誠}
 \makeatother
 
 \usepackage{pifont}
@@ -122,6 +122,13 @@
 \newcommand{\ten}{
 	\vspace{5pt}
 	\noindent\hspace{-10pt}$\bullet$
+}
+
+\newcommand{\fakesection}[1]{%
+	\par\refstepcounter{section}% Increase section counter
+	\sectionmark{#1}% Add section mark (header)
+	\addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}% Add section to ToC
+	% Add more content here, if needed.
 }
 
 \CJKfamily{chanto}\CJKnospace
