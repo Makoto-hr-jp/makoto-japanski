@@ -1,0 +1,2544 @@
+% !TeX document-id = {b4887dde-e609-4a59-9410-7381e7edd1d7}
+% !TeX program = xelatex ?me -synctex=0 -interaction=nonstopmode -aux-directory=../tex_aux -output-directory=./release
+\input{../../006_uvez.tex}
+\usepackage{tikz}
+\usepackage{xcolor}
+\usepackage{wasysym}
+\title{Skripta}
+\author{Tomislav Mamić, Željka Ludošan}
+\begin{document}
+
+{\let\cleardoublepage\clearpage
+\maketitle
+\tableofcontents}
+\newpage
+\fakesection{Uvod u radionice japanskog jezika}
+
+	\dai{Uvod u radionice japanskog jezika}
+	
+	\fukudai{Cilj radionica}
+	
+	Učenje japanskog je posao za cijeli život, a ove početne radionice trebale bi vam služiti kao pomoć pri prvim koracima na tom putu. Osim uvoda u pismo, glasovni sustav i gramatiku, na radionicama ćemo se dotaknuti i kulturno-povijesnih tema, kao i dobrih strategija za samostalno učenje koje su primjenjive ne samo na japanski jezik nego i šire.
+	
+	\fukudai{Organizacija}
+	
+	Radionice su ugrubo podijeljene na teme koje sadrže nekoliko predavanja. Svaki tjedan započinje predavanjem koje služi kao uvod u samostalni rad. Na vama je odgovornost da preko tjedna uložite nešto svog vremena u vježbu i istraživanje novih stvari o kojima pričamo na predavanju.
+	
+	\fukudai{Domaće zadaće}
+	
+	U samostalnom radu vodit će vas domaće zadaće koje su sastavni dio predavanja i kao takve su obavezne. Osim što vam daju uvid u to koliko ste dobro savladali novo gradivo, zadaće služe i predavačima kako bismo mogli ponavljati stvari koje su bile teške ili nejasne i brže prijeći preko stvari koje su svima bile jasne i lagane.
+	
+	\dai{Obilježja japanskog jezika}
+	
+	\fukudai{Zvuk}
+	\begin{hyou}
+		\item 5 samoglasnika sličnih hrvatskim
+		\item \textasciitilde15 suglasnika od kojih većina ima hrvatski ekvivalent
+		\item suglasnici se nikad ne pojavljuju sami - uvijek u paru suglasnik+samoglasnik
+		\item moraički jezik (hrv. je slogovni) - svaka mora jednako traje
+		\item sa svim varijacijama, u japanskom postoji jedva nešto više od 100 različitih mora - manje jedinstvenih kombinacija za riječi
+		\item more mogu imati uzlazni ili silazni naglasak
+		\item naglasak jako varira od narječja do narječja
+	\end{hyou}
+
+	\fukudai{Pismo}
+	\begin{hyou}
+		\item paralelno se koriste 3 pisma:
+		\begin{itemize}
+			\itemsep-5pt
+			\item hiragana - ひらがな
+			\item katakana - カタカナ
+			\item kanji - 漢字
+		\end{itemize}
+		\item hiragana i katakana su glasovna pisma - simboli predstavljaju izgovor
+		\item kanji znakovi su ideogrami - ne predstavljaju izgovor nego značenje
+		\item ne postoje razmaci - granice među riječima vidimo iz prijelaza među pismima
+	\end{hyou}
+
+	\fukudai{Gramatika}
+	\begin{hyou}
+		\item dosta jednostavnija nego hrvatska, ali \textbf{potpuno} drugačija
+		\item aglutinativni (\textit{ljepljiv}) jezik - na riječi se dodaju predmetci i nastavci
+		\item ne postoje rod ni broj, a funkciju padeža nose čestice (imenice su nepromjenjive riječi)
+		\item odnos imenskih riječi u rečenici određuju čestice
+		\item postoje samo dva glagolska vremena - prošlost i neprošlost
+		\item glagoli uvijek na kraju rečenice (SOP, hrvatski je standardno SPO)
+		\item jedine promjenjive riječi su glagoli i i-pridjevi
+		\item granica između glagola i pridjeva je jako tanka
+		\item imenice imaju razne posebne uloge koje u hrvatskom nemaju
+	\end{hyou}
+
+	\fukudai{Kratka povijest}
+	\begin{hyou}
+		\item slično kao i kod slavenskih jezika, japanski također jako dugo nije imao pismo
+		\item pretpostavlja se da se jezik počeo razvijati prije otprilike 2200 godina, te da su ga donijeli doseljenici
+		\item u 8. st. započinje kulturna razmjena s Kinom - uvoz pisma
+		\item u početku se koriste samo kanji ideogrami koji nisu dobro prilagođeni za japanski jezik
+		\item velik utjecaj kineske književnosti na razvoj japanskog jezika
+		\item kasnije dvorske žene razvijaju svoje jednostavnije fonetsko pismo (hiragana)
+		\item kroz srednji i rani novi vijek događaju se razna pojednostavljenja fonetike
+		\item u 19. i 20. st. jezik počinje sličiti današnjem japanskom
+		\item poslije 2. svj. rata poslijednja veća reforma jezika - pojednostavljen sustav pisanja i određen standardni skup kanji znakova
+		\item poslije 2. svj. rata velik priljev stranih riječi, pretežno iz engleskog jezika
+	\end{hyou}
+
+	\fukudai{Pristojnost i poštovanje}
+	\begin{hyou}
+		\item vrlo važni kulturni koncepti - imaju velik utjecaj na jezik
+		\item relativni društveni položaj govornika i sugovornika određuje način na koji govore
+		\item mlađi, neiskusniji i oni niže u hijerarhiji se svojim nadređenima uvijek pristojno obraćaju
+		\item prijatelji i članovi obitelji međusobno razgovaraju kolokvijalno
+		\item u službenim situacijama koristi se način govora koji sugovorniku iskazuje poštovanje
+	\end{hyou}
+\newpage
+\fakesection{Glasovni sustav japanskog - hiragana}
+
+	\dai{Glasovni sustav japanskog - hiragana}
+	
+	\fukudai{Organizacija glasova}
+	
+	U japanskom jeziku glasovi dolaze u \textit{m\={o}rama} (jap. はく - \textit{otkucaj}). M\={o}ra je izgovorna jedinica slična slogu, no za razliku od slogova, m\={o}rama se duljina nikad ne mijenja. Iako su m\={o}re uvijek jednake duljine, ovisno o riječi i situaciji ćemo im mijenjati visinu tona (npr. kraj upitne rečenice vs. izjavne).
+	
+	M\={o}re dolaze u skupu jednog suglasnika i jednog samoglasnika ili samo jednog samoglasnika. M\={o}ore mogu nositi naglaske baš kao što u hrvatskom jeziku jedan slog sadrži jedan naglasak. Zbog same prirode jezika i zbog gore navedenih razloga, u japanskom jeziku je nemoguće napisati riječi koje sadrže više uzastopnih suglasnika u svom sastavu kao na primjer riječ "stol". U riječi "stol" je jedino moguće napisati "to" jer je jedini dio riječi koji sadrži suglasnik i samoglasnik jedan za drugim.
+	
+	Postoji samo jedna "iznimka" u japanskom jeziku, a to je hiragana ん (\textit{n}, \textit{ŋ}, \textit{m}) koji nije niti samoglasnik niti suglasnik zbog svoje prirode izgovora, i koji nikad ne može započeti riječ. Izgovara se tako da zrak izlazi kroz nos pa se zato zove i nazalni\footnotemark[1] glas.
+	
+	\footnotetext[1]{od lat. nasus - \textit{nos}}
+	
+	\fukudai{Zapis glasova}
+	
+	Japanski jezik ne zapisuje pojedinačne glasove nego m\={o}re. U tablici ispod nalazi se 46 osnovnih znakova pisma hiragana. M\={o}re u istom stupcu počinju istim suglasnikom, one u istom redu završavaju istim samoglasnikom. Jedina iznimka ovome je ranije spomenuti ん.
+	
+	\setlength{\tabcolsep}{10pt}
+	\vspace{10pt}
+	\begin{tabular}{|r|c|c|c|c|c|c|c|c|c|c|c|}
+		\hline
+		&\textasciitilde&k&s&t&n&h&m&y&r&w&\textasciitilde\\
+		\hline
+		a&あ&か&さ&た&な&は&ま&や&ら&わ&ん\\
+		i&い&き&$^a$し&$^b$ち&に&ひ&み&&り&&\\
+		u&う&く&す&$^c$つ&ぬ&$^d$ふ&む&ゆ&る&&\\
+		e&え&け&せ&て&ね&へ&め&&れ&&\\
+		o&お&こ&そ&と&の&ほ&も&よ&ろ&を&\\
+		\hline
+	\end{tabular}
+	\setlength{\tabcolsep}{6pt}
+	
+	\fukudai{Izgovor glasova}
+	
+	\noindent\ten あ・い・う・え・お
+	
+	Samoglasnici se, izuzev \textit{u}, izgovaraju gotovo kao i u hrvatskom. Glas \textit{u} je u japanskom znatno plići (jezik je blizu nepcu) i "spljošten" (usne su u prirodnom položaju, ne zaokružene) u odnosu na hrvatski. Glasovi \textit{e} i \textit{i} su također nešto plići (japanski glasovi su općenito takvi, ali razlike su najuočljivije na \textit{u} i \textit{e}).
+	
+	\vspace{5pt}
+	\noindent\ten か・き・く・け・こ
+	
+	Suglasnik \textit{k} je identičan hrvatskom, zajedno sa svojim zvučnim parom \textit{g}. Zvučnost se označava dijakritičkim znakom \textit{tenten} (dosl. točka-točka ili zarez-zarez, službeno 濁点・だくてん) kao u primjerima u nastavku:
+	
+	\begin{tabular}{l l l l}
+		か&\textit{ka}&が&\textit{ga}\\
+		く&\textit{ku}&ぐ&\textit{gu}\\
+		こ&\textit{ko}&ご&\textit{go}\\
+	\end{tabular}
+
+	\vspace{5pt}
+	\noindent\ten さ・し・す・せ・そ
+	
+	Iako je glas \textit{s} isti kao u hrvatskom, zbog sitne razlike u izgovoru glasa \textit{i}, u m\={o}ri \textit{si} dolazi do palatalizacije. Nastali glas se u eng. zapisu zapisuje kao \textit{shi}, a izgovara se kao mekša verzija hrvatskog š. Ova promjena utječe na izgovor m\={o}re $^a$し.
+	
+	Kao i u hrvatskom, zvučni par \textit{s} je glas \textit{z} koji ispred \textit{i} zbog palatalizacije prelazi u \textit{đ}. Ovo utječe na izgovor じ. U eng. zapisu, budući da nemaju slovo \textit{đ}, pišu \textit{ji}. U japanskom glas \textit{z} ima blagu primjesu glasa \textit{d}.
+	
+	\vspace{5pt}
+	\noindent\ten た・ち・つ・て・と
+	
+	Glas \textit{t} ima svoj zvučni par \textit{d} kao i u hrvatskom. Oba se glasa ispred \textit{i} palataliziraju u \textit{ć} i \textit{đ}, što utječe na izgovor znakova $^b$ち i ぢ. Valja uočiti kako je izgovor znakova じ i ぢ identičan. Izuzev rijetkih slučajeva glasovnih promjena u kojima drugi od dva uzastopna ち prelazi u ぢ, \textbf{uvijek koristimo じ}.
+	
+	Zbog velike razlike u izgovoru glasa \textit{u}, \textit{t} se ispred \textit{u} izgovara kao hrvatski glas \textit{c}. Ovo utječe na izgovor znaka $^c$つ. Zvučna verzija prelazi iz \textit{c} u \textit{dz} koji se zbog primjese \textit{d} u jap. glasu \textit{z} ne razlikuje od \textit{z}. Zbog toga je izgovor glasova ず i づ identičan. Kao i u slučaju じ i ぢ, izuzev iznad opisanih glasovnih promjena \textbf{uvijek pišemo ず}.
+	
+	\vspace{5pt}
+	\noindent\ten な・に・ぬ・ね・の、　ま・み・む・め・も
+	
+	Glasovi \textit{n} i \textit{m} ne razlikuju se od hrvatskih.
+	
+	\vspace{5pt}
+	\noindent\ten ら・り・る・れ・ろ
+	
+	Glas \textit{r} znatno se razlikuje od hrvatskog. U hrvatskom \textit{r}, vrh jezika je usmjeren prema gore što mu omogućuje da "vibrira". Ovo omogućuje korištenje hrvatskog \textit{r} kao jezgre sloga (npr. \textit{prst}). U japnskom \textit{r}, vrh jezika je gotovo paralelan s nepcem što ga čini sličnim glasovima \textit{t}, \textit{d} i \textit{l}. S obzirom da u japanskom glas \textit{l} ne postoji, mnogi japanci ne razlikuju \textit{r} i \textit{l}.
+	
+	\vspace{5pt}
+	\noindent\ten は・ひ・ふ・へ・ほ
+	
+	Ispred \textit{u}, dolazi do pomaka glasa \textit{h} prema naprijed što ga po zvuku čini sličnim glasu \textit{f}. U eng. zapisu će zbog toga znak ふ biti pisan kao \textit{fu}, međutim hrvatski (a i engleski) glas \textit{f} \textbf{ne odgovara} japanskom izgovoru. U hrvatskom je glas \textit{f} zubnousneni (gornji zubi dodiruju gornju usnu), ali u japanskom ostaje potpuno otvoren pa je po zvuku negdje \textbf{između hrvatskih \textit{f} i \textit{h}}.
+	
+	U japanskom se glasovi \textit{h}, \textit{b} i \textit{p} po zvučnosti grupiraju u jedan skup, gdje se \textit{h} smatra bezvučnom, \textit{p} poluzvučnom\footnotemark[2], a \textit{b} zvučnom varijantom. Zvučnost se označava kao i kod ostalih znakova, a za poluzvučnost (glas \textit{p}) koristi se oznaka \textit{maru} (dosl. \textit{kružić}, službeno 半濁点・はんだくてん).
+	
+	\footnotetext[2]{Budući da u hrvatskom nemamo \textit{poluzvučne} glasove, ovo je doslovni prijevod japanskog 半濁音(はんだくおん).}
+	
+	\vspace{5pt}
+	\noindent\ten や・ゆ・よ
+	
+	Glas \textit{j} u ovim znakovima identičan je hrvatskom. Treba paziti pri čitanju latiničnog zapisa jer se u eng. notaciji zvuk hrvatskog \textit{j} zapisuje znakom \textit{y}, a \textit{j} iz eng. notacije je hrvatski zvuk \textit{đ}.
+	
+	\vspace{5pt}
+	\noindent\ten わ・を
+	
+	Ovi zvukovi predstavljaju dvoglase \textit{wa} i \textit{wo}. U modernom japanskom, dvoglas \textit{wo} se više ne koristi (izgovara se kao \textit{o}), ali je znak を zadržan kao gramatička oznaka. U hrvatskom se suglasnik \textit{w} ne pojavljuje, ali izgovor je između glasova \textit{u} i \textit{o}.
+	
+	\fukudai{Dvoglasi iz \textit{i}}
+	
+	Osim kao samostalni znakovi, や, ゆ i よ se mogu pojaviti kao "mali znakovi" iza drugih znakova hiragane koji završavaju samoglasnikom \textit{i}. U tom slučaju dolazi do dvoglasa\footnotemark[3]\footnotetext[3]{Dva uzastopna samoglasnika izgovorena tako da se prvi "prelije" u drugi.} u m\={o}rama u kojima nema glasovnih promjena. U m\={o}rama し, じ i ち umjesto dvoglasa dolazi do zamjene samoglasnika \textit{i} samoglasnikom \textit{a}, \textit{u} ili \textit{o}. Pogledajmo primjere ispod:
+	
+	\begin{tabular}{l l l | l l l}
+		jap.&hr.&eng.&jap.&hr.&eng.\\
+		きゃ&\textit{kja}&\textit{kya}&しょ&\textit{\'{s}o}&\textit{sho}\\
+		りょ&\textit{rjo}&\textit{ryo}&じゅ&\textit{đu}&\textit{ju}\\
+		にゃ&\textit{nja}&\textit{nya}&ちゃ&\textit{ća}&\textit{cha}\\
+	\end{tabular}
+
+	\fukudai{Glotalna\footnotemark[4]\footnotetext[4]{lat. \textit{glotis} - \textit{glasnice}} stanka っ}
+	
+	Mali znak っ (jap. 促音・そくおん) označava pauzu - prekid toka zraka kroz glasnice jezikom. U eng. zapisu piše se kao ponovljeni suglasnik (npr. がっこう$\rightarrow$\textit{gakkou}) pa ga nekad zovu i \textit{double consonant}. Međutim, taj naziv je potpuno besmislen u kontekstu japanskog jezika i treba ga izbjegavati. Pojavljuje se ili kao dio riječi ili kao rezultat glasovne promjene.
+	
+	\fukudai{Dugi samoglasnici}
+	
+	U japanskom je česta pojava produljenja samoglasnika. Dugi samoglasnici nastaju kad se iza more koja završava nekim samoglasnikom pojavi još jedna mora koja sadrži samo taj isti samoglasnik, ili iznimno u sljedećim situacijama:
+	
+	\vspace{5pt}
+	\begin{tabular}{l l}
+		\textit{ei}$\rightarrow$\textit{ee} & せんせい (\textit{učitelj}) $\rightarrow$ \textit{sens\={e}}\\
+		\textit{ou}$\rightarrow$\textit{oo} & おうさま (\textit{kralj}) $\rightarrow$ \textit{\={o}sama}\\
+	\end{tabular}
+
+	\vspace{5pt}
+	Tako ćemo na primjer riječ きょう (\textit{danas}) pročitati kao \textit{kjo.o}, koristeći točku da odvojimo m\={o}re.
+	
+	\fukudai{Vježba}
+	
+	\begin{tabular}{p{200pt} p{200pt}}
+		\begin{mondai}{Pročitajte sljedeće riječi:}
+			\item ねこ \textit{mačka}
+			\item いぬ \textit{pas}
+			\item しゅくだい \textit{domaća zadaća}
+			\item せんぱい (nema dosl. prijevoda)
+			\item がっこう \textit{škola}
+			\item とうきょう \textit{Tokio}
+			\item きょうと \textit{Kyoto}
+		\end{mondai}
+		&
+		\begin{mondai}{Zapišite sljedeće riječi hiraganom:}
+			\item \textit{to.ri} - \textit{ptica}
+			\item \textit{mo.ri} - \textit{šuma}
+			\item \textit{shu.mi} - \textit{hobi}
+			\item \textit{shi.n.pa.i} - \textit{briga/zabrinutost}
+			\item \textit{a.sa.t.te} - \textit{preksutra}
+			\item \textit{O.o.sa.ka}
+			\item \textit{To.u.ka.ma.chi}
+		\end{mondai}\\
+	\end{tabular}
+	
+	Bonus bodovi: とくしゅそうたいせいりろん
+	
+\newpage
+\fakesection{Imenice i pokazne zamjenice}
+
+
+	\dai{Imenice i pokazne zamjenice}
+	
+	\fukudai{Imenice}
+	
+	Imenice u japanskom su nepromjenjive riječi bez roda, broja i padeža kojima imenujemo bića, stvari, pojave, pojmove, pa čak i radnje. Imenice se mogu opisivati i koristiti za opisivanje drugih imenica, a na sebe mogu ljepiti razne nastavke. Zamjenice u japanskom se gramatički ponašaju kao imenice.
+
+Naučimo neke česte imenice:
+\vspace{10pt}
+
+	\begin{tabular}{|l|l|}
+		\hline
+		ねこ&mačka\\\hline
+	\end{tabular}
+	\vspace{10pt}
+	
+	Sad kad smo to rješili, možemo na ostale manje bitne:
+	
+	\vspace{10pt}
+	\begin{tabular}{|l|l|l|l|l|l|}
+		\hline
+		しょくぶつ&biljke&どうぶつ&životinje&くだもの&voće\\\hline
+		き&drvo&とり&ptica&りんご&jabuka\\\hline
+		かわ&rijeka&にわとり&kokoš&はな&cvijet\\\hline
+		こうえん&park&いぬ&pas&なし&kruška\\\hline
+		は&list&うし&krava&うめ&šljiva\\\hline
+		つち&zemlja&むし&kukac&いちご&jagoda\\\hline
+		いえ&kuća&いろ&boja&ぶどう&grožđe\\\hline
+		にわ&dvorište&うま&konj&すいか&lubenica\\\hline
+	\end{tabular}
+
+	
+	\vspace{10pt}
+	I za kraj, najčešća zamjenica:
+	
+	\vspace{10pt}
+	\begin{tabular}{|l|l|}
+		\hline
+		わたし&ja\\\hline
+	\end{tabular}
+	\vspace{10pt}
+
+	
+	\fukudai{Pokazne zamjenice - これ、それ、あれ\footnotemark[1]}
+
+	Pokazne zamjenice これ、それ、あれ ponašaju se kao imenice i koriste se za ukazivanje na neku stvar, osobu, događaj ili čak apstraktan pojam. U japanskom jeziku pokazne zamjenice veoma ovise o tome koliko je stvar na koju se ukazuje udaljena od govornika.
+	
+	\vspace{10pt}
+	\begin{tabular}{|l|l|l|}
+		\hline
+		これ&ovo&ukazuje na nešto što je relativno blizu govorniku\\\hline
+		それ&to&ukazuje na nešto što je blizu sugovorniku, a udaljeno od govornika\\\hline
+		あれ&ono&ukazuje na nešto što je udaljeno i od govornika i od sugovornika\\\hline
+	\end{tabular}
+	\vspace{10pt}
+	
+	Zamislimo da u ruci držimo jabuku. Zatim nam dođe netko i pita nas što je to.
+	Tada možemo reći \textit{\underline{これ}　は　りんご　です。 Ovo je jabuka}. Ako tu istu jabuku dodamo toj drugoj osobi tada možemo reći:	\textit{ \underline{それ}　は　りんご　です。 To je jabuka.} Ako smo ukrali tu jabuku i ne želimo da nas ulove možemo baciti jabuku u susjedovo dvorište i reći: \textit{\underline{あれ}　は　りんご　です。Ono je jabuka.}
+	
+	\footnotetext[1]{Iako se これ、それ、あれ i この、その、あの mogu pisati kanji znakovima, u pravilu se pišu hiraganom.}
+	\newpage
+	
+		\fukudai{Posvojna čestica - の}
+	
+	Čestica の može se koristiti u razne svrhe. Kao posvojnu česticu koristimo je za opisivanje imenica i ukazivanje na pripadnost.
+
+	
+	\juuyou[10pt]{<riječ kojom opisujemo>の<riječ koja se opisuje>}
+	
+	\begin{reibun}
+		\rei{はな　の　いろ}{boja cvijeta}
+	\end{reibun}
+	
+	Imenica \textit{boja} opisuje se imenicom \textit{cvijet}, pa tako はな　の　いろ postaje \textit{boja od cvijeta}.
+	
+	\begin{reibun}
+		\rei{かわ　の　むし}{riječni kukac}
+		\rei{き　の　は\footnotemark[2]}{lišće drveća}
+	\end{reibun}
+		
+		
+	Osim imenica mogu se koristiti i pokazne zamjenice, ali tada one mijenjaju oblik u この、　その、　あの.\footnotemark[1]
+
+	\vspace{10pt}
+	\begin{tabular}{|l|l|l|}
+		\hline
+		これの&→&この\\\hline
+		それの&→&その\\\hline
+		あれの&→&あの\\\hline
+	\end{tabular}
+	\vspace{10pt}
+	
+	\begin{reibun}
+		\rei{この　ぶどう}{ovo grožđe}
+		\rei{あの　とり}{ona ptica}
+	\end{reibun}
+		
+
+	Osim općih imenica mogu se koristiti i osobne zamjenice, kao i vlastita imena.
+	
+	\begin{reibun}
+		\rei{わたし　の　ねこ}{moja mačka}
+		\rei{たなか　さん　の　ほん}{Tanakina knjiga}
+	\end{reibun}
+	
+	Također, mogu se koristiti i vremenske oznake.
+	
+	\begin{reibun}
+		\rei{きょう　の　てんき}{vrijeme danas}
+		\rei{らいねん　の　たんじょうび}{rođendan sljedeće godine}
+	\end{reibun}
+	
+	Posvojna zamjenica の može se koristiti za spajanje više međusobno povezanih opisa za redom.
+	
+	\begin{reibun}
+		\rei{この　うま　の　すいか}{lubenica ovog konja}
+	\end{reibun}
+	
+	Ovdje se nalaze dva opisa.  \textit{この　うま ovaj konj} i \textit{うま　の　すいか konjeva lubenica}.
+	
+	\begin{reibun}
+		\rei{たなか　さん　の　ほん　の　おもさ}{težina Tanakine knjige}
+		\rei{この　いえ　の　たかさ}{visina ove kuće}
+	\end{reibun}
+
+
+	\footnotetext[2]{\textit{Lišće drveća} se zapravo češće čita こ の は}
+	
+	\vspace{100pt}
+	\normalsize \textbf{Primjeri za vježbu}
+	
+	\begin{mondai}{Lv. 1}
+		\item たなか　さん　の　ねこ
+		\item この　ほん
+		\item はな　の　いろ
+		\item その　うま
+		\item あの　すいか
+	\end{mondai}
+	
+	\begin{mondai}{Lv. 2}
+		\item は　の　むし
+		\item かわ　の　つち
+		\item こうえん　の　しょくぶつ
+		\item にわ　の　どうぶつ
+	\end{mondai}
+	
+	\begin{mondai}{Lv. 3}
+		\item あの　こうえん　の　き　の　とり
+		\item この　たなか　さん　の　りんご　の　き
+	\end{mondai}
+	
+
+
+
+\newpage
+\fakesection{Osobne zamjenice i oslovljavanje ljudi; čestice と i や}
+
+	\dai{Osobne zamjenice i oslovljavanje ljudi; čestice と i や}
+	
+	\dai{Osobne zamjenice}
+		
+	M - koriste muške osobe, Ž - koriste ženske osobe
+	
+	
+	\begin{tabular}{|l|l|p{400pt}|}
+		\hline
+		わたし&ja&neutralan, formalan, M i Ž\\\hline
+		わたくし&ja&jedan od najformalnijih oblika, M i Ž\\\hline
+		わたくしめ&ja&još formalnije od わたくし i izražava poniznost, M i Ž\\\hline
+		あたし&ja&može zvučati slatko pa ga češće koriste mlađe žene, Ž\\\hline
+		ぼく&ja&donekle neformalni muški, konotaciju djetinjatosti dobije jedino ako je u hiragani, M\\\hline
+		じぶん&ja&pojavljuje se češće zadnje vrijeme u modernom japanskom, M i Ž\\\hline
+		うち&ja&M koriste kada pričaju o svom unutarnjem krugu u malo neformalnijim okolnostima, inače koriste i M i Ž, ali većinom Ž\\\hline
+	\end{tabular}
+	
+	\vspace{10pt}
+	
+		\begin{tabular}{|l|l|l|}
+		\hline
+		あなた&ti&neutralni, kada se piše kanji znakovima tada je formalan, M i Ž\\\hline
+		\end{tabular}
+		
+		
+	\vspace{10pt}
+	
+	あなた koristimo za osobe čije ime ne znamo, žene ponekad od milja koriste あなた kad se obraćaju svome mužu.
+	
+	Korištenje じぶん kao osobne zamjenice 1. lica je u zadnje vrijeme uzelo maha. Prije se koristila u edo periodu uglavnom među vojnicima, a u modernom jeziku se u kansaiju povremeno koristi kao zamjenica za 2. lice. To sve skupa ovu upotrebu čini dosta nespretnom i trebalo bi je izbjegavati.
+	
+	\vspace{10pt}
+	
+	U japanskom jeziku, kada govorimo o sebi, najčešće koristimo neku osobnu zamjenicu poput わたし, a kad govorimo o drugim osobama tada češće koristimo njihovo ime koje na kraju ima priljepljen nastavak (npr.-さん,ともきさん) koji određuje relativnu poziciju u društvenoj hijerarhiji i međusobni odnos.
+	
+	\vspace{10pt}
+	Ako znamo ime osobe, tada koristimo njeno ime. 
+	
+	\vspace{10pt}
+	Pristojnije je reći:
+	\begin{reibun}
+		\rei{\underline{ともきさん}、すいか　が　すき？}{Tomoki, voliš lubenice?}
+	\end{reibun}
+	
+	nego
+	
+	\begin{reibun}
+		\rei{\underline{あなた}、すいか　が　すき？\footnotemark[1]}{Ti voliš lubenice?}
+	\end{reibun}
+
+	\footnotetext[1]{Ovo zvuči kao da žena pita muža - \textit{Dragi, voliš li lubenice?}}
+	
+	\begin{tabular}{|l|l|l|}
+		\hline
+		かれ&on, dečko&neutralni muški\\\hline
+		かのじょ&ona, cura&neutralni ženski\\\hline
+	\end{tabular}
+	
+	\vspace{10pt}
+	
+	かれ　i　かのじょ　koristimo kada pričamo o trećoj osobi čije ime neznamo ili nam je ta osoba glavna tema priče pa ime ne moramo ponavljati. Nikad ne koristimo za osobe koje ne poznamo jer izražavaju bliskost. Umjesto toga koristimo あのかた、あのひと...Osim toga, かれ　i　かのじょ može značiti "cura" i "dečko" u intimnom smislu.
+	
+	\begin{reibun}
+		\rei{\underline{かれ}　の　にっき}{njegov dnevnik}
+		\rei{\underline{わたし}　の　\underline{かのじょ}　の　にっき}{dnevnik moje cure}
+	\end{reibun}
+	
+	\begin{tabular}{|l|l|l|}
+		\hline
+		そなた&ti&pjesnički „ti“, arhaizam\\\hline
+		きみ\footnotemark[2]&ti&koristi se za M i Ž pogotovo kad se stariji obraća puno mlađem od sebe\\\hline
+		あんた&ti&arogantniji, češće koriste Ž nego M\\\hline
+		おまえ&ti&pogrdno, ponekad se koristi među muškim prijateljima, M\\\hline
+		てめぇ&ti&pogrdno, M i Ž\\\hline
+		きさま&ti&pogrdno, nekoć bio izraz keiga, M i Ž\\\hline
+	\end{tabular}	
+	
+	\vspace{10pt}
+	
+	\footnotetext[2]{Osoba koja govori きみ je iznad osobe za koju se to izgovara, ponekad きみ koriste muške osobe kada se obraćaju svojoj jako bliskoj prijateljici}
+	
+		Ako razgovaramo sa osobom koja nam je inferiorna ili na istoj razini tada možemo koristiti inferiorne osobne zamjenice, uz napomenu da one mogu zvučati poprilično nepristojno i uvrijediti osobu.
+		
+		\vspace{15pt}
+	
+	\vspace{10pt}
+	
+	
+	
+	\vspace{10pt}
+	
+	\begin{tabular}{|l|l|p{400pt}|}
+		\hline
+		わたくし&ja&formalni\\\hline
+		おれ&ja&najneformalniji muški, u hiragani ima konotaciju kao da osnovnoškolac priča, M\\\hline
+		わし&ja&gotovo izumrijela riječ, koriste stariji ljudi samo u blizini Hiroshime (ne koriste ju više ni stariji ljudi), sada se koristi kao zezancija i u mangama, M\\\hline
+		わい&ja&koristi se samo u šali\\\hline
+		われ&ja&najčešće se koristi u pisanom tekstu ili formalnim okolnostima kada se obraća grupi, M i Ž\\\hline
+		われわれ&mi&koristi se u formalnim situacijama kada jedna osoba predstavlja grupu, također se može koristiti i われら ali je manje formalno, M i Ž\\\hline
+	\end{tabular}
+
+	\vspace{10pt}	
+	
+	われ i われわれ koriste tvrtke u poslovnim mail-ovima.
+	
+	\vspace{10pt}
+	
+	Bonus:
+	\begin{tabular}{|l|l|l|}
+		\hline
+		せっしゃ&ja&koristili su šoguni\\\hline
+	\end{tabular}
+	
+	\newpage
+	
+	\dai{Nastavci za imena}
+
+	\ten \fukudai{Nastavci vezani uz društevni položaj}
+
+
+
+	-さん	koristimo za nepoznate osobe i osobe prema kojima želimo biti pristojni, te općenito za odrasle osobe. Neke imenice već u sebi imaju nastavak さん i obično iskazuju poštovanje prema onom na što se odnose.
+	
+	
+	\vspace{10pt}	
+	
+	\begin{tabular}{|l|l|}
+		\hline
+		おじょうさん&kćer, mlada dama\\\hline
+		みなさん&svi\\\hline
+		おおやさん&stanodavac, stanodavka\\\hline
+
+	\end{tabular}
+	
+	\vspace{10pt}
+	
+	Kada pričamo o obitelji, koristimo drugačije nazive ovisno o tome da li govorimo o svojoj ili tuđoj obitelji. Kada govorimo o svojoj obitelji, govorimo o ljudima koji pripadaju našem unutarnjem krugu, a kada govorimo o tuđoj obitelji, govorimo o ljudima koji pripadaju vanjskom krugu i sukladno s time postoje drugačiji nazivi za članove obitelji.
+	
+	\vspace{10pt}	
+	
+	\begin{tabular}{|l|l|l||l|l|l|l|l|}
+		\hline
+		unutra& &van&unutra& &van\\\hline
+		ちち&tata&おとうさん&そふ&djed&おじいさん\\\hline
+		はは&mama&おかあさん&そぼ&baka&おばあさん\\\hline
+		あに、あにき&stariji brat&おにいさん&おじ&stric&おじさん\\\hline
+		あね、あねき&starija sestra&おねえさん&おば&teta&おばさん\\\hline
+		おとうと&mlađi brat&おとうとさん&おっと&muž&ごしゅじん\\\hline
+		いもうと&mlađa sestra&いもうとさん&つま&žena&おくさん\\\hline
+	\end{tabular}
+	
+	-さま koristimo za osobe prema kojima želimo iskazati posebno poštovanje i veoma je nepristojno koristiti -さま kada govorimo o sebi jer to daje dojam da imamo jako visoko mišljenje o sebi.
+	
+	\vspace{10pt}
+	
+	\begin{tabular}{|l|l|l|}
+		\hline
+		みなさま&(poštovani) svi\\\hline
+		おきゃくさま&(poštovani) gost, kupac, klijent\\\hline
+		おかあさま&(poštovana) majka\\\hline
+		ひめさま&princeza\\\hline
+		かみさま&bog\\\hline
+	\end{tabular}
+	
+	\vspace{10pt}
+	
+		\fukudai{Intimiziranje stvari sa さん i さま}
+	
+	Japanci ponekad koriste nastavke さん i さま kako bi pokazali poštovanje prema ljudima koji obavljaju neko zanimanje ili opisali nešto što im je drago ili blisko srcu.
+	
+	\vspace{10pt}	
+	
+
+\begin{tabular}{|l|p{400pt}|}
+		\hline
+		ケーキやさん&simpatična slastičarnica koja nam je draga\\\hline
+		てんちょうさん&voditelj trgovine koji se brine za trgovinu i proizvode\\\hline
+		おまわりさん&policajac koji patrolira ulicom i održava mir\\\hline
+		おひさま&sunašce\\\hline
+	\end{tabular}
+
+	\vspace{10pt}	
+	\newpage
+	
+	-ちゃん zvuči djetinjasto, slatko i možemo koristiti među prijateljima. Kada pridodamo ちゃん na kraju nečijeg imena to označava da nam je ta osoba posebno draga. Najčešće se pridodaje curama.
+	
+	\vspace{10pt}	
+	
+	-くん se koristi među prijateljima ili za mlađu osobu. Najčešće se koristi na kraju imena muških osoba, ali ako se koristi za cure tada zvuči ozbiljnije i kao iskaz poštovanja. Često se u poslovnom okruženju nadređeni ovako obraćaju zaposlenicama.
+	
+	\vspace{10pt}
+
+Odrasle osobe će za svoje prijatelje najčešće koristiti -さん.
+
+	\vspace{10pt}
+	
+	-たち dodajemo na osobne zamjenice ili direktno na ime kada želimo govoriti o grupi ljudi i to na način da ga dodamo na ime osobe ili osobnu zamjenicu koja tu grupu predstavlja. Neformalni nastavak od -たち je -ら i koristi se na jednak način, ali zbog toga što zvuči sirovije i koristi se na razne načine, najsigurnije je koristiti -たち.
+
+
+	\begin{reibun}
+		\rei{\underline{ともこたち}　と　いく。}{Idem s Tomoko i njezinima...}
+		\rei{\underline{かのじょたち}　が　さけんだ。}{Zavrištale su.}
+		\rei{\underline{かれら}　が　みえない。}{Ne vidim ih.}
+		\rei{\underline{ぼくら}　が　そうじ　する。}{Mi ćemo počistiti.}
+	\end{reibun}
+
+	\ten \fukudai{Nastavci vezani uz zvanja}
+	
+	Određena zvanja ili pozicije u društvu možemo koristiti kao nastavke na kraju imena, ali i kao imenice same za sebe. U tom slučaju se drugi nastavci na njih ne dodaju.
+	
+	\vspace{10pt}
+	
+	\begin{tabular}{|l|l|}
+		\hline
+		しゃちょう&vlasnik tvrtke\\\hline
+		ぶちょう&direktor odjela\\\hline
+		しゅにん&glavna odgovorna osoba, šef\\\hline
+		せんせい&učitelj, doktor\\\hline
+		せんぱい&iskusnija osoba od koje učite\\\hline
+		てんちょう&voditelj trgovine\\\hline
+	\end{tabular}
+	
+	
+	
+	\begin{reibun}
+		\rei{\underline{たなかしゅにん}、しょるい　を　どうぞ！}{Šefe Tanaka, izvolite papire!}
+		\rei{\underline{おのせんせい}　は　げんき　です　か？}{Je li učitelj Ono u redu?}
+		\rei{\underline{けいこちゃん}　は　\underline{まつだせんぱい}　が　きらい。}{Keiko mrzi Matsudu.}
+	\end{reibun}
+
+\newpage
+
+\dai{Čestice za nabrajanje: と i や}
+
+
+Česticu と koristimo za nabrajanje stvari ili ljudi na način da stavimo と između imenica ili ljudi koje nabrajamo.
+
+
+	\begin{reibun}
+		\rei{Kakva pića voli Matsuda?}{}
+		\rei{ぎゅうにゅう　と　おちゃ　と　みず。}{Mlijeko, zeleni čaj i vodu.}
+		\rei{Matsuda voli točno ta tri pića.}{}
+		\rei{Tko to ide u dućan?}{}
+		\rei{まつだ　と　ももこ。}{Matsuda i Momoko.}
+	\end{reibun}
+	
+	\vspace{10pt}
+
+Česticu や također koristimo za nabrajanje imenica, ali njome nabrajamo stvari koje samo predstavljaju dio u skupini stvari o kojoj pričamo.
+
+	\begin{reibun}
+		\rei{Kakva pića ne voli Matsuda?}{}
+		\rei{さけ\footnotemark[3]　や　ぶどうしゅ　や　あまみず。}{Pića kao što su sake, vino i kišnica.}
+		\rei{Matsuda ne voli ta tri pića i druga slična njima.}{}
+	\end{reibun}
+
+\footnotetext[3]{さけ je naziv za japansko vino od riže, ali može općenito značiti bilo kakvo alkoholno piće.}
+	
+\newpage
+\fakesection{Spojni glagol}
+
+	\dai{Spojni glagol}
+	
+	\fukudai{Teorija}
+
+	Spojni glagol nam omogućuje da izrazimo identitet (npr. \textit{Ono \underline{je} mačka.}), opis (npr. \textit{Nebo \underline{je bilo} plavo.}) ili pripadnost skupini (npr. \textit{Rajčice \underline{su} zapravo voće!}). U japanskom spojni glagol obavlja iste zadaće, ali se, za razliku od hrvatskog glagola \textit{biti}, koristi \textbf{samo kao spojni glagol} dok \textit{biti} ima i drugo značenje - \textit{postojati, biti prisutan}. Zbog toga ćemo morati paziti kad je glagol \textit{biti} spojni glagol, a kad ima svoje pravo značenje.
+	
+	\fukudai{Prošlost, neprošlost i negacija}
+	
+	Za razliku od hrvatskog i engleskog, u japanskom postoje samo dva glagolska vremena - prošlo i neprošlo. Budućnost se izražava kontekstom rečenice i tipom glagola (glagoli radnje su uvijek u budućnosti, a stanja u sadašnjosti), kao recimo u hrv. \textit{sutra idem u Japan} - glagol \textit{idem} je zapravo u prezentu, ali zbog riječi \textit{sutra} to shvaćamo kao plan za sutra - budućnost.
+	
+	Kao i u hrvatskom, glagole možemo negirati. Dok u hrv. za to koristimo pomoćne riječi (npr. \textit{\underline{ne} vidim, \underline{nisam} jeo}...), u jap. je negacija zapravo nastavak glagola, kao i vrijeme. Osim ova dva, postoji još puno raznih glagolskih oblika koji mijenjaju nastavak glagola, i svi se oni nižu određenim redoslijedom.
+	
+	\fukudai{Kolokvijalni i pristojni oblik}
+	
+	\begin{tabular}{|l|r|r|c|r|r|}
+		\cline{1-3}\cline{5-6}
+		&neprošlost&prošlost&&neprošlost&prošlost\\
+		\cline{1-3}\cline{5-6}
+		potvrdno&だ&だった&&です&でした\\
+		\cline{1-3}\cline{5-6}
+		negirano&じゃ\footnotemark[1]ない&じゃ\footnotemark[1]なかった&&では\footnotemark[1]ありません\footnotemark[2]&では\footnotemark[1]ありませんでした\\
+		\cline{1-3}\cline{5-6}
+	\end{tabular}
+
+	\footnotetext[1]{じゃ je skraćeno od では, a は je zapravo čestica teme. Svo ovo skraćivanje i spajanje dogodilo se davno i danas nije podložno gramatičkim promjenama.}
+	\footnotetext[2]{Ponekad se kao pristojan oblik može čuti i じゃないです, ali to u nekim situacijama može zvučati pomalo neobrazovano pa ga je najbolje izbjegavati dok nismo sigurni u pravilan način upotrebe.}
+	
+	\fukudai{Pristojnost}
+	
+	U japanskoj kulturi i jeziku, pristojnost je puno bitnija nego kod nas. Svi predikati imaju svoje pristojne oblike. S prijateljima i obitelji razgovarat ćemo kolokvijalno, ali sa strancima i nadređenima uvijek ćemo koristiti pristojne oblike.
+	
+	Uočit ćemo da su kolokvijalni oblici uvijek kraći od pristojnih - što nam dulje treba da nešto kažemo, to pristojnije.
+	
+	\fukudai{Tema rečenice - čestica は}
+	
+	U hrvatskom jeziku tema je nešto što saznajemo iz sadržaja teksta ili razgovora. U japanskom, tema je gramatički pojam - dio rečenice koji kaže o čemu ta rečenica (a možda i one poslije) govori. Tema se u rečenici označava česticom koja se piše kao は(ha), ali izgovara kao わ(wa)\footnotemark[3].
+	
+	\footnotetext[3]{Uvedeno reformom jezika poslije WW2 radi lakšeg čitanja. Kad bi se pisalo わ, u nekim bi se situacijama imenica i čestica mogle dvoznačno shvatiti kao nastavci glagola.}
+	
+	Kao što ćemo vidjeti, tema je često (ali ne uvijek) i subjekt japanske rečenice, ali između teme i subjekta postoje velike razlike. Znajući kako reći temu, možemo reći i svoje prve potpune rečenice na japanskom!
+	
+	\begin{reibun}
+		\rei{あれは　ねこ　だ。}{Ono je mačka.}
+		\rei{それは　わたしの　かばん　だった。}{To je bila moja torba.}
+		\rei{これは　りんご　じゃない。}{Ovo nije jabuka}
+		\rei{あの　ひとの　なまえは　たけし　じゃなかった。}{Onaj čovjek se nije zvao Takeši.} (dosl. \textit{Ime onog čovjeka nije bilo Takeši.})
+	\end{reibun}
+
+	\begin{mondai}{Pokušajmo sljedeće rečenice prevesti na japanski:}
+		\item \textit{Ono je moja kuća.}
+		\item \textit{To nije cvijet.}
+		\item \textit{Ime ove rijeke je Sava.}
+	\end{mondai}
+
+	Tema rečenice nije ograničena samo na jednu rečenicu. Ako u sljedećim rečenicama ne promijenimo temu, sugovornik će pretpostaviti da nastavljamo pričati o istoj. Također, ako uopće ne kažemo temu, vrlo je često pretpostaviti da smo mi (わたし) tema.
+
+	\fukudai{Subjekt - čestica が}
+	
+	Za razliku od teme, subjekt funkcionira slično kao u hrvatskom - govori točno tko vrši radnju u rečenici. Dok čestica は stavlja naglasak na ono što ćemo reći poslije, čestica が naglašava subjekt kao bitan:
+	
+	\begin{reibun}
+		\rei{わたしは　ねこ　だ。}{Ja sam mačka.}
+		\rei{わたしが　ねこ　だ。}{\textbf{Ja} sam mačka.}
+	\end{reibun}
+	
+	\fukudai{Nadovezivanje na kontekst - čestica も}
+	
+	Osnovna upotreba ove čestice je izbjegavanje ponavljanja nečeg što smo već rekli. Iako se može upotrijebiti u različitim ulogama u rečenici, zasad ćemo je koristiti u ulozi teme ili subjekta:
+	
+	\begin{reibun}
+		\rei{あれは　いぬ　です。}{Ono je pas.}
+		\rei{あれも (いぬ　です)。}{I ono isto.}
+		\rei{すいかは　くだもの　だ。}{Lubenice su voće.}
+		\rei{りんごも (くだもの　だ)。}{I jabuke isto.}
+	\end{reibun}
+
+	Kad želimo za više tema reći istu stvar, možemo ih nabrojati česticom も:
+	
+	\begin{reibun}
+		\rei{りんごも　すいかも　くだもの　です。}{I jabuke i lubenice su voće.}
+		\rei{わたしも　わたしの　ともだちも　こうこうせい　です。}{I ja i moj prijatelj smo srednjoškolci.}
+	\end{reibun}
+
+	\newpage
+	\fukudai{Vježba}
+	
+	\begin{mondai}{\ten Prevedi na hrvatski i promijeni pristojnost na japanskom:}
+		\item PR: まるは　ねこ　です。 $\rightarrow$ まるは　ねこ　だ。\hspace{20pt}\textit{Maru je mačka.}
+		\item わたしは　はやし　だ。
+		\item Savaは　かわの　なまえ　です。
+		\item わたしの　いぬの　なまえは　じゃまたろう　だった。
+		\item あの　はなの　なまえは　「ばら」　でした。
+		\item それは　あなたの　りんご　じゃない。
+		\item かれの　なまえは　たけし　ではありません。
+		\item それは　きんぎょ　じゃなかった。
+		\item わたしの　ともだちの　とりの　なまえは　ぽち　ではありませんでした。
+	\end{mondai}
+
+	\begin{mondai}{\ten Prevedi na japanski pristojno i kolokvijalno:}
+		\item \textit{Fuji je planina}.
+		\item \textit{Lubenice nisu povrće}.
+		\item \textit{Onaj pas je bio moj prijatelj}.
+		\item \textit{Onaj konj nije bio moj prijatelj}. (ovo u jap. ne zvuči bezobrazno jer \textit{konj} nije uvreda)
+	\end{mondai}
+	
+\newpage
+\fakesection{Pridjevi kao imenski predikat}
+
+
+	\dai{Pridjevi kao imenski predikat}
+	
+	Pridjevi u japanskom su vrste riječi koje opisuju imenice i dijelimo ih prema nastavcima na: い、な i の pridjeve. U japanskom je moguće da jedna riječ ulazi u više vrsta riječi, pa su tako な i の pridjevi ujedno i imenice.
+	
+\underline{U rječničkom obliku}, い pridjevi uvijek završavaju na い, dok な i の pridjevi mogu završavati na bilo koji znak.
+
+\fukudai{い pridjevi}
+
+
+Naučimo neke korisne い pridjeve vezane uz boje:
+
+	\vspace{10pt}
+	\begin{tabular}{|l|l|}
+		\hline
+		しろい&bijelo\\\hline
+		くろい&crno\\\hline
+		くらい&tamno\\\hline
+		あかるい&svijetlo\\\hline
+		あおい&plavo, plavo-zeleno, zeleno(svjetlo na semaforu), nezrelo\\\hline
+		あかい&crveno\\\hline
+		きいろい&žuto\\\hline
+	\end{tabular}
+	
+\vspace{10pt}
+Neki korisni い pridjevi vezani uz oblike:
+	
+	\vspace{10pt}
+	\begin{tabular}{|l|l|l|l|}
+		\hline
+		おおきい&veliko&せまい&usko\\\hline
+		ちいさい&malo&ひろい&široko\\\hline
+		まるい&okruglo&ふかい&duboko\\\hline
+		しかくい&četvrtasto&あさい&plitko\\\hline
+	\end{tabular}
+	
+\vspace{10pt}
+Korisni pridjevi koji su slični u hrvatskom, ali bitno različiti:
+	
+	\vspace{10pt}
+	\begin{tabular}{|l|l|}
+		\hline
+		むずかしい&teško (potrebno je mnogo truda)\\\hline
+		おもい&teško (ima veliku težinu)\\\hline
+		ふとい&debelo\\\hline
+		あつい&debelo\\\hline
+		ほそい&tanko\\\hline
+		うすい&tanko, slabo, polu-prozirno\\\hline
+	\end{tabular}
+	
+	\vspace{10pt}
+	ふとい i ほそい se koriste za većinu stvari, uglavnom cilindrične objekte i ljude, dok se あつい i うすい koriste za plosnate stvari i stvari koje su naslagane jedno na drugo.
+
+	
+	\vspace{10pt}
+	I šećer na kraju:
+	
+	\vspace{10pt}
+	\begin{tabular}{|l|l|}
+		\hline
+		かわいい&slatko (za osobe, čupave kućne ljubimce i ostale stvari od kojih možete dobiti infarkt)\\\hline
+		あまい&slatko (okus), naivno\\\hline
+		おもしろい&zanimljivo, zabavno\\\hline
+		すごい&super, odlično (za osobe, situacije, kada se nečemu divite), grozno\\\hline
+		うるさい&(nešto što mi) ide na živce, glasno\\\hline
+	\end{tabular}
+	\vspace{10pt}
+	
+Imenski predikat je onaj predikat koji sadrži pravi glagol već pridjev ili imenicu i spojni glagol.
+
+	\begin{reibun}
+		\rei{その　ねこ　は　\underline{くろい}。}{Ta mačka je crna.}
+		\rei{にほんご　の　べんきょう　は　\underline{むずかしい}。}{Učenje japanskog je teško.}
+		\rei{デスクトップ　ピーシー　は　\underline{おもい}。}{Desktop PC je težak.}
+	\end{reibun}
+	
+	
+	\vspace{10pt}
+	\begin{tabular}{|l||l|l|}
+		\hline
+		\multicolumn{3}{c}{Konjugacije い pridjeva}\\\hline
+		 &Pozitivno&Negativno\\\hline
+		Neprošlost&-い&-くない\\\hline
+		Prošlost&-かった&-くなかった\\\hline
+	\end{tabular}
+
+	\vspace{10pt}
+
+	\begin{reibun}
+		\rei{ほん　が　\underline{あつくなかった}。}{Knjiga nije bila debela.}
+		\rei{\underline{ひくい}　やま　は　\underline{むずかしくない}。}{Niska planina nije teška(za svladati).}
+		\rei{ライブ　が　\underline{すごかった}。}{Live je bio odličan.(Live koncert)}
+	\end{reibun}
+	
+\fukudai{な pridjevi}
+
+な pridjevi su različiti po tome što se drugačije konjugiraju.
+Zovemo ih tako jer im se mora pridodati な kada se nalaze ispred imenice u neprošlom pozitivnom vremenu.
+
+Zanimljiva stvar kod njih je to što se u svim ostalim slučajevima konjugiraju kao imenice, što zapravo i jesu. To znači da se, kada rečenicu završavamo な pridjevom, umjesto nastavka な dodaje spojni glagol kao i kod imenica.\footnotemark[1] Time se sam pridjev pretvara u imenski predikat.
+
+\footnotetext[1]{Iako, u kolokvijalnom jeziku, だ se na kraju ponekad zna izostaviti.}
+
+	\begin{reibun}
+		\rei{きれい　\underline{な}　そら}{lijepo nebo}
+		\rei{そら　は　きれい　\underline{だ}。}{Nebo je lijepo.}
+	\end{reibun}
+
+	\vspace{10pt}
+	\begin{tabular}{|l|l|}
+		\hline
+		すき&drago, svidljivo\\\hline
+		きらい&mrsko\\\hline
+		きれい&lijepo, čisto\\\hline
+		しずか&tiho\\\hline
+		ふくざつ&komplicirano\\\hline
+		かんたん&jednostavno, nekomplicirano\\\hline
+		めんどう&problematično\\\hline
+	\end{tabular}
+\newpage
+	
+		\vspace{10pt}
+	\begin{tabular}{|l||l|l|}
+		\hline
+		\multicolumn{3}{c}{Konjugacije な pridjeva}\\\hline
+		 &Pozitivno&Negativno\\\hline
+		Neprošlost&-な/-だ&-じゃない\\\hline
+		Prošlost&-だった&-じゃなかった\\\hline
+	\end{tabular}
+
+
+	\begin{reibun}
+		\rei{\underline{かんたんな}　もんだい　だ。}{Problem je jednostavan.}
+		\rei{へや　は　\underline{きれい　じゃなかった}。}{Soba nije bila čista.}
+		\rei{\underline{まるい}　め　が　\underline{すき　だ}。}{Sviđaju mi se okrugle oči.}
+	\end{reibun}
+	
+
+\fukudai{の pridjevi}
+
+ の pridjevi su zapravo imenice koje opisuju druge imenice tako da ih se povezuje česticom の. Konjugiraju se kao obične imenice.
+ 
+ 	\vspace{10pt}
+	\begin{tabular}{|l|l|}
+		\hline
+		オレンジ&naranča, narančasto\\\hline
+		みどり&zelenilo, zeleno\\\hline
+		みどりいろ&zelena boja, zelene boje\\\hline
+		むらさき&ljubičasta, ljubičasto\\\hline
+		ピンク&roza, rozo\\\hline
+		はいいろ&siva, boja pepela\\\hline
+	\end{tabular}
+	
+	\vspace{10pt}
+	\begin{tabular}{|l||l|l|}
+		\hline
+		\multicolumn{3}{c}{Konjugacije の pridjeva}\\\hline
+		 &Pozitivno&Negativno\\\hline
+		Neprošlost&-の/-だ&-じゃない\\\hline
+		Prošlost&-だった&-じゃなかった\\\hline
+	\end{tabular}
+	
+	\begin{reibun}
+	\rei{もうふ　は　\underline{むらさき　じゃなかった}。}{Deka nije bila ljubičasta.}
+	\rei{\underline{みどりいろ　だった。}}{Bila je zelene boje.}
+	\rei{\underline{ピンクの}　はな　が　\underline{すき　じゃない}。}{Ne volim rozo cvijeće.}
+	\end{reibun}
+	
+\fukudai{Pristojni oblici}
+
+
+な i の pridjevi, kada se konjugiraju u pristojnom obliku, konjugiraju se isto kao imenice, dok い pridjevi imaju svoja pravila. U negativnom obliku mogu se koristiti -です i -ます oblik, s time da je -ます oblik formalniji od -です.
+
+	\vspace{10pt}
+	\begin{tabular}{|l||l|l|}
+		\hline
+		\multicolumn{3}{c}{Konjugacije な i の pridjeva u pristojnom obliku}\\\hline
+		 &Pozitivno&Negativno\\\hline
+		Neprošlost&-です&-じゃないです/ -じゃありません\\\hline
+		Prošlost&-でした&-じゃなかったです/ -じゃありませんでした\\\hline
+	\end{tabular}
+	
+		\vspace{10pt}
+	\begin{tabular}{|l||l|l|}
+		\hline
+		\multicolumn{3}{c}{Konjugacije い pridjeva u pristojnom obliku}\\\hline
+		 &Pozitivno&Negativno\\\hline
+		Neprošlost&-です&-くないです/ -くありません\\\hline
+		Prošlost&-かったです&-くなかったです/ -くありませんでした\\\hline
+	\end{tabular}
+	
+\vspace{10pt}
+
+
+Ako želite da zvuči još formalnije, možete じゃ pretvoriti u では(čita se kao でわ).
+
+\iffalse
+\fukudai{Opisne zamjenice}
+
+Opisne zamjenice su zamjenice koje opisuju prvu imenicu ispred koje se nalaze.
+
+
+Par čestih opisnih zamjenica:
+
+ 	\vspace{10pt}
+	\begin{tabular}{|l|l|}
+		\hline
+		こんな&ovakvo\\\hline
+		そんな&takvo\\\hline
+		あんな&onakvo\\\hline
+	\end{tabular}
+\vspace{10pt}
+
+	\begin{reibun}
+	\rei{\underline{そんな}　やさい　が　すき　じゃない。}{Ne volim takvo povrće.}
+	\end{reibun}
+
+	
+	\normalsize \textbf{Primjeri za vježbu}
+	
+	\begin{mondai}{Pridjevi}
+		\item あかるい　そら
+		\item そんな　いろ
+		\item かわいくない　おんなのこ
+		\item かれ　は　めんどう　だった。
+		\item くろい　デスクトップ　ピーシー　は　オレンジ　じゃない。
+		\item オレンジ　は　デスクトップ　ピーシー　じゃない。
+		\item おばさん　の　おおきい　ねこ　が　おもくなかった。
+	\end{mondai}
+
+\fi	
+
+\newpage
+\fakesection{Opisni oblik pridjeva}
+
+	\dai{Opisni oblik pridjeva}
+	
+	U prethodnoj smo lekciji naučili što je to imenski predikat i kako se koristi. Naučili smo reći \textit{ona mačka je crna}, a danas ćemo naučiti nešto naizgled jednostavnije - kako reći \textit{crna mačka}.
+	
+	\fukudai{Teorija - opisni oblik}
+	
+	Opisni oblik riječi je onaj kojim ta riječ opisuje imenicu. Opis uvijek prethodi imenici na koju se odnosi. I u hrvatskom jeziku, to je istina za jednostavne slučajeve gdje se radi o jednom ili više pridjeva (npr.\textit{crveni auto}, \textit{lijepi plavi Dunav}). Međutim kad opis nije samo pridjev već cijela zavisna rečenica (npr. \textit{mačka koju sam jučer vidio}), ta rečenica slijedi nakon imenske riječi koju opisuje.
+	
+	U japanskom jeziku, situacija je jednostavnija - kakav god opis bio, uvijek prethodi imenici na koju se odnosi.
+	
+	U tablici ispod dan je opisni oblik い, な i の pridjeva.
+	
+	\begin{table}[h]
+		\centering
+		\begin{tabular}{l l l l}\toprule[2pt]
+			+ neprošlost & + prošlost & - neprošlost & - prošlost\\
+			\midrule
+			\textasciitilde い & \textasciitilde かった & \textasciitilde くない & \textasciitilde くなかった\\
+			いい & よかった & よくない & よくなかった\\
+			\textasciitilde な* & \textasciitilde だった & \textasciitilde じゃない & \textasciitilde じゃなかった\\
+			\textasciitilde の* & \textasciitilde だった & \textasciitilde じゃない & \textasciitilde じゃなかった\\
+			\bottomrule[2pt]
+		\end{tabular}
+	\end{table}
+
+	Vidljivo je da svi oblici osim prvog stupca za な i の odgovaraju kolokvijalnim predikatnim oblicima koje smo naučili u prošloj lekciji. Ovo je dio veće pravilnosti u jeziku koja vrijedi i za glagole, a koja nam omogućuje da na jednostavan način imenicama pridružujemo složene opise. Pridjev いい (\textit{dobro}) u prošlosti je bio よい. Iako se osnovni oblik s vremenom počeo izgovarati kao いい, svi izvedeni oblici dolaze iz よい.
+	
+	\fukudai{Značenje prošlosti i negacije opisnog oblika}
+	
+	U hrvatskom jeziku, pridjevi nemaju prošlost i negaciju pa nije jednostavno odrediti što točno takvi pridjevi u japanskom znače. Pogledajmo neke primjere.
+	
+	\begin{reibun}
+		\rei{しろい　ねこ}{bijela mačka}
+		\rei{たかかった　き}{drvo koje je bilo visoko}
+		\rei{おおきくない　いえ}{kuća koja nije velika}
+		\vspace{5pt} % ovo iz nekog razloga stavlja razmak tek red ispod sljedećeg primjera
+		\rei{あまくなかった　りんご}{jabuka koja nije bila slatka}
+		\rei{しずかな　こうえん}{tihi park}
+		\rei{びょうき　だった　ともだち}{prijatelj koji je bio bolestan}
+		\rei{かんたん　じゃない　もんだい}{zadatak koji nije jednostavan}
+		\rei{きらい　じゃなかった　とり}{ptica koju nisam mrzio\footnotemark[1]}
+	\end{reibun}
+	\footnotetext[1]{U jap. ovakav način govora implicira da je govorniku ptica ipak bila pomalo draga.}
+	
+	Kao što možemo primijetiti u primjerima iznad, prijevod u hrvatskom jeziku je elegantan samo u jednostavnom slučaju gdje pridjev nije ni u prošlosti ni negiran.
+	
+	\newpage
+	\fukudai{Opisivanje ljudi}
+	
+	U hrvatskom jeziku uobičajeno je ljude opisivati pridjevima kao i sve ostale imenske riječi, ali u japanskom to nije uvijek tako. Često se umjesto riječi koja označava osobu opisuju dijelovi tijela povezani s osobinom koja se opisuje.
+	
+	\begin{reibun}
+		\rei{たなかさんは　たかい}{Tanaka je visok \xmark}
+		\rei{たなかさん\underline{は}　せ\underline{が}　たかい。}{Tanaka je visok. \cmark \rem{(dosl. \textit{Tanaka je visokog stasa.})}}
+		\rei{たかぎさん\underline{は}　あし\underline{が}　はやい。}{Takagi je brz. \rem{(brzo trči)}}
+		\rei{すずきさん\underline{は}　あたま\underline{が}　いい。}{Suzuki je pametna. \rem{(dosl. \textit{ima dobru glavu})}}
+		\rei{たかなしさん\underline{は}　め\underline{が}　わるい。}{Takanashi loše vidi. \rem{(dosl. \textit{ima loše oči})}}
+	\end{reibun}
+
+	Valja primijetiti da su rečenice iznad zapravo potpune - pridjevi u njima su u predikatnom obliku. Nadalje, u njima se pojavljuju i čestica は i が. Iako je u odnosu na hrvatski jezik jako neobično, u ovakvim situacijama temu možemo protumačiti kao \textit{Govoreći o}, npr. \textit{Govoreći o Takagiju, noge su mu brze}\footnotemark[2].
+	
+	\fukudai{Opisna rečenica}
+	
+	Ovo je u odnosu na hrvatsku gramatiku poprilično stran koncept pa ćemo ga samo spomenuti, ali moguće je cijelu rečenicu pretvoriti u opis tako da njezin predikat stavimo u opisni oblik:
+	
+	\vspace{10pt}
+	たなかさんは　\underline{あしが　はやい}。 $\rightarrow$ \underline{あしが　はやい}　たなかさん
+	
+	\vspace{10pt}\noindent
+	Rečenica koju smo iskoristili kao opis je あしが　はやい (dosl. \textit{noge su brze}). S obzirom da je s desne strane imenici (たなかさん), ta rečenica postaje njezin opis. Nadalje, u opisnim rečenicama se čestica が koja označava subjekt vrlo često mijenja u の. Ovaj の ima znatno drugačiju ulogu od posvojne čestice na koju smo navikli! Pogledajmo nekoliko primjera:
+	
+	\begin{reibun}
+		\rei{あし(が/の)　はやい　たなかさん}{brzonogi Tanaka}
+		\rei{あたま(が/の)　いい　すずきさん}{pametna Suzuki}
+		\rei{め(が/の)　わるい　たかなしさん}{Takanashi koja loše vidi}
+	\end{reibun}
+
+	\fukudai{Vježba}
+	
+	\vspace{-30pt}
+	\begin{mondai}{}
+		\item くろい　ねこ
+		\item あかくない　とり
+		\item かっこいい　たなかさん
+		\vspace{5pt}
+		\item あの　ねこは　くろかった。
+		\item あれは　あかくない　とり　でした。
+		\item たなかさんは　かっこよくなかった。
+		\vspace{5pt}
+		\item あの　くろい　ねこは　あしが　はやくない。
+		\item あの　あたまの　いい　とりは　あかかった　です。
+		\item あしの　はやくない　たなかさんは　かっこよくなかった。
+	\end{mondai}
+
+	
+	\footnotetext[2]{Ipak ćemo se truditi prevoditi rečenice u oba smjera tako da budu prirodne. Tako bi spomenuti primjer bilo ljepše prevesti kao \textit{Takagi je brzonog} ili \textit{Takagi ima brze noge}. U spomenutom obliku rečenice, čestica が zapravo označava objekt.}
+\newpage
+\fakesection{Glagoli I}
+
+	\dai{Glagoli I}
+	
+	\fukudai{Teorija}
+	
+	Glagoli su, uz い pridjeve, jedina druga promjenjiva vrsta riječi u japanskom. Mijenjaju se dodavanjem nastavaka (ごび - dosl. \textit{rep riječi}). Dodani nastavci mogu na razne načine utjecati na značenje glagola, mijenjajući oblik, vrijeme, pristojnost ili čak vrstu riječi.
+	
+	Osnovni oblik glagola zove se \textbf{rječnički oblik} (じしょけい), jer su glagoli tako pisani u rječniku, a karakteristika mu je da svi glagoli završavaju glasom \textit{u}. Postoji više slogova hiragane koji završavaju tim glasom, ali ne pojavljuju se svi na kraju glagola. Oni koji mogu doći na kraju glagola su く, ぐ, す, ぬ, む, ぶ, う, つ i る.
+	
+	Prema načinu na koji se mijenjaju, glagoli su podijeljeni u sljedeće tri skupine:
+	
+	\begin{table}[h]
+		\centering
+		\begin{tabular}{l r r r}\toprule[2pt]
+			skupina & količina & učestalost & gnjavaža\\
+			\midrule
+			nepravilni & $\approx 1$\% & $\approx 25$\% & $\star\star\star$\\
+			いちだん\footnotemark[1] & $\approx 33$\% & $\approx 25$\% & $\star$\\
+			ごだん\footnotemark[1] & $\approx 66$\% & $\approx 50$\% & $\star\:\star$\\
+			\bottomrule[2pt]
+		\end{tabular}
+	\end{table}
+
+	\footnotetext[1]{Glagoli su klasificirani kao いちだん i ごだん u japanskom obrazovnom sustavu. U starijim udžbenicima za strance, često ih se naziva -ru i -u glagolima. Na radionicama ćemo te nazive izbjegavati jer su potpuno promašeni - oslanjaju se na latinicu, a i postoje ごだん (-u) glagoli koji završavaju na -ru.}
+
+	U repu glagola sadržano je jako puno informacija pa je stoga važno dobro poznavati sve moguće nastavke i oblike. Za početak, naučit ćemo dvije osnovne promjene - prošlost i negaciju.
+	
+	\fukudai{Prošlost i... neprošlost}
+	
+	U japanskom jeziku postoje samo dva eksplicitna glagolska vremena - prošlost i neprošlost. U neprošlom obliku sadržana su značenja budućnosti i prošlosti, a uvijek su jasna iz konteksta i vrste glagola. Dijelimo ih na glagole stanja i glagole promjene - u neprošlom vremenu glagoli stanja označuju sadašnjost (u kontekstu rečenice), a glagoli promjene budućnost (opet u kontekstu rečenice).
+	
+	\vspace{5pt}
+	Kao informacija na repu glagola, vrijeme je \textbf{uvijek na zadnjem mjestu}. Neprošlost poznajemo po zadnjem glasu \textit{u}, a prošlost po た ili だ. Ranije spomenuti rječnički oblik zapravo je kolokvijalni (kratki) neprošli oblik glagola.
+	
+	\fukudai{Negacija}
+	
+	Kao kod い pridjeva, negaciju prepoznajemo po nastavku ない. Kao i ranije, negacija je u repu na predzadnjem mjestu, i može se kombinirati s informacijom o vremenu. Iako u praksi zbog mutne granice između glagola i い pridjeva ova informacija uopće nije bitna, zgodno je primijetiti da se negirani glagol zapravo ponaša kao い pridjev.
+	
+	\newpage
+	\fukudai{いちだん glagoli}
+	
+	Što se tiče količine informacija koju treba zapamtiti, ovo je najlakša skupina glagola. Nužan (ali ne dovoljan) uvjet da bi glagol pripadao ovoj skupini je da završava na glasove -\textit{iru} ili -\textit{eru}. Problem u prepoznavanju ovih glagola je u tome što u ごだん skupini postoje glagoli koji završavaju na る, a ispred imaju glasove \textit{i} ili \textit{e} pa je u općenitom slučaju za takve nemoguće odrediti kojoj skupini pripadaju. U praksi postoje i istozvučni glagoli u obje skupine (npr. きる kao いちだん - \textit{nositi odjeću}, kao ごだん - \textit{prerezati} ili かえる kao いちだん - \textit{promijeniti}, kao ごだん - \textit{vratiti se}), ali ovi primjeri su relativno rijetki pa ih je lako zapamtiti.
+	
+	\begin{table}[h]
+		\centering
+		\begin{tabular}{l l l}\toprule[2pt]
+			& neprošlost & prošlost\\
+			\midrule
+			poz. & \textasciitilde る & \textasciitilde た\\
+			neg. & \textasciitilde ない & \textasciitilde なかった\\
+			\bottomrule[2pt]
+		\end{tabular}
+	\end{table}
+
+	Tablica iznad pokazuje osnovne kombinacije vremena i negacije za いちだん glagole. Ako smo dobro proučili い pridjeve, uočit ćemo da je drugi red identičan onome što već znamo o njima. Pogledajmo neke primjere i njihova značenja.
+	
+	\begin{reibun}
+		\rei{みる}{vidjet/pogledat ću}
+		\rei{みた}{vidio/pogledao sam}
+		\rei{みない}{neću vidjeti/pogledati}
+		\rei{みなかった}{nisam vidio/pogledao}
+	\end{reibun}
+	
+	Uočimo sljedeće:
+	\begin{hyou}
+		\item Glagol u japanskom ne nosi nikakvu informaciju o subjektu - pretpostavili smo da je subjekt \textit{ja} i muškog roda. Ovakve su pretpostavke u japanskom svakodnevne - bitno je znati tko izriče rečenicu.
+		\item みる prevodimo i kao \textit{vidjeti} i kao \textit{pogledati}. Za većinu glagola ne postoji prijevod "jedan za jedan" - situacije u kojima se koriste različite su u odnosu na hrvatski pa nije dovoljno samo naučiti riječ već i kontekst u kojem se prirodno koristi.
+		\item Neprošlost je protumačena kao budućnost. Osim za glagole stanja, ovo je gotovo uvijek tako. Kasnije ćemo naučiti poseban glagolski oblik kojim kažemo da se radnja upravo događa.
+	\end{hyou}
+	
+	\footnotetext[2]{Vid (svršenost) glagola je oblik koji ukazuje na to je li radnja u tijeku ili završena. Neki primjeri: \textit{gledati} - \textit{pogledati}, \textit{jesti} - \textit{pojesti}, \textit{stajati} - \textit{zastati}.}
+	
+	Naučimo neke korisne glagole:
+	
+	\vspace{10pt}
+	\begin{tabular}{l l l l l l}
+		(を) みる & \textit{vidjeti} & (が) みえる & \textit{vidjeti se} & (が) いる & \textit{biti} (za živa bića)\\
+		(を) でる & \textit{izići} & (を) あける & \textit{otvoriti} & (を) しめる & \textit{zatvoriti}\\
+		(が) ねる & \textit{leći, spavati} & (が) おきる & \textit{ustati} & (を) あげる & \textit{dati}, \textit{podići} i još 25 značenja\\
+	\end{tabular}
+
+	\fukudai{Čestica direktnog objekta を}
+	
+	Iako se čita kao お, iz povijesnih i praktičnih razlika, piše se znakom を čiji se izgovor u modernom japanskom ne pojavljuje. Kao i ostale čestice, dolazi na kraju imenica ili imeničkih izraza, a označava objekt glagola. U većini slučajeva odgovara akuzativu u hrvatskom jeziku. Jedna lako uočiva razlika je da se koristi za sredstvo po kojem ili kroz koje se vrši kretnja (npr. いえを　でる - \textit{izići iz kuće}, dosl. \textit{izići kuću}).
+	
+	Glagoli koji mogu imati direktni objekt zovu se prijelazni (eng. \textit{transitive}). U japanskom, za ove je glagole vrlo bitno da je objekt ili izrečen ili prethodno poznat. U hrvatskom, po objektu osim prijelaznih i neprijelaznih postoji i treća kategorija - povratni (eng. \textit{reflexive}). Njih prepoznajemo po povratnoj zamjenici \textit{se} koja im je pridružena (npr. \textit{Vratio je knjigu} $\rightarrow$ prijelazni, \textit{Vratio se} $\rightarrow$ povratni). U japanskom se povratna zamjenica ne koristi na ovaj način. Umjesto nje, značenja povratnih glagola su vrlo često sadržana u neprijelaznim parovima prijelaznih glagola kao u paru みる $\rightarrow$ みえる.
+	
+	\fukudai{Primjeri}
+	
+	\begin{reibun}
+		\rei{りんごを　たべる。}{Pojesti jabuku. / Pojest ću jabuku.}
+		\rei{とりを　みた。}{Vidio sam pticu.}
+		\rei{ほんを　あげない。}{Ne dati knjigu. / Neću dati knjigu.}
+		\rei{いえを　でなかった。}{Nisam izišao iz kuće.}
+		\rei{すずき\footnotemark[3]さんは　まどを　あけた。}{G. Suzuki je otvorila prozor.}
+	\end{reibun}
+
+	\fukudai{Vježba} - prevedite sljedeće rečenice na hrvatski:
+
+	\begin{mondai}{Lv. 1}
+		\item みた。
+		\item たべない。
+		\item あげる。
+		\item あけなかった。
+	\end{mondai}
+
+	\vspace{-10pt}
+	\begin{mondai}{Lv. 2}
+		\item ねこを　みた。
+		\item たけし\footnotemark[4]くんは　たべない。
+		\item りんごを　あげる。
+		\item \underline{はこ}を　あけなかった。
+	\end{mondai}
+
+	\vspace{-10pt}
+	\begin{mondai}{Lv. 3}
+		\item こどもたちは　ねこを　みた。
+		\item たけしくんは　にんじんを　たべない。
+		\item りんごと　みかんを　あげる。
+		\item かれは　はこを　あけなかった。
+	\end{mondai}
+
+	\vspace{-10pt}
+	\begin{mondai}{Lv. 4}
+		\item ちいさい　こどもたちは　くろい　ねこを　みた。
+		\item たけしくんは　きらいな　にんじんを　たべない。
+		\item あかい　りんごと　おいしい　みかんを　あげる。
+		\item かれは　あの　ふるい　はこを　あけなかった。
+	\end{mondai}
+
+	\footnotetext[3]{すずき je prezime i ne govori nam radi li se o muškoj ili ženskoj osobi.}
+	\footnotetext[4]{たけし je muško ime.}
+\newpage
+\fakesection{Glagoli II}
+
+	\dai{Glagoli II}
+	
+	\fukudai{Nepravilni glagoli}
+	
+	Glagole kojima se u na nepredvidiv način osim gramatičkog repa mijenja i korijen (prvi dio riječi) smatramo nepravilnima. U japanskom postoji jako malo takvih glagola. Najčešća četiri dana su u tablici ispod, a ostale nećemo sresti još jako dugo.
+	
+	\begin{table}[h]
+		\centering
+		\begin{tabular}{l l l l l}\toprule[2pt]
+			značenje & poz. neprošlost & poz. prošlost & neg. neprošlost & neg. prošlost\\
+			\midrule
+			\textit{doći} & くる & きた & こない & こなかった\\
+			\textit{raditi}, \textit{činiti} & する & した & しない & しなかった\\
+			\textit{ići} & いく & いった & いかない & いかなかった\\
+			\textit{biti} (za neživo) & ある & あった & ない & なかった\\
+			\bottomrule[2pt]
+		\end{tabular}
+	\end{table}
+
+	Usporedimo li predzadnji i zadnji stupac, uočit ćemo da i za nepravilne glagole vrijedi pravilna tvorba prošlosti negacije (ない $\rightarrow$ なかった). Od četiri iznad navedena glagola, いく je zapravo uljez - izuzev prošlosti i て oblika (kojeg ćemo naučiti nešto kasnije), ponaša se kao ごだん glagol.
+	
+	\fukudai{する glagoli}
+	
+	Naučivši glagol する moguće je izreći puno više od njegovog osnovnog značenja. U japanskom postoji potkategorija imenica koje u kombinaciji s nekim oblikom glagola する funkcioniraju kao glagoli.
+	
+	\begin{reibun}
+		\rei{べんきょう}{učenje}
+		\rei{たけし\footnotemark[1]くんは　べんきょうを　しない。}{Takeši neće učiti.}
+		\rei{そうじ}{čišćenje}
+		\rei{たかぎ\footnotemark[2]さんは　へやを　そうじした。}{G. Takagi je očistio sobu.}
+		\rei{せんたく}{pranje odjeće}
+		\rei{すずき\footnotemark[2]さんは　せんたくを　しなかった。}{G. Suzuki nije oprala rublje.}
+	\end{reibun}
+	\footnotetext[1]{Muško ime.}
+	\footnotetext[2]{Prezime.}
+	
+	Kod する glagola postoji zanimljiva pojava u korištenju čestice を. S obzirom na to kako se tvore, smisleno je reći npr. そうじを　する (dosl. \textit{raditi čišćenje}). Međutim, kad želimo reći da smo očistili \textit{nešto}, čestica を nam treba da bismo označili to \textit{nešto}, pa je smisleno reći \textit{nešto}を　そうじする. Neki する glagoli koriste se pretežno bez čestice を, neki je gotovo uvijek imaju, a postoje i glagoli gdje su oba slučaja jedako česta. Ovo je jedna od stvari koje nema smisla eksplicitno pokušavati učiti - najbolje je pogledati puno primjera i "dobiti osjećaj" za prirodnu upotrebu.
+	
+	\fukudai{Čestica mete i lokacije に}
+	
+	Ova čestica pojavljuje se okvirno u dvije različite upotrebe - kao oznaka lokacije za glagole stanja ili kao cilj/meta glagola radnje. Problem u upotrebi najčešće proizlazi iz razlika u shvaćanju glagola stanja u odnosu na hrvatski jezik - iako se filozofija donekle poklapa, postoje glagoli koji su u hrvatskom aktivni, a u japanskom se izražavaju glagolom stanja i obratno. Da stvar bude zabavnija, jedan dio glagola za lokaciju može koristiti i česticu に i で (lokacija za aktivne glagole). Zbog toga je u početku najbolje glagole učiti zajedno s česticama koje uz njih idu. Većina glagola bit će smislena u odnosu na hrvatski, ali oslonimo li se potpuno na hrvatski "zdravi razum", jedan dio glagola bit će nam jako neintuitivan.
+	
+	\fukudai{Lokacija glagola stanja}
+	
+	Dva prava glagola stanja koje smo dosad naučili su glagoli bivanja いる i ある. Njihova lokacija uvijek je označena s に.
+	
+	\begin{reibun}
+		\rei{いえに　ねこが　いる。}{U kući je mačka.}
+		\rei{はこに　りんごが　あった。}{U kutiji su bile jabuke.}
+	\end{reibun}
+
+	\fukudai{Meta aktivnih glagola}
+	
+	U ovom slučaju, \textit{meta} se može široko shvatiti. Za glagole kretanja, meta je krajnje odredište (hr. lokativ):
+	
+	\begin{reibun}
+		\rei{にほんに　いく。}{Idem u Japan.}
+		\rei{ともだちの　いえに　くる。}{Doći ću kod prijatelja. \normalfont (dosl. \textit{Doći ću do prijateljeve kuće.}\normalfont)}
+	\end{reibun}
+
+	Za glagole u kojima se objekt prenosi, meta je ili polazište ili odredište objekta (hr. dativ):
+	
+	\begin{reibun}
+		\rei{ともだちに　ほんを　あげた。}{Dao sam knjigu prijatelju.}
+		\rei{せんせいは　たけしくんに　ほんを　あげた。}{Učitelj je Takešiju dao knjigu.}
+		\reinagai{せんせいに　ほんを　かりた。}{Posudio sam knjigu od učitelja. (\normalfont ne \textit{Učitelju sam posudio knjigu}!)\footnotemark[3]}
+	\end{reibun}
+
+	\footnotetext[3]{U hrvatskom koristimo jedan glagol za oba smjera posuđivanja (\textit{posuditi nekome} i \textit{posuditi od nekoga}), ali u japanskom su to dva odvojena glagola (かす i かりる).}
+
+	Neki glagoli mogu promijeniti značenje ili konotaciju ovisno o tome koju česticu lokacije koristimo:
+	
+	\begin{reibun}
+		\rei{ゆかに　ねた。}{Legao sam na pod. \normalfont (\textit{pod} je meta)}
+		\rei{ゆかで　ねた。}{Zaspao sam na podu. \normalfont (\textit{pod} je mjesto radnje)}
+	\end{reibun}
+
+	\fukudai{Vježba}
+	
+	\begin{mondai}{Prevedi na hrvatski:}
+		\item すずきさんは　がっこうに　いかなかった。
+		\item かれの　ともだちの　ねこは　いえに　きた。
+		\item にほんごを　べんきょうする。
+		\item かばんに　かぎが　ない。
+		\item やまだ\footnotemark[2]さんは　ともだちに　おかねを　かりた。
+		\item やまださんの　ともだちは　かれに　おかねを　あげた。
+	\end{mondai}
+	
+\newpage
+\fakesection{Glagoli III}
+
+
+\newcommand{\en}[1]{
+	\begin{tikzpicture}[baseline=(C.base)]
+		\node[draw,circle,inner sep=1pt](C){#1};
+	\end{tikzpicture}
+}
+
+	\dai{Glagoli III}
+	
+	\fukudai{ごだん glagoli}
+	
+	Po količini riječi najbrojnija, po nastavcima najšarenija skupina glagola. Završavaju na devet različitih glasova hiragane podijeljenih prema obliku u prošlosti u tri skupine po tri. Zovu se ごだん (dosl. \textit{pet razina}) zbog pet različitih baza za nastavke.
+	
+	\begin{table}[h]
+		\centering
+		\begin{tabular}{l l l l}\toprule[2pt]
+			rječnički oblik & prošlost & negacija & negacija u prošlosti\\
+			\midrule
+			く & いた & かない & \multirow{9}{90pt}{ない $\rightarrow$ なかった}\\
+			ぐ & いだ & がない & \\\vspace{5pt}
+			す & した & さない & \\
+			ぬ & \multirow{3}{30pt}{んだ} & なない & \\
+			む & & まない & \\\vspace{5pt}
+			ぶ & & ばない & \\
+			う & \multirow{3}{30pt}{った} & \en{わ}\hspace{-2pt}ない & \\
+			つ & & たない & \\
+			る & & らない & \\
+			\bottomrule[2pt]
+		\end{tabular}
+	\end{table}
+
+	Prva podskupina ima različite repove za prošlost dok je u druge dvije nastavak isti. U početku nam to može stvarati probleme - vidimo li npr. glagol うった, ne možemo znati radi li se o osnovnom obliku うう (nepostojeća riječ), うつ (\textit{udariti}) ili うる (\textit{prodati}). Jedino rješenje ovog problema je iskustvo. Nasreću, glagoli s kojima bi mogla nastati zabuna obično imaju vrlo različita značenja pa iz konteksta znamo koji je ispravan.
+	
+	Negacija je, iako jedinstvena za svaki od devet nastavaka, opisana vrlo laganim pravilom - zadnji znak hiragane treba promijeniti u varijantu koja na kraju ima samoglasnik \textit{a} i dodati ない. Jedina iznimka (zaokruženo u tablici) su glagoli na う za koje う umjesto u あ prebacujemo u わ.
+	
+	Naučimo neke korisne ごだん glagole.
+	
+	\vspace{10pt}
+	\begin{tabular}{l l l l l l}
+		かく & \textit{napisati} & きく & \textit{čuti}, \textit{pitati} & おく & \textit{ostaviti} (negdje)\\
+		およぐ & \textit{plivati} & いそぐ & \textit{požuriti} & ぬぐ & \textit{skinuti} (odjeću sa sebe)\\\vspace{5pt}
+		はなす & \textit{pričati}/\textit{pustiti} & だす & \textit{iznijeti}, \textit{izbaciti} & さがす & \textit{potražiti}\\
+		しぬ & \multicolumn{5}{l}{\textit{umrijeti} - jedini ぬ glagol u modernom japanskom!}\\
+		よむ & \textit{pročitati} & のむ & \textit{popiti} & やすむ & \textit{odmoriti se}\\\vspace{5pt}
+		よぶ & \textit{dozvati} & とぶ & \textit{poletjeti}/\textit{skočiti} & あそぶ & \textit{igrati se}\\
+		いう & \textit{reći} & かう & \textit{kupiti} & うたう & \textit{pjevati}\\
+		まつ & \textit{pričekati} & もつ & \textit{ponijeti}/\textit{imati} (kod sebe) & たつ & \textit{ustati}\\
+		はしる & \textit{potrčati} & つくる & \textit{izraditi}, \textit{napraviti} & のる & \textit{voziti se}/\textit{jahati}\\
+	\end{tabular}
+
+	\newpage
+	\fukudai{で kao mjesto radnje}
+	
+	Ranije smo naučili da česticu に možemo koristiti kao lokaciju za glagole stanja. Za aktivne glagole, mjesto na kojem se njihova radnja odvija označavamo česticom で. Pogledajmo neke primjere:
+	
+	\begin{reibun}
+		\rei{こうえんで　あそぶ。}{Igrati se u parku.}
+		\rei{いざかやで　さけを　のむ。}{Popiti sake u birtiji.}
+		\rei{でんしゃで　うたう。}{Pjevati u vlaku.}
+	\end{reibun}
+
+	Neki glagoli za koje bismo iz hrvatskog intuitivno očekivali česticu で koriste česticu に. Iz perspektive japanskog, to je sasvim logično, ali dok ne steknemo još malo iskustva, vjerojatno će nam biti čudno.
+	
+	\begin{reibun}
+		\rei{うみに　およぐ。}{Plivati u moru. \normalfont (točno je i うみで　およぐ)}
+		\rei{でんしゃに　のる。}{Voziti se u vlaku.}
+	\end{reibun}
+
+	\fukudai{で kao sredstvo radnje}
+	
+	U hrvatskom, sredstvo radnje označavamo instrumentalom (npr. \textit{pisati olovkom}). Međutim, u hrvatskom instrumentalom označavamo i živa bića s kojima zajedno obavljamo neku radnju (npr. \textit{razgovarati \underline{s} prijateljem}). Između te dvije upotrebe postoji vrlo bitna razlika - ispred živih bića uvijek se pojavljuje \textit{s}, a ispred stvari nikad. To će nam pomoći da znamo kad instrumental u japanski smijemo prevesti česticom で.
+	
+	\begin{reibun}
+		\rei{えんぴつで　かく。}{Pisati olovkom. \cmark}
+		\rei{ともだちで　そうじする。}{Čistiti prijateljem. \xmark}
+	\end{reibun}
+
+	\fukudai{と kao oznaka sudionika}
+	
+	Kako bismo ispravili problem u primjeru iznad, naučit ćemo još jednu upotrebu čestice と. Ranije smo je koristili za nabrajanje, povezujući međusobno imenice. U ovoj upotrebi, čestica と povezuje svoju imenicu s predikatom:
+	
+	\begin{reibun}
+		\rei{ともだちと　そうじする。}{Čistiti s prijateljem. \cmark}
+		\rei{ともだちと　おとうとと　あそぶ。}{Igrati se s prijateljem i mlađim bratom.}
+	\end{reibun}
+
+	\fukudai{と kao oznaka doslovnog citata}
+	
+	Česticu と možemo koristiti i na kraju bilo kakve rečenice ili sintagme da bismo istu označili kao citat. Ovo je vrlo česta upotreba s glagolima čija radnja uključuje neki oblik komunikacije.
+	
+	\begin{reibun}
+		\rei{こうえんで　まつと　すずきさんが　いった。}{G. Suzuki je rekao da će čekati u parku.}
+		\rei{やまださんは　たなかさんに　すきだと　いった。}{G. Yamada je rekao G. Tanaki da mu se sviđa.}
+	\end{reibun}
+
+	\newpage
+	\fukudai{Vježba}
+	
+	\begin{mondai}{Lv. 1}
+		\item かわない。
+		\item かいた。
+		\item だす。
+		\item またない。
+		\item しんだ。
+	\end{mondai}
+
+	\begin{mondai}{Lv. 2}
+		\item あたらしい　くつを　かわない。
+		\item てがみを　かいた。
+		\item ごみを　だす。
+		\item ともだちを　またない。
+		\item とりは　しんだ。
+	\end{mondai}
+
+	\begin{mondai}{Lv. 3}
+		\item あたらしい　くつを　そのみせで　かわない。
+		\item おとうさんに　ながい　てがみを　かいた。
+		\item やまださんは　ごみを　ださなかった。
+		\item たけしくんは　ともだちを　またなかった。
+		\item すずきさんの　きれいな　とりは　しんだ。
+	\end{mondai}
+
+	\begin{mondai}{Lv. 4}
+		\item あたらしい　くつを　そのみせで　かわないと　むらかみさんは　いった。
+		\item *おおさかに　いる　おとうさんに　ながい　てがみを　かいた。
+		\item *ごみを　ださなかった　やまださんは　いえを　でた。
+		\item たけしくんは　おとうとと　ともだちを　まった。
+		
+		ili
+		
+		たけしくんは　ともだちを　おとうとと　まった。
+		
+		U čemu je razlika? :)
+		\item すずきさんの　きれいな　とりは　とりかごで　しんだ。
+	\end{mondai}
+\newpage
+\fakesection{Prilozi}
+
+	\dai{Prilozi}
+	
+	Analogno pridjevima koji opisuju \textbf{kakva} je imenica, prilozi su riječi koje opisuju \textbf{kako} se odvija radnja predikata. Međutim, za razliku od pridjeva koji odgovaraju samo na pitanja o tome kakva je imenica, prilozi o radnji mogu reći nešto više. Ugrubo ih možemo podijeliti na vremenske (\textit{kada}?), mjesne (\textit{gdje}?), načinske (\textit{kako}?) i količinske (\textit{koliko}?).
+	
+	U japanskom osim priloga postoji i posebna kategorija imenica (priložne imenice) koje mogu obavljati sličnu funkciju. O priložnim imenicama ćemo naučiti sljedećih tjedana.
+	
+	\fukudai{Pravi prilozi u japanskom}
+	
+	S obzirom da su povezani direktno s predikatom, mjesto priloga u rečenici nije pretjerano bitno. Običaj ih je staviti ili na početak rečenice ili odmah ispred predikata.
+	
+	\vspace{10pt}
+	\begin{tabular}{l l l l}
+		もう&\textit{već} (uz poz. glagol)&まだ&\textit{još uvijek}\\
+		たくさん&\textit{puno}&すこし&\textit{malo}\\
+		ちょっと&\textit{malo}, \textit{nakratko}&また&\textit{opet}, \textit{ponovno}\\
+		ゆっくり&\textit{polako}, \textit{opušteno}&とても&\textit{jako}, \textit{potpuno}, \textit{skroz}\\
+	\end{tabular}
+
+	\fukudai{Prilozi od pridjeva}
+	
+	U hrvatskom, pridjev u 3. licu jednine srednjeg roda možemo koristiti kao prilog. U japanskom, pridjevi se u priloge pretvaraju vrlo jednostavnom zamjenom nastavka.
+	
+	\begin{table}[h]
+		\centering
+		\begin{tabular}{l l}\toprule[2pt]
+			pridjev&prilog\\
+			\midrule
+			い&く\\
+			いい\footnotemark[1]&よく\\
+			な&に\\
+			の&に\\
+			\bottomrule[2pt]
+		\end{tabular}
+	\end{table}
+
+	\footnotetext[1]{Sjetimo se da je いい nepravilan pridjev.}
+
+	Pogledajmo neke primjere:
+	
+	\begin{reibun}
+		\rei{これは　いい　ところだ。}{Ovo je dobro mjesto. \rem{(\textit{kakvo mjesto?})}}
+		\rei{よく　たべた。}{Dobro sam se najeo. \rem{(\textit{kako sam se najeo?})}}
+		\rei{たけしくんの　へやは　きれいだ。}{Takešijeva soba je čista. \rem{(\textit{kakva soba?})}}
+		\rei{たけしくんは　へやを　きれいに　そうじした。}{Takeši je lijepo očistio sobu. \rem{(\textit{kako je očistio?})}}
+	\end{reibun}
+
+	\fukudai{Prilog + する}
+	
+	Kad koristimo prilog s glagolom する, značenje koje dobivamo je \textit{učiniti nešto nekakvim}, \textit{učiniti da bude nekako}. U hrvatskom za ovo značenje vrlo često postoji glagol koji ga spretnije izražava.
+	
+	\begin{reibun}
+		\rei{きれいにする。}{Uljepšati. \dosl Učiniti lijepim.}
+		\rei{にわを　\furigana{大}{おお}きく　した。}{Povećao sam vrt. \dosl Učinio sam vrt većim.}
+	\end{reibun}
+
+	\fukudai{Prilog + なる}
+
+	Osnovno značenje glagola なる je \textit{postati}. U kombinaciji s prilogom, dobivamo značenje \textit{postati nekakvo}. U hrvatskom, glagoli koje bismo koristili za prijevod kombinacije sa する moći će se koristiti i ovdje, ali će biti povratni (objekt će im biti zamjenica \textit{se}). Ovaj ćemo izraz koristiti kad želimo da je nešto samo od sebe postalo nekakvo.
+
+	\begin{reibun}
+		\rei{きれいに　なる。}{Uljepšati se. \dosl Postati lijep.}
+		\rei{にわは　大きく　なった。}{Vrt se povećao. \dosl Vrt je postao veći.}
+	\end{reibun}
+
+	\fukudai{Vježba}
+
+	\begin{mondai}{Prevedite na hrvatski:}
+		\item たけしくんは　まだ　いえに　いる。
+		\item すずきさんは　もう　いえを　でた。
+		\item \underline{いるか}は　さかなを　たくさん　たべる。
+		\item にほんごが　すこし　\underline{わかる}。
+		\item また　くる。
+		\item ゆっくり　\underline{え}を　みる。
+		\item かのじょは　とても　きれいな　ひとだ。
+		\vspace{5pt}
+		\item さつきちゃんの　けしゴムは　\furigana{小}{ちい}さく　なった。
+		\item へやの　かべを　\furigana{白}{しろ}く　\underline{ぬった}。
+		\vspace{10pt}
+		\item 日は　みじかく　なった。
+		\item やまは　きれいに　なる。
+		\item てんきは　さむく　なった。
+		\item まつの　木が　たかく　なる。
+		\item \underline{となり}の　パンやさん\footnotemark[2]は　パンを　やすく　した。
+		\item さつきちゃんは　かみを　みじかく　しない。
+		\item すずきさんは　おとうとの　コーヒーを　あまく　した。
+		\item こどもたちは　\underline{ぜんぜん}　しずかに　しなかった。
+		\item *かみを　みじかく　した　さつきちゃんは　かわいかった。
+	\end{mondai}
+
+	\footnotetext[2]{Često se dućan ili obrt koji se nečim bavi zove kao i ono čime se bavi s nastavkom や, npr. ほんや, パンや, ラーメンや. Radnike je onda običaj zvati prema mjestu gdje rade s nastavkom さん, npr. ほんやさん, ぱんやさん, ラーメンやさん itd.}
+\newpage
+\fakesection{Priložne oznake mjesta}
+
+	\dai{Priložne oznake mjesta}
+	
+	U hrvatskom jeziku lokaciju izričemo koristeći posebnu vrstu riječi - prijedloge - u kombinaciji s lokativom. U japanskom prijedlozi ne postoje, ali čestice に i で obavljaju funkciju lokativa kako smo naučili ranije. Ono što nismo naučili je kako odrediti prostorne odnose među imenicama.
+	
+	\fukudai{Imenice umjesto prijedloga}
+	
+	U jezicima u kojima nema prijedloga, njihovu funkciju obavlja posebna kategorija imenica (\textit{odnosne imenice} od eng. \textit{relational noun}). Budući je japanski takav jezik, položaj u prostoru izricat ćemo na pomalo drugačiji način u odnosu na ono na što smo navikli. Pogledajmo za početak neke osnovne odnosne imenice:
+	
+	\vspace{10pt}
+	\begin{tabular}{l l l l l l}
+		ここ&\textit{ovdje}&そこ&\textit{tamo}&あそこ&\textit{ondje}\\
+		うえ&\textit{gore}&した&\textit{dolje}&&\\
+		みぎ&\textit{desno}&ひだり&\textit{lijevo}&&\\
+		まえ&\textit{ispred}&うしろ&\textit{iza}&&\\
+		なか&\textit{unutar}&そと&\textit{izvan}&&\\
+	\end{tabular}
+
+	\vspace{10pt}
+	S obzirom da se radi o imenicama, način na koji se u japanski prevodi recimo \textit{u kutiji} je u početku prilično neintuitivan - \textit{u 'unutar' od kutije}. Pogledajmo neke primjere:
+	
+	\begin{reibun}
+		\rei{木の\furigana{上}{うえ}に}{nad drvetom \dosl iznad od drveta}
+		\rei{いえの　\furigana{左}{ひだり}に}{lijevo od kuće \rem{- ovo je vrlo doslovno i u hrvatskom!}}
+		\rei{たかぎさんの　まえで}{pred Takagijem}
+		\rei{はこの\furigana{中}{なか}に}{u kutiji}
+	\end{reibun}
+
+	\fukudai{Čestica から kao početna točka}
+	
+	Iako ova čestica ima razne upotrebe, po ideji su sve slične - から označava početnu točku ili početak neke radnje. Prijedlog kojim ćemo prevesti ovu česticu, slično kao i kod に i で, ovisi o glagolu - iskoristit ćemo ono što najtočnije prenosi značenje iz japanskog. Pogledajmo neke primjere:
+	
+	\begin{reibun}
+		\rei{はこの中から}{iz kutije}
+		\rei{やまの上から}{\dosl od iznad planine \rem{- ovisi o glagolu, može biti npr.}s planine}
+		\rei{いえを\furigana{出}{で}た。}{Izišao sam iz kuće.}
+		\rei{いえから出た。}{Izišao sam iz kuće.}
+	\end{reibun}
+
+	\fukudai{Čestica まで kao krajnja točka}
+	
+	Analogno čestici から, まで označava završnu točku ili kraj neke radnje:
+	\begin{reibun}
+		\rei{あの木まで}{do onog drveta}
+		\rei{たけしくんの　いえの　うしろまで　はしった。}{Otrčao sam iza Takešijeve kuće.}
+		\rei{いえから　がっこうまで　あるく。}{Hodat ću od kuće do škole.}
+	\end{reibun}
+
+	\fukudai{Vježba}
+
+	Prevedite sljedeće rečenice na hrvatski:
+	
+	\begin{mondai}{Lv. 1}
+		\item あそこに　ねこが　いる。
+		\item ここは　がっこうから　とおい。
+		\item はこの中は　くらい。
+		\item たけしくんは　がっこうまで　\furigana{行}{い}った。
+		\item ぎんこうの　となりの　みせまで　\furigana{来}{く}る。
+	\end{mondai}
+
+	\begin{mondai}{Lv. 2}
+		\item あの木の上に　ねこが　いる。
+		\item この　きっさてんは　がっこうから　とおい。
+		\item テーブルの下の　はこの中は　くらかった。
+		\item たけしくんは　ここから　がっこうまで　行った。
+		\item \furigana{川}{かわ}の　むこうから　ぎんこうの　となりの　みせまで　\furigana{来}{き}た。
+	\end{mondai}
+
+	\begin{mondai}{Lv. 3\footnotemark[1]}
+		\item あの　まつの木の下に　くろい　ねこが　いた。
+		\item えきの　むこうの　きっさてんは　がっこうから　とおかった。
+		\item テーブルの下の　はこの中に たけしくんの　ともだちの　こいぬが　いた。
+		\item たけしくんは　ゆうびんきょくの　となりの　みせから　がっこうまで　行った。
+		\item 川の　むこうから　ぎんこうの　となりの　みせの　みぎの　きっさてんまで　来た。
+	\end{mondai}
+	
+	\begin{mondai}{Lv. 4*}
+		\item あの　まつの木下にいた　くろい　ねこは　もう　いない。
+		\item えきの　むこうに　ある　きっさてんは　がっこうから　とおかった。
+		\item テーブルの下に　ある　はこの中に　たけしくんの　ともだちの　こいぬが　いた。
+		\item たけしくんは　ゆうびんきょくの　となりに　ある　みせから　しょうぼうしょの　ちかくに　ある　がっこうまで　はしった。
+		\item 川の　むこうから　ぎんこうの　となりに　ある　みせの　みぎに　ある　きっさてんまで　来た。
+	\end{mondai}
+
+	\footnotetext[1]{U ovom zadatku pojavljuju se dugački nizovi s česticom の. Iako su gramatički točni, nespretno ih je i govoriti i slušati pa se u pravilu ne koriste. Postoje načini da se takve duge nizove izbjegne, ali njih ćemo nešto kasnije detaljno proučavati. (vidi Lv. 4 zad. 2,3,4,5)}
+
+\newpage
+\fakesection{Priložne oznake vremena}
+
+	\dai{Priložne oznake vremena}
+	
+	\fukudai{Priložne imenice}
+	
+	U japanskom postoji klasa imenica koje se u određenim situacijama ponašaju kao prilozi. Takva upotreba ima dalekosežne posljedice za način na koji se u japanskom slažu kompliciranije rečenice. Neke od ovih priložnih imenica se koriste gotovo isključivo za formiranje priložnih oznaka i same za sebe gotovo da i ne znače ništa (iako su imenice!).
+	
+	Najjednostavnija podskupina priložnih imenica su vremenske. Sve vremenske imenice imaju samostalno značenje i relativno jednostavnu upotrebu.
+	
+	\fukudai{Vremenske imenice}
+	
+	\begin{tabular}{l l l l l l l l}
+		ゆうべ & \textit{sinoć} & けさ & \textit{jutros} & こんばん & \textit{večeras} & こんや & \textit{noćas}\\
+ 		いま & \textit{sada} & あさ & \textit{jutro} & ひる & \textit{podne} & よる/ばん & \textit{noć}/\textit{večer}\\
+	\end{tabular}
+
+	\vspace{10pt}
+	Kad ih koristimo kao priložnu oznaku vremena - kad želimo da u rečenici odgovaraju na pitanje \textit{kada} - ove imenice ćemo uglavnom staviti na početak rečenice i uz njih \textbf{ne moramo staviti česticu} (ali možemo ako nam zatreba):
+	
+	\begin{reibun}
+		\rei{ゆうべ　そとで　ねた。}{Sinoć sam spavao vani.}
+		\rei{けさ　りんごを　たべた。}{Jutros sam pojeo jabuku.}
+	\end{reibun}
+
+	Imenice za dane, tjedne, mjesece i godine uredno su posložene:
+	
+	\begin{table}[h]
+		\centering
+		\begin{tabular}{l r r r r}\toprule[2pt]
+			& dan & tjedan & mjesec & godina \\
+			\midrule
+			pretprošli 		& おととい & せんせんしゅう & せんせんげつ & おととし \\
+			prošli 			& きのう & せんしゅう & せんげつ & きょねん \\
+			trenutni 		& きょう & こんしゅう & こんげつ & ことし \\
+			sljedeći 		& あした & らいしゅう & らいげつ & らいねん \\
+			preksljedeći 	& あさって & さらいしゅう & さらいげつ & さらいねん \\
+			\bottomrule[2pt]
+		\end{tabular}
+	\end{table}
+	
+	Osim što ih možemo koristiti kao vremenske priloge u hrvatskom, možemo ih koristiti i kao obične imenice u japanskom:
+	
+	\begin{reibun}
+		\rei{\furigana{昨日}{きのう}の　ばんごはんは　おいしかった。}{Jučerašnja večera je bila fina.}
+		\reinagai{ゆうべを　おもいだした。}{Prisjetio sam se prošle večeri. \rem{jer u hr. nije ispravno reći}Prisjetio sam se \rem{(čega)}sinoć.}
+	\end{reibun}
+
+	\newpage
+	\fukudai{Čestice から i まで s vremenom}
+	
+	Ranije smo vidjeli da čestice から i まで mogu označavati prostorni raspon (od \textasciitilde\ do). Na potpuno isti način možemo ih koristiti i za označavanje vremenskog raspona:
+	
+	\begin{reibun}
+		\rei{昨日から　あさってまで}{od jučer do preksutra}
+		\rei{\furigana{今日}{きょう}から}{od danas}
+		\rei{\furigana{来年}{らいねん}まで}{do sljedeće godine}
+	\end{reibun}
+
+	\fukudai{Vježba}
+	
+	\begin{mondai}{Lv. 1}
+		\item \textit{Sutra ću ići u školu.}
+		\item \textit{Jučer sam vidio prijatelja.}
+		\item \textit{Noćas idem u Japan.}
+		\item \textit{Jutros su se djeca igrala.}
+	\end{mondai}
+
+	\begin{mondai}{Lv. 2}
+		\item \textit{Sutra ću s Takešijem ići u školu.}
+		\item \textit{Jučer sam u gradu vidio prijatelja.}
+		\item \textit{Noćas avionom idem u Japan.}
+		\item \textit{Jutros su se djeca igrala u parku.}
+	\end{mondai}
+
+	\begin{mondai}{Lv. 3}
+		\item \textit{Sutra ću s Takešijem ići u novu školu.}
+		\item \textit{Jučer sam u kafiću pokraj stanice vidio prijatelja.}
+		\item \textit{Sljedeće godine ću avionom ići u Japan.}
+		\item \textit{Jutros su se djeca loptom igrala u parku.}
+	\end{mondai}
+
+	\begin{mondai}{Lv. 4*}
+		\item \textit{Škola u koju ću sutra ići s Takešijem je daleko.}
+		\item \textit{Prijatelj kojeg sam vidio jučer u kafiću pokraj stanice mi je poslao pismo.}
+		\item \textit{Razgovarao sam s prijateljem koji će sljedeće godine avionom ići u Japan.}
+		\item \textit{Djeca koja su se jutros loptom igrala u parku sad su u školi.}
+	\end{mondai}
+\newpage
+\fakesection{Količina I}
+
+	\dai{Količina I}
+	
+	Prije susreta s civilizacijom Kine, japanski jezik imao je svoj sustav brojanja koji je i danas prisutan u jeziku, ali u tragovima. U modernom jeziku uglavnom se koriste brojevi "uvezeni" iz Kine zajedno s kanji znakovima. Od starog sustava dovoljno je znati samo brojeve do deset, dok ćemo na novom sustavu naučiti brojati dokle god to praktično ima smisla.
+	
+	\fukudai{Osnovni brojevi}
+	
+	Tablica ispod prikazuje stare brojeve s nastavkom za brojanje neživih stvari (つ). Ovi se brojevi koriste i danas. Valja primijetiti dvije stvari - pišu se kineskim znakom na kojeg je dodan brojač, a broj deset nema brojač već se on podrazumijeva kad se koristi staro čitanje.
+
+	Izuzev ovih deset brojeva, ostaci starog sustava mogu se naći u imenima i skamenjenim izrazima (npr. や.お.よろず - dosl. \textit{osam deset desettisuća} = 800 000, u starijim tekstovima izraz za \textit{jako puno}), kao i u nekim brojačima što ćemo vidjeti kasnije.
+	
+	Paralelno su prikazani i novi brojevi koji uz sebe nemaju brojač, a kojima se broje i veće količine. U zagradama se nalaze čitanja koja se koriste rjeđe i u posebnim situacijama.
+	
+	\vspace{5pt}
+	\begin{table}[h]
+		\centering
+		\begin{tabular}{r l l l l}\toprule[2pt]
+			rimski & novo čitanje & kanji & staro čitanje & kanji\\
+			\midrule
+			1			& いち & 一 & ひと.つ & 一つ \\
+			2			& に & 二 & ふた.つ & 二つ \\
+			3			& さん & 三 & みっ.つ & 三つ \\
+			4			& よん(し) & 四 & よっ.つ & 四つ \\
+			5			& ご & 五 & いつ.つ & 五つ \\
+			6			& ろく & 六 & むっ.つ & 六つ \\
+			7			& なな(しち) & 七 & なな.つ & 七つ \\
+			8			& はち & 八 & やっ.つ & 八つ \\
+			9			& きゅう(く) & 九 & ここの.つ & 九つ \\
+			10			& じゅう & 十 & とお & 十 \\
+			100			& ひゃく & 百 &  &  \\
+			1000		& せん & 千 &  &  \\
+			10 000		& まん & 万 &  &  \\
+			100 000 000	& おく & 億 &  &  \\
+			\bottomrule
+		\end{tabular}
+	\end{table}
+
+	\vspace{5pt}
+	Pogledamo li pomno veće brojeve, uočit ćemo da je svaki sljedeći imenovani broj 10 000 puta (4~nule) veći od prethodnog. U hrvatskom jeziku, imenovani brojevi uvećavaju se za po 1000 puta (3~nule). Ovo je u početku poprilično neugodna stvar na koju će se trebati naviknuti jer veći brojevi osim prevođenja zahtjevaju i preračunavanje u glavi (npr. 104 301 = $104\times 1000 + 3\times 100 + 1$ na hrvatskom, ali $10\times 10 000 + 4\times 1000 + 3\times 100 + 1$ na japanskom).
+
+	\newpage
+	\fukudai{Kombiniranje u veće brojeve}
+	
+	Osnovni princip po kojem se brojevi čitaju identičan je onom u hrvatskom jeziku. Kao i kod nas, pri spajanju se ponekad događaju glasovne promjene, a broj se izgovara od najveće znamenke prema nižima bez ikakvih iznenađenja. Pogledajmo nekoliko primjera:
+	
+	\begin{reibun}
+		\rei{四十二}{četrdeset dva}
+		\rei{三百六十四}{tristo šezdeset četiri}
+		\rei{五千六百三十三}{pet tisuća šesto trideset tri}
+	\end{reibun}
+
+	Gledajući znakove vjerojatno bismo mogli odrediti o kojem se broju radi, no čitanje je dodatno zakomplicirano glasovnim promjenama. U tablici ispod navedene su kombinacije koje se mijenjaju. Za brojeve iznad tisuću (まん, おく) glasovne promjene se ne događaju.
+	
+	\vspace{5pt}
+	\begin{table}[h]
+		\centering
+		\begin{tabular}{r l r r r}\toprule[2pt]
+			rimski & osnovno čitanje & 十 (じゅう) & 百 (ひゃく) & 千 (せん)\\
+			\midrule
+			1			& いち & $\varnothing$ & $\varnothing$ & \colorbox{blue!10}{いっ.せん} \\
+			2			& に & に.じゅう & に.ひゃく & に.せん \\
+			3			& さん & さん.じゅう & \colorbox{blue!10}{さん.びゃく} & \colorbox{blue!10}{さん.ぜん} \\
+			4			& よん (し\footnotemark[1]) & よん.じゅう & よん.ひゃく & よん.せん \\
+			5			& ご & ご.じゅう & ご.ひゃく & ご.せん \\
+			6			& ろく & ろく.じゅう & \colorbox{blue!10}{ろっ.ぴゃく} & ろく.せん \\
+			7			& なな (しち\footnotemark[1]) & なな.じゅう & なな.ひゃく & なな.せん \\
+			8			& はち & はち.じゅう & \colorbox{blue!10}{はっ.ぴゃく} & \colorbox{blue!10}{はっ.せん} \\
+			9			& きゅう (く\footnotemark[1]) & きゅう.じゅう & きゅう.ひゃく & きゅう.せん \\
+			\bottomrule
+		\end{tabular}
+	\end{table}
+
+	\footnotetext[1]{Ova alternativna čitanja smiju se pojaviti samo kad se radi o jednoj znamenki, nikad u sredini ili na kraju broja većeg od 10.}
+
+	\vspace{5pt}
+	Ovako sastavljeni brojevi u govoru se u pravilu koriste zajedno s brojačima, a zapisuju se arapskim znamenkama. Zapisati broj kanji znakovima kao što smo ranije učinili u primjerima jednako je kao u hrvatskom ispisati broj riječima i vrlo se rijetko radi. Pogledajmo čitanja nekih brojeva.
+	
+	\begin{reibun}
+		\rei{29}{に.じゅう.きゅう}
+		\rei{384}{さん.\colorbox{blue!10}{びゃく}.はち.じゅう.よん}
+		\rei{8 062}{\colorbox{blue!10}{はっ}.せん.ろく.じゅう.に}
+		\rei{60 615}{ろく.まん.\colorbox{blue!10}{ろっ.ぴゃく}.じゅう.ご}
+		\rei{548 593}{ご.じゅう.よん.まん.\colorbox{blue!10}{はっ}.せん.ご.ひゃく.きゅう.じゅう.さん}
+	\end{reibun}
+
+	\fukudai{Izražavanje količine}
+	
+	Da bismo u rečenici izrazili količinu, na brojeve ćemo uglavnom morati dodati odgovarajući brojač. U japanskom, brojači su nastavci na brojeve koji odgovaraju na pitanje koliko \textit{čega} ima, nešto slično kao mjerne jedinice u fizici (npr. koliko \textit{metara}).
+	
+	Pozicijom tako izražene količine u rečenici bavit ćemo se nešto kasnije, a zasad ćemo naučiti brojati koristeći neke osnovne brojače.
+	
+	\newpage
+	\fukudai{Osnovni brojači}
+	
+	U nastavku su prikazana čitanja brojača za sate (じ), ljude (にん) i loptaste stvari (こ).
+	
+	Kad brojimo ljude, riječi za jednu i dvije osobe imaju potpuno drugačije (staro) čitanje od ostalih, iako se pišu istim znakovima.
+	
+	Većina brojača ponaša se slično kao onaj za loptaste stvari (こ) u smislu da se čitaju kao spoj osnovnog čitanja broja i brojača, uz povremene glasovne promjene. Iako se u početku pojave tih promjena čine poprilično proizvoljnima, nakon nekoliko naučenih brojača počet ćemo uviđati pravilnosti.
+	
+	\begin{table}[h]
+		\centering
+		\begin{tabular}{r l r r r}\toprule[2pt]
+			rimski & osnovno čitanje & 時 (じ) & 人 (にん) & 個 (こ)\\
+			\midrule
+			1			& いち & いち.じ & ひ.とり\footnotemark[2] & \colorbox{blue!10}{いっ.こ} \\
+			2			& に & に.じ & ふ.たり\footnotemark[2] & に.こ \\
+			3			& さん & さん.じ & さん.にん & さん.こ \\
+			4			& よん & \colorbox{blue!10}{よ.じ} & \colorbox{blue!10}{よ.にん} & よん.こ \\
+			5			& ご & ご.じ & ご.にん & ご.こ \\
+			6			& ろく & ろく.じ & ろく.にん & \colorbox{blue!10}{ろっ.こ} \\
+			7			& なな & \colorbox{blue!10}{しち.じ} & しち.にん / なな.にん & なな.こ \\
+			8			& はち & はち.じ & はち.にん & \colorbox{blue!10}{はっ.こ} / はち.こ \\
+			9			& きゅう & \colorbox{blue!10}{く.じ} & きゅう.にん & きゅう.こ \\
+			\bottomrule
+		\end{tabular}
+	\end{table}
+
+	\fukudai{Vježba}
+	
+	Sljedeće brojeve pročitajte i prevedite. Odredite kakve stvari broje.
+	
+	\vspace{5pt}
+	\begin{tabular}{l l l l}
+		七	&	五十三	&	三百二十五	&	五万六千六百二十四	\\
+		三つ	&	七つ	&	五つ			&	十	\\
+		5時	&	14時	&	24時			&	7時	\\
+		6人	&	61人	&	367人		&	8603人	\\
+		1個	&	16個	&	598個		&	83457個	\\
+	\end{tabular}
+
+	\footnotetext[2]{Ovo nisu posljedice glasovne promjene novih brojeva već stari brojevi i brojač - u starom sustavu za brojanje ljudi korisio se nastavak \textasciitilde たり.}
+	
+\newpage
+\fakesection{Količina II}
+
+	\dai{Količina II}
+	
+	Prošli put smo naučili kako se čitaju brojevi i promotrili što se događa kad na njih dodajemo brojače kako bismo izrazili količinu. U nastavku ćemo količinu pokušati smjestiti u rečenicu, učeći pritom još nekoliko korisnih brojača.
+	
+	\fukudai{Korisni brojači}
+	
+	Ispod se nalazi tablica često korištenih brojača koji se pojavljuju u ovoj lekciji.
+	
+	\begin{hyou}
+		\item 分(ふん) - minute
+		\item 秒(びょう) - sekunde
+		\item 枚(まい) - tanke plosnate stvari (npr. listovi papira)
+		\item 本(ほん) - duguljaste stvari (npr. štapovi)
+		\item 台(だい) - strojevi, namještaj
+		\item 匹(ひき) - male životinjice (ali ne zečevi!)
+	\end{hyou}
+
+	\vspace{-20pt}
+	\begin{table}[h]
+		\centering
+		\begin{tabular}{r l l l l l l}\toprule[2pt]
+			rimski & 分(ふん) & 秒(びょう) & 枚(まい) & 本(ほん) & 台(だい) & 匹(ひき) \\
+			\midrule
+			1	& \colorbox{blue!10}{いっ.ぷん} & いち.びょう & いち.まい & \colorbox{blue!10}{いっ.ぽん} & いち.だい & \colorbox{blue!10}{いっ.ぴき} \\
+			2	& に.ふん & に.びょう & に.まい & に.ほん & に.だい & に.ひき \\
+			3	& \colorbox{blue!10}{さん.ぷん} & さん.びょう & さん.まい & \colorbox{blue!10}{さん.ぼん} & さん.だい & \colorbox{blue!10}{さん.びき} \\
+			4	& \colorbox{blue!10}{よん.ぷん} & よん.びょう & よん.まい & よん.ほん & よん.だい & よん.ひき \\
+			5	& ご.ふん & ご.びょう & ご.まい & ご.ほん & ご.だい & ご.ひき \\
+			6	& \colorbox{blue!10}{ろっ.ぷん} & ろく.びょう & ろく.まい & \colorbox{blue!10}{ろっ.ぽん} & ろく.だい & \colorbox{blue!10}{ろっ.ぴき} \\
+			7	& なな.ふん & なな.びょう & なな.まい & なな.ほん & なな.だい & なな.ひき \\
+			8	& \colorbox{blue!10}{はっ.ぷん} & はち.びょう & はち.まい & \colorbox{blue!10}{はっ.ぽん} & はち.だい & \colorbox{blue!10}{はっ.ぴき} \\
+			9	& きゅう.ふん & きゅう.びょう & きゅう.まい & きゅう.ほん & きゅう.だい & きゅう.ひき \\
+			10	& \colorbox{blue!10}{じゅっ.ぷん} & じゅう.びょう & じゅう.まい & \colorbox{blue!10}{じゅっ.ぽん} & じゅう.だい & \colorbox{blue!10}{じゅっ.ぴき} \\
+			\bottomrule
+		\end{tabular}
+	\end{table}
+	
+	\fukudai{Pridruživanje količine imenici česticom の}
+	
+	Ovo je univerzalno pravilo i može se koristiti u svim situacijama. Ako želimo reći koliko neke imenice ima, to možemo učiniti po receptu:
+	
+	\juuyou{<količina> の <imenica>}
+	
+	Prednost ovog oblika je to što s desne strane izgleda kao imenica pa ga možemo smjestiti u rečenicu po svim pravilima koja smo dosad naučili. Pogledajmo neke primjere:
+	
+	\begin{reibun}
+		\rei{６匹の　ねこを　みた。}{Vidio sam šest mačaka.}
+		\rei{はこの　なかに　６匹の　こねこが　いた。}{U kutiji je bilo šest mačića.}
+		\rei{３人の　ともだちに　あった。}{Sreo sam tri prijatelja.}
+		\rei{３人の　ともだちと　はなした。}{Pričao sam s troje prijatelja.}
+		\rei{たけしくんは　２本の　フォークで　にくを　さした。}{Takeši je napiknuo meso dvjema vilicama.}
+	\end{reibun}
+
+	Uočimo i da ovakav izraz ima dobro definirano značenje izvan konteksta rečenice (６匹のねこ uvijek znamo protumačiti kao \textit{šest mačaka}) što u narednim primjerima neće biti slučaj.
+	
+	\newpage
+	\fukudai{Količina s česticama が i を}
+	
+	Kad je imenica kojoj želimo dodati podatak o količini u ulozi subjekta ili objekta, smijemo količinu izreći na nešto kraći način:
+	
+	\juuyou{<imenica> が <količina>}
+	
+	\juuyou{<imenica> を <količina>}
+	
+	Prednost ovakvog izraza je jezgrovitost - imamo jednu česticu manje.
+	
+	\begin{reibun}
+		\rei{ねこを　6匹　みた。}{Vidio sam šest mačaka.}
+		\rei{はこの　なかに　こねこが　6匹　いた。}{U kutiji je bilo šest mačića.}
+	\end{reibun}
+
+	U istoj ćemo rečenici izbjegavati na ovaj način reći količinu za obje čestice:
+	
+	\begin{reibun}
+		\rei{こどもたちが　2人　ねこを　6匹　みた。}{Dvoje djece je vidjelo 6 mačaka. \xmark}
+		\rei{2人　の　こどもたちが　ねこを　6匹　みた。}{Dvoje djece je vidjelo 6 mačaka. \cmark}
+	\end{reibun}
+
+	Općenito, ovaj način izražavanja količine ima puno posebnih slučajeva koje nije korisno učiti na pamet već ih je bolje usvojiti kroz primjere.
+	
+	\fukudai{Kraći izraz s bilo kojom česticom}
+	
+	Još jedan široko primjenjiv način da imenici dodamo količinu je po receptu:
+	
+	\juuyou{<imenica><količina><čestica>}
+	
+	Ovaj izraz je kratak, ali zadržava univerzalnost. U praksi ćemo za čestice が i を gdje god možemo koristiti njihov poseban izraz kako je opisano u prethodnom odjeljku, ali ovaj će nam recept biti koristan kad se radi o drugim česticama i možemo ga smatrati zgodnom zamjenom za recept s の.
+	
+	\begin{reibun}
+		\rei{ねこ　６匹を　みた。\footnotemark[1]}{Vidio sam šest mačaka.}
+		\rei{はこの　なかに　こねこ　６匹が　いた。\footnotemark[1]}{U kutiji je bilo šest mačića.}
+		\rei{ともだち　3人に　あった。}{Sreo sam tri prijatelja.}
+		\rei{ともだち　3人と　はなした。}{Pričao sam s troje prijatelja.}
+		\rei{たけしくんは　フォーク　2本で　にくを　さした。}{Takeši je napiknuo meso dvjema vilicama.}
+	\end{reibun}
+
+	\footnotetext[1]{Iako razumljivo, ovo uopće ne zvuči prirodno.}
+	
+	\fukudai{Vježba}
+	
+	\begin{mondai}{Probajte na što više načina reći sljedeće rečenice.}
+		\item U mojoj sobi su tri stolice.
+		\item Pojeo sam osam palačinki.
+		\item Ušli su u dva auta.
+		\item G. Suzuki je pričala s tri prijateljice.
+		\item Njih petorica su ispisali dvadeset i šest papira.
+	\end{mondai}
+\newpage
+\fakesection{Pitanja i završne čestice}
+
+	\dai{Pitanja i završne čestice}
+	
+	U prethodnim smo lekcijama naučili rečenici dodati razne informacije. Često smo to čineći naglašavali na koje pitanje odgovara koji dio rečenice - sada je vrijeme da naučimo ta pitanja i postaviti.
+	
+	\fukudai{Čestice na kraju rečenice}
+	
+	Dosad smo naučili razne čestice koje dolaze uz imenice i određuju njihovu ulogu u rečenici. Osim takvih, postoje i čestice koje dolaze na kraju rečenice, iza predikata. One na razne načine nadopunjuju značenje ili mu dodaju osjećaje govornika. U ovoj ćemo lekciji naučiti tri najvažnije i najčešće: よ, ね i か.
+	
+	\fukudai{Naglašavanje česticom よ}
+	
+	Kad se pojavi na kraju rečenice, ova čestica sugovorniku na nju svraća pozornost. Koristimo je kad želimo istaknuti da rečenica sadrži neku novu informaciju:
+	
+	\begin{reibun}
+		\rei{たけしくんは　けさ、日本にかえった。}{Takeši se jutros vratio u Japan.}
+		\rei{たけしくんは　けさ、日本にかえった\underline{よ}。}{Hej, Takeši se jutros vratio u Japan!}
+	\end{reibun}
+
+	Koliko je naglasak dramatičan uvelike ovisi i o načinu na koji je rečenica izgovorena - na ovo treba dobro obratiti pozornost pri slušanju. Ponekad se ova čestica može pojaviti i odmah iza imenice (kao čestice na koje smo dosad navikli). U tom slučaju radi kao vokativ u hrvatskom jeziku:
+	
+	\begin{reibun}
+		\rei{たけし\underline{よ}、日本にかえれ\footnotemark[1]。}{Hej Takeši, vrati se u Japan.}
+	\end{reibun}
+
+	\footnotetext[1]{Ovaj oblik glagola koji završava na \textit{\textasciitilde e} još neko vrijeme nećemo učiti, ali radi se o imperativu koji često može zvučati grubo i nepristojno.}
+	
+	\fukudai{Traženje potvrde česticom ね}
+	
+	Vrlo slično hrvatskom, dodamo li na kraju rečenice ね, očekujemo od sugovornika da nam potvrdi ono što smo upravo rekli. Kao i ranije, intonacija je jako bitna, ali i taj je aspekt vrlo sličan hrvatskom. Završi li rečenica uzlaznom intonacijom, zaista od sugovornika očekujemo potvrdu, no ako je intonacija silazna, radi se o retoričkom pitanju.
+	
+	\begin{reibun}
+		\rei{あの\furigana{花}{はな}は　きれいです。}{Onaj cvijet je lijep.}
+		\rei{あの花は　きれいです\underline{ね}。}{Onaj cvijet je lijep, zar ne?}
+	\end{reibun}
+
+	\fukudai{Upitna rečenica česticom か}
+	
+	Osnovna funkcija ove čestice slična je u hrvatskom znaku \textit{?} (upitnik, nije greška u ispisu). Da bi bile gramatički potpune, sve upitne rečenice u japanskom trebaju na kraju imati česticu か, ali u kolokvijalnom govoru ona se često izostavlja kad je iz ostatka rečenice jasno da se radi o pitanju. U jednostavnim situacijama, ova čestica pretvara rečenicu u da/ne pitanje:
+	
+	\begin{reibun}
+		\rei{花子さんは　たけしくんを　みた。}{Hanako je vidjela Takešija.}
+		\rei{花子さんは　たけしくんを　みた\underline{か}。}{Je li Hanako vidjela Takešija?}
+	\end{reibun}
+	\begin{reibun}
+		\rei{たけしくんは　サルマを　たべた。}{Takeši je pojeo sarmu.}
+		\rei{たけしくんは　サルマを　たべた\underline{か}。}{Je li Takeši pojeo sarmu?}
+	\end{reibun}
+
+	Ako rečenica završava neprošlim kolokvijalnim oblikom spojnog glagola (zdravo seljački だ), onda je običaj iz upitne rečenice taj だ izbaciti:
+	
+	\begin{reibun}
+		\rei{花子さんは　サルマが　きらい\underline{だ}。}{Hanako mrzi sarmu.}
+		\rei{花子さんは　サルマが　きらい\underline{か}。}{Mrzi li Hanako sarmu?}
+	\end{reibun}
+
+	\fukudai{Složenije upitne rečenice}
+	
+	Naučili smo česticom か postavljati da/ne pitanja, no što ako želimo neku precizniju informaciju? U jezicima na koje smo navikli, postavljanje pitanja uključuje i preslagivanje redoslijeda riječi u rečenici, no u japanskom to nije slučaj. Pitanje ćemo napraviti tako da na mjesto gdje bi se u rečenici pojavila informacija koja nas zanima postavimo odgovaraju upitnu riječ:
+	
+	\begin{reibun}
+		\rei{すずきさんは　\underline{ともだち}と　はなした。}{Suzuki je razgovarala s prijateljem.}
+		\rei{すずきさんは　\underline{だれ}と　はなした\underline{か}。}{S kim je Suzuki razgovarala?}
+	\end{reibun}
+
+	U nastavku se nalaze korisne upitne riječi za informacije koje zasad znamo izreći.
+	
+	\vspace{10pt}
+	\begin{table}[h]
+		\centering
+		\begin{tabular}{l l l}\toprule[2pt]
+			riječ & zamjenjuje & primjer odgovora\\
+			\midrule
+			だれ & \textit{tko} & すずきさん、あの人\\
+			なん/なに & \textit{što} & りんご、はこ\\
+			どれ & \textit{koje} & あれ、これ\\
+			どの<nešto> & \textit{koje}<nešto> & このねこ、そのいえ\\
+			どこ & \textit{gdje} & そこ、いえのうしろ\\
+			どんな<nešto> & \textit{kakvo}<nešto> & きれいな、あかい\\
+			どう & \textit{kako} & きれいに、あかく\\
+			なん + <brojač> & \textit{koliko} & 三人、五匹\\
+			\bottomrule
+		\end{tabular}
+	\end{table}
+
+	\vspace{5pt}
+	Zamjena tražene informacije veoma je doslovna - jedino na što trebamo obratiti pozornost je da upitne riječi nikad ne smiju biti označene česticom は - nju ćemo pretvoriti u が.
+
+	\fukudai{Vježba}
+	
+	\begin{mondai}{Prevedite sljedeća pitanja na hrvatski i odgovorite na njih na japanskom.}
+		\item だれが　たけしくんの　ケーキを　たべたか。
+		\item 花子さんは　なにを　たべたか。
+		\item どれが　あなたの　ものですか。
+		\item どんなアイスクリームを　かったか。
+		\item その　かばん、どこで　かったか。
+		\item パーティに　ともだちが　なん人　きたか。
+		\item コーヒー、どうですか。
+	\end{mondai}
+\newpage
+\fakesection{い oblik}
+
+	\dai{い oblik}
+	
+	\fukudai{Teorija}
+	
+	Japanski naziv ovog oblika je 連用形 (れん.よう.けい dosl. \textit{oblik za uzastopno korištenje}). Ponekad, iako ne često, može se sresti i naziv konjunktiv. Još na prvom satu spomenuli smo kako je japanski jezik "ljepljiv", u smislu da se riječi mogu tvoriti spajanjem i dodavanjem raznih nastavaka. Ključnu ulogu u tome ima upravo ovaj, kao i iz njega izvedeni て oblik.
+	
+	\fukudai{Tvorba}
+	
+	U tablici ispod prikazani su い oblici svih glagola:
+	
+	\begin{table}[h]
+		\centering
+		\begin{tabular}{l | l l l l | l | l}%\toprule[2pt]
+			& \multicolumn{4}{l |}{nepravilni} & 一 & 五 \\
+			\midrule
+			glagol & いく & くる & ある & する & \textasciitilde る & く, ぐ, す, ぬ, む, ぶ, う, つ, る \\
+			い oblik & いき & き & あり & し & \textasciitilde & き, ぎ, し, に, み, び, い, ち, り \\
+			%\bottomrule
+		\end{tabular}
+	\end{table}
+
+	Za 一段 (いち.だん) glagole, い oblik dobijemo micanjem zadnjeg る. Za sve 五段 (ご.だん) glagole vrijedi isto pravilo - zadnji znak hiragane prebacit ćemo iz う reda u pripadni い red. Na nepravilne glagole, kao i obično, moramo pripaziti.
+	
+	\fukudai{Korištenje}
+	
+	Vrlo često imenice koje po značenju idu uz glagol nastaju iz njegovog い oblika (npr.~はなす~-~\textit{pričati}~$\rightarrow$~はなし~-~\textit{priča}), ali to je više čest slučaj nego čvrsto gramatičko pravilo.
+	
+	\vspace{5pt}
+	Većinom se ovaj oblik pojavljuje pri spajanju s pomoćnim glagolima i pridjevima, kojih ima jako puno i s raznim značenjima. Pravilo je uvijek da glavni glagol prebacimo u い oblik, a onda na njega dodamo pomoćni glagol ili pridjev, mijenjajući tako originalno značenje glavnog glagola. Tako nastala riječ nasljeđuje gramatičku ulogu pomoćnog glagola / pridjeva i može se dalje spajati i dobivati nastavke. Damo li si oduška, ovako nastale riječi mogu postati prilično dugačke.
+
+	\fukudai{Pristojni oblik glagola \textasciitilde ます}
+	
+	Dodavanjem pom. glagola ます na い oblik glagola, dobivamo njegov pristojni oblik. Kad razgovaramo s nepoznatima, starijima ili više-manje bilo kime s kim nismo bliski, pazit ćemo da rečenice uvijek završavamo pristojnim predikatima. Za predikate s imenicama i pridjevima, pristojni oblik smo naučili već ranije (です). Da bi nam bio koristan, i za pristojni oblik moramo zapamtiti vrijeme i negaciju:
+	
+	\begin{table}[h]
+		\centering
+		\begin{tabular}{l | l l}%\toprule[2pt]
+			& nepr. & pr \\
+			\midrule
+			poz. & ます & ました \\
+			neg. & ません & ませんでした \\
+			%\bottomrule
+		\end{tabular}
+	\end{table}
+
+	Zapamtimo da pristojnost rečenice ovisi samo o glavnom predikatu i da se u predikatima zavisnih rečenica pristojni glagoli \textbf{ne pojavljuju} osim u iznimnim situacijama (npr. kad nekog citiramo). Pogledajmo neke primjere:
+	
+	\begin{reibun}
+		\rei{日本に行く。}{}
+		\rei{日本に行き\underline{ます}。}{Idem u Japan.}
+		\rei{はこの中に　りんごが　あった。}{}
+		\rei{はこの中に　りんごが　あり\underline{ました}。}{U kutiji je bila jabuka.}
+		\rei{どうぶつえんで　トラを　見た。}{}
+		\rei{どうぶつえんで　トラを　見\underline{ました}。}{U zoološkom vrtu sam vidio tigra.}
+		\rei{たけしくんに　てがみを　かかなかった。}{}
+		\rei{たけしくんに　てがみを　かき\underline{ませんでした}。}{Nisam napisao pismo Takešiju.}
+	\end{reibun}
+
+	\fukudai{Vježba}
+	
+	Upristojimo sljedeće rečenice!
+	
+	\begin{mondai}{Lv. 1}
+		\item あの　はなは　きれい。
+		\item そらは　あおかった。
+		\item あれは　ねこ　じゃない。
+		\item きのうは　あたたかくなかった。
+	\end{mondai}
+
+	\begin{mondai}{Lv. 2}
+		\item あの　きれいな　はなを　見た。
+		\item あおい　そらを　見る。
+		\item たけしくんは　えいがを　見ない。
+		\item あの木を　見なかった。
+	\end{mondai}
+
+	\begin{mondai}{Lv. 3}
+		\item おかねが　ない。
+		\item すずきさんと　３じかん\footnotemark[1]　べんきょうした。
+		\item ともだちに　てがみを　かいた。
+		\item その本を　よまなかった。
+	\end{mondai}
+
+	\begin{mondai}{Lv. 4*}
+		\item たけしくんは　「えいがかんに　いかない」と　いった。
+		\item はなこちゃんは　「えいがかんが　きらいです」と　いわなかった。
+		\item あたらしい　くるまを　かった　田中さんは　うれしかった。
+		\item はなこちゃんの　りんごを　たべた　たけしくんは　かくれた。
+	\end{mondai}
+
+	\footnotetext[1]{Dodamo li かん na brojač za vrijeme, pretvaramo količinu iz točnog vremena u raspon.}
+\newpage
+\fakesection{て oblik}
+
+	\dai{て oblik}
+	
+	Još jedan spojni oblik glagola sličan い obliku. Gledajući tvorbu, nastaje iz い oblika baš kao i prošlost. Za dobivanje prošlosti, dodavali smo nastavak \textasciitilde~た, za ovaj ćemo oblik dodati nastavak \textasciitilde~て. Ovo će uzrokovati identične promjene na ごだん i nepravilnim glagolima, tako da tvorbu て oblika dobivamo gratis ako smo dobro naučili prošlost - samo ne završava samoglasnikom \textit{a} nego \textit{e}!
+	
+	\fukudai{Imperativ}
+	
+	Kad glagol u て obliku završava rečenicu, tumači se kao jednostavni imperativ. Ovakav govor je kolokvijalan i nije pristojan prema nepoznatim ljudima, a češće ga koriste žene. Dodavanjem pristojnog glagola ください, ovaj se imperativ ublažava u zamolbu (koja je većinom retorička i zapravo se još uvijek radi o blagoj naredbi) i u takvom obliku može se pristojno koristiti prema nepoznatim ljudima i u formalnim situacijama.
+	
+	\begin{reibun}
+		\rei{りんごを　たべて。}{Pojedi jabuku.}
+		\rei{りんごを　たべて　ください。}{Molim te, pojedi jabuku.}
+	\end{reibun}
+
+	\fukudai{Sastavni veznik}
+	
+	Glagolima u て obliku možemo više rečenica povezati u uzročno-posljedični i/ili vremenski slijed. Ova uzastopnost je vrlo bitna za razumijevanje. U hrvatskom jeziku, tako spojene rečenice odgovaraju nezavisno složenim sastavnim rečenicama (\textit{i}, \textit{pa}).
+	
+	\begin{reibun}
+		\rei{くつを　はいた。いえを　でました。}{Obukao sam cipele. Izišao sam iz kuće.}
+		\rei{くつを　はいて、いえを　でました。}{Obukao sam cipele i izišao iz kuće.}
+		\rei{おなかが　すいた。りんごを　たべた。}{Ogladnio sam. Pojeo sam jabuku.}
+		\rei{おなかが　すいて、りんごを　たべた。}{Ogladnio sam pa sam pojeo jabuku.}
+	\end{reibun}
+
+	\fukudai{Trenutno stanje s pomoćnim glagolom いる}
+	
+	Kako već znamo, いる je glagol stanja koji koristimo kao \textit{biti, postojati} za živa bića. Kao pomoćni glagol uz て oblik, mijenja značenje glavnog glagola tako da opisuje trenutno stanje stvari:
+	
+	\begin{reibun}
+		\rei{そらを　みる。}{Gledati nebo. / Gledat ću nebo.}
+		\rei{そらを　みている。}{Gledam nebo. \textnormal{(upravo sad)}}
+	\end{reibun}
+
+	Budući je vrijeme u japanskom klizno u odnosu na glavni glagol, moguće je reći i
+	
+	\begin{reibun}
+		\rei{そらを　みていた。}{Gledao sam nebo. \textnormal{(upravo onda u prošlosti)}}
+	\end{reibun}
+
+	što se razlikuje od dosad nam poznatog
+	
+	\begin{reibun}
+		\rei{そらを　みた。}{Vidio sam nebo.}
+	\end{reibun}
+
+	Zbog osnovne ideje iza ovog oblika (opis trenutnog stanja), negiramo li glagol いる, možemo značenje protumačiti na dva načina:
+	
+	\begin{reibun}
+		\rei{（まだ）そらを　みていない。}{Upravo \textbf{ne} gledam nebo. \textnormal{ili} \textnormal{(još uvijek)} Nisam pogledao nebo.}
+	\end{reibun}
+
+	U praksi je vrlo čest slučaj da se dio u zagradama implicira. Tako je uobičajena razmjena sljedećeg formata:
+	
+	\begin{reibun}
+		\rei{ひるごはんは　（もう）　たべたか？}{Jesi li \textnormal{(već)} ručao?}
+		\rei{いえ、　（まだ）　たべていない。}{Ne, nisam \textnormal{(još)}.}
+	\end{reibun}
+
+	Dopustimo li tome da "otkliže" u prošlost, dobit ćemo situaciju koja je iz perspektive hrvatskog jezika komplicirana, ali u japanskom ostaje jednostavna ako zapamtimo da て+いる izriče trenutno stanje (u kojem god trenutku ono bilo).
+	
+	\begin{reibun}
+		\rei{そのときは　まだ、　ひるごはんを　たべていなかった。}{U tom trenutku još nisam bio ručao.}
+	\end{reibun}
+
+	\fukudai{Vježba}
+	
+	\begin{mondai}{Recite sljedeće rečenice na japanskom. U zagradama se nalaze glagoli koje smo rjeđe spominjali, a koji bi vam mogli u tome pomoći.}
+		\item Očisti svoju sobu. (そうじする)
+		\item Molim te iznesi smeće. (だす)
+		\item Jutros sam ustao, pojeo doručak i otišao u dućan. (おきる)
+		\item Molim te, očisti sobu i iznesi smeće.
+		\item Spavao sam.
+		\item Još nisam iznio smeće.
+		\item Igram se s mačkom. (あそぶ)
+		\item Pričam s prijateljima.
+		\item Još to nisam ispričao prijateljima.
+		\item Suzuki tada još nije bio oženjen. (けっこんする)
+	\end{mondai}
+\newpage
+\fakesection{Upotrebe い oblika I}
+
+	\dai{Upotrebe い oblika I}
+	
+	Prisjetimo se - い oblik koristimo uglavnom za spajanje glavnog i pomoćnih glagola ili pridjeva koji dopunjuju osnovno značenje glagola. U nastavku ćemo vidjeti nekoliko čestih primjera upotrebe i ugrubo ih objasniti.
+	
+	\fukudai{Imperativ s なさい}
+	
+	Slično kao što na て oblik možemo dodati ください da bismo napravili molbu koja je zapravo blagi imperativ, na い oblik možemo dodati なさい što ga pretvara u \textit{strogu} (ali nikako \textit{grubu}) naredbu. Ovako će se izražavati iskusni prema manje iskusnima, na primjer roditelji prema djeci. Zadaci na ispitima također često mogu biti napisani ovim imperativom.
+	
+	\begin{reibun}
+		\rei{にんじんを　\furigana{食}{た}べなさい。}{Jedi mrkve.}
+		\rei{\furigana{外}{そと}に　出なさい。}{Izađi van.}
+		\rei{\furigana{次}{つぎ}の\furigana{文}{ぶん}を　クロアチア\furigana{語}{ご}に　\furigana{訳}{やく}しなさい。}{Prevedi sljedeću rečenicu na hrvatski.}
+	\end{reibun}
+
+	Valja zapamtiti kako se korištenjem ovog imperativa stavljamo hijerarhijski iznad onog kome je upućen. Tako je recimo u redu obratiti se profesoru koristeći て + ください, ali nije pristojno učiniti isto s い + なさい.
+	
+	\fukudai{Izražavanje želje s たい}
+	
+	Dodamo li na い oblik glagola pom. pridjev たい, dobivamo značenje \textit{želim raditi} <glagol>. S ovim oblikom postoje dvije stvari na koje valja obratiti pažnju:
+	\begin{hyou}
+		\item Čestica koja označava objekt glavnog glagola može biti i を i が bez razlike u značenju. Povijesno, ispravno je u ovakvim rečenicama objekt označiti sa が kao kod pridjeva すき i きらい koje smo ranije naučili, ali u zadnje se vrijeme često čuje i (po starom govoru krivo) を.
+		\item Ovaj oblik je subjektivan - izražava našu želju i nećemo ga nikad koristiti kad govorimo o željama drugih.
+	\end{hyou}
+
+	\begin{reibun}
+		\rei{アイスクリームが食べたい。}{Želim jesti sladoled. \cmark}
+		\rei{アイスクリームを食べたい。}{Želim jesti sladoled. \cmark}
+		\rei{たけしくんはアイスクリームが食べたい。}{Takeši želi jesti sladoled. \xmark}
+	\end{reibun}
+
+	Kad je predikat u ovom obliku, uvijek možemo pretpostaviti subjekt わたし.
+	
+	\fukudai{Lagano i teško s やすい i にくい}
+	
+	Dodavanjem navedenih pridjeva glagolu možemo izraziti da je neka radnja lagana ili teška.
+	
+	\begin{reibun}
+		\rei{このかいだんは　のぼりにくい。}{Po ovim stepenicama se teško penjati.}
+		\rei{すしは食べやすい。}{Sushi je lako jesti.}
+		\rei{たけしくんの　もじは　よみにくい。}{Takešijev rukopis je teško čitati.}
+		\rei{たけしくんの　もじは　よみやすくない。}{Takešijev rukopis nije lagano čitati.}
+		\rei{先生は　よみにくい　もじが　きらいです。}{Učitelj ne voli rukopis koji je teško čitati.}
+	\end{reibun}
+
+	U primjerima iznad dobro je obratiti pažnju na to da spajanjem glagola s pom. pridjevima dobivamo \textbf{pridjev}. U zadnjem primjeru vidimo da tako nastali pridjev možemo koristiti i u opisnom obliku (よみにくいもじ) što se u hrvatskom raspakira u cijelu opisnu rečenicu.
+	
+	\fukudai{Doći i ići raditi s いく i くる}
+	
+	U hrvatskom jeziku svakodnevno koristimo izraze oblika \textit{idem jesti} ili \textit{došao sam pogledati}. U japanskom istu ideju možemo izraziti tako da na い oblik glagola dodamo česticu に i to prikvačimo na glagol 行く ili 来る. Bitno je ne zaboraviti da ove glagole ne lijepimo direktno na glavni, već im dodajemo informaciju (\textit{što idem?}) česticom に.
+	
+	\begin{reibun}
+		\rei{えいがを　見に行く。}{Idem gledati film.}
+		\rei{あした、花子さんが　あそびに来る。}{Sutra će Hanako doći u posjetu\footnotemark[1].}
+		\rei{たけしくんは　ぎゅうにゅうを　かいに行った。}{Takeši je otišao kupiti mlijeko.}
+		\rei{WiFiを　なおしに来た。}{Došao sam popraviti WiFi.}
+	\end{reibun}
+
+	\footnotetext[1]{あそぶ ne znači samo igrati se već zabavljati se općenito i zato se koristi i za neformalno druženje. Rečenica ne implicira nužno da je Hanako dijete i da će se doći igrati.}
+	
+	\fukudai{Početak i kraj radnje s はじめる i おわる}
+	
+	Dodavanjem spomenutih glagola dobivamo značenje kakvo u hrv. imamo u izrazima \textit{počeo sam gledati} ili \textit{završio sam s jelom}.
+	
+	\begin{reibun}
+		\rei{日本語を　べんきょうしはじめた。}{Počeo sam učiti japanski.}
+		\rei{すずきさんは　ほそいみちを　あるきはじめました。}{Suzuki je krenuo hodati uskim putem.}
+		\rei{さけを　のみおわって、かえった。}{Dovršio sam (piti) sake i vratio se kući.}
+	\end{reibun}
+
+	\fukudai{Vježba}
+	
+	\begin{mondai}{Rečenice u nastavku prevedite na hrvatski.}
+		\item そのとき、たけしくんは　かえりたいと　おもいはじめた。
+		\item 日本語の　どうしは　わかりにくい　ですか？\\(どうし - \textit{glagol})
+		\item まえの本を　よみおわって、こんどは　よみやすい本を　かりに　いきます。\\(こんど - \textit{ovaj put} ili u kontekstu \textit{drugi put})
+		\item 先生が　たけしくんに　「あとで　しょくいんしつに　きなさい」と　いいました。\\(しょくいんしつ - zbornica)
+		\item まいしゅう　ここに　すしを　たべに　くるよ。\\(まい\textasciitilde~\textit{svaki} \textasciitilde~za vrijeme, npr. にち, しゅう, つき, とし, あさ, ばん...)
+		\item すずきさんは　きょねん　ひっこして、あそびに　こなく　なった。\\(ひっこす - \textit{preseliti se})
+		\item *日本から　もどった　ともだちの　はなしを　きいて　わたしも　いきたく　なりました。
+	\end{mondai}
+\newpage
+\fakesection{Upotrebe て oblika I}
+
+	\dai{Upotrebe て oblika I}
+	
+	U nastavku su opisani neki česti pomoćni glagoli koji se koriste s て oblikom. Osim što se na njega lijepe pomoćni glagoli, て oblik često sudjeluje i u raznim drugim gramatičkim izrazima.
+	
+	\fukudai{Pokus, pokušaj s \textasciitilde みる}
+	
+	U hrvatskom jeziku nema ekvivalentnog izraza - koristimo ga kad ne znamo kakav će biti rezultat neke radnje, ali ćemo je svejedno napraviti i \textbf{vidjeti}. Na prirodni hrvatski to u kontekstu možemo prevesti na razne načine.
+	
+	\begin{reibun}
+		\rei{なっとうを　たべてみた。}{Probao sam (jesti) natt\={o}.}
+		\rei{おかあさんと　はなしてみます。}{Pokušat ću pričati s majkom.}
+		\rei{いちど　日本に　いってみたい。}{Htio bih jednom otići u Japan.}
+	\end{reibun}
+
+	Pogledamo li rečenice iznad, možemo uočiti jednu vrlo bitnu stvar. Radnja glavnog glagola uopće nije upitna - ne radi se o tome da ćemo pokušati pa možda ne uspijemo - nesigurnost je u posljedicama naše radnje.
+	
+	\fukudai{Priprema za budućnost s \textasciitilde おく}
+	
+	Još jedan od izraza kojima u hrvatskom nemamo dobar par - ovako kažemo da radnju glavnog glagola obavljamo u pripremi za nešto što će se dogoditi u budućnosti. Od punog prijevoda na hrvatski u konkretnim situacijama najčešće odustanemo.
+	
+	\begin{reibun}
+		\rei{たべておいて。}{Jedi \textnormal{(sada dok možeš)}.}
+		\rei{ゆうべ　ごみを　出しておいた。}{Sinoć sam iznio smeće \textnormal{(unaprijed da kasnije ne moram)}.}
+		\rei{しようほうほうを　よんでおいた。}{Pročitao sam upute \textnormal{(jer će mi dobro doći)}.}
+	\end{reibun}
+
+	Implicirano značenje je jako ovisno o kontekstu i puno ga je važnije shvatiti nego prevesti.
+	
+	\fukudai{Učiniti nešto za nekoga s \textasciitilde くれる i \textasciitilde あげる}
+	
+	Značenje ovog izraza vrlo je slično osnovnom značenju pomoćnih glagola koje koristimo, ali se primjenjuje na radnju. Hoćemo li koristiti くれる ili あげる, kao i u osnovnom značenju, ovisit će o tome tko nešto radi za koga. Kad netko tko nam je (u društvenom smislu) bliže čini nešto za nekog tko je izvan našeg zajedničkog kruga, koristit ćemo あげる. Obratno, kad netko izvan našeg kruga čini nešto za nekoga tko nam je bliže, reći ćemo くれる.
+	
+	\begin{reibun}
+		\reinagai{たけしくんに　すうがくを　おしえてあげた。}{Pokazao sam Takešiju matematiku.}
+		\reinagai{はなこちゃんが　(わたしに)　すうがくを　おしえてくれた。}{Hanako mi je pokazala matematiku.}
+		\reinagai{あにの　へやを　そうじ　してあげた。}{Počistio sam sobu starijem bratu.}
+		\reinagai{(かわりに)　あにが　わたしの　しゅくだいを　かいてくれた。}{(Zauzvrat) je on meni napisao zadaću.}
+	\end{reibun}
+
+	Iako općenito subjekt i meta mogu biti drugi ljudi, većinom ćemo あげる koristiti kad mi nešto radimo za nekoga, a くれる kad netko drugi nešto radi za nas. U pravilu je dobro izbjegavati あげる jer u krivoj situaciji može zvučati arogantno.
+	
+	\fukudai{Dobiti nekoga da nešto učini s \textasciitilde もらう}
+	
+	Ovaj ćemo glagol koristiti najčešće kad subjekt nešto za metu učini na zahtjev ili molbu. U odnosu na prethodna dva glagola, ovdje je perspektiva promijenjena - govorimo iz perspektive onoga za koga je radnja učinjena.
+	
+	\begin{reibun}
+		\reinagai{たけしくんが　はなこちゃんに　すうがくを　おしえてもらった。}{Hanako je Takešiju pokazala matematiku. \textnormal{(On je to zamolio.)}}
+		\reinagai{(わたしは)　はなこちゃんに　すうがくを　おしえてもらった。}{Hanako mi je pokazala matematiku. \textnormal{(Ja sam je zamolio.)}}
+		\reinagai{あにの　へやを　そうじ　してあげた。}{Počistio sam sobu starijem bratu. \textnormal{(Ovdje もらう nije prirodno!)}}
+		\reinagai{(かわりに)　わたしは　あにに　しゅくだいを　かいてもらった。}{(Zauzvrat) sam tražio brata da mi napiše zadaću.}
+	\end{reibun}
+
+	U pravilu もらう nećemo koristiti tako da mi budemo meta (čestica に) jer je u značenje glagola ugrađena zahvalnost subjekta meti pa je neprirodno implicirati da je nama netko zahvalan. Ovo je dio šire filozofije jezika u kojoj se pokušava izbjeći govor o tuđim osjećajima.
+	
+	\fukudai{Vježba}
+	
+	\begin{mondai}{Lv. 1}
+		\item のんでみた。
+		\item そうじ　しておいた。
+		\item よんであげた。
+		\item おしえてくれた。
+		\item かってもらった。
+	\end{mondai}
+
+	\begin{mondai}{Lv. 2}
+		\item このおちゃを　のんでみましたか。
+		\item いえを　そうじ　しておくと　きめた。
+		\item 先生は　子供たちに　えほんを　よんであげた。
+		\item ともだちが　わたしに　ぶつりがくを　おしえてくれた。
+		\item かのじょに　ぎゅうにゅうを　かってもらった。
+	\end{mondai}
+
+	\begin{mondai}{Lv. 3}
+		\item このおちゃを　のんでみたいですか。
+		\item いえを　そうじ　しておくと　きめて　せんざいを　かいに　いった。
+		\item 先生は　まいにち　子供たちに　えほんを　よんであげていました。
+		\item ぶつりがくを　おしえてくれて　ありがとうと　ともだちに　いいました。
+		\item *かのじょに　かいわすれた　ぎゅうにゅうを　かいにいってもらった。
+	\end{mondai}
+\newpage
+\fakesection{Složene rečenice}
+
+	\dai{Složene rečenice}
+	
+	\fukudai{Teorija}
+	
+	Rečenice možemo slagati tako da budu zavisne (複文 - ふく.ぶん) ili nezavisne (重文 - じゅう.ぶん). Razlika između jednog i drugog je u hijerarhiji - nezavisno složene rečenice ne gube na značenju ako ih razdvojimo, ali između njih postoji neki odnos, no kod zavisno složenih rečenica, jedna je drugoj podređena. U pravilu, podređena rečenica će odgovarati na pitanje koje možemo formirati preoblikujući nadređenu. Pogledajmo neke primjere:
+	
+	\begin{reibun}
+		\rei{ばんごはんを　たべて　ねた。}{Pojeo sam večeru i zaspao.}
+		\rei{くろくて　あしの　はやい　ねこを　見た。}{Vidio sam brzu crnu mačku.}
+	\end{reibun}
+
+	Prva rečenica je nezavisno složena - dvije jednostavne rečenice od kojih se sastoji ne govore ništa jedna o drugoj. U drugoj rečenici, koja u hrvatskom jeziku zapravo i nije složena, ali u japanskom jest, prva podrečenica (くろくて　あしがはやい) govori nešto o dijelu druge (ねこ) pa ćemo za nju reći da je podređena drugoj. Za provjeru, možemo pitati どんなねこを見たか.
+	
+	\fukudai{Veznici s predikatnim oblikom}
+	
+	Gramatički, veznicima u nastavku je zajedničko to da im prethodi predikat. Za svaki veznik dana su po tri primjera - jedan sa svakom od tri vrste predikata na što je korisno obratiti pozornost.
+	
+	\vspace{5pt}
+	\ten から izriče razlog (\textit{jer}, zavisno slaganje)
+	
+	\begin{reibun}
+		\reinagai{つまらないから　えいがを　見ない。}{Ne gledam filmove jer su dosadni.}
+		\reinagai{たまねぎを　たくさん　たべなかったから　びょうきに　なった。}{Razbolio sam se jer nisam jeo puno luka.}
+		\reinagai{しずかな人だから　だれも　きづいてくれない。}{Nitko me ne primjećuje jer sam tih.}
+	\end{reibun}
+
+	Zapamtimo da se za ovu upotrebu から koristi uglavnom u govoru te da ponekad može zvučati grubo i odavati govornikovu emocionalnu uključenost u ono o čemu se govori\footnotemark[1].
+	
+	\footnotetext[1]{Što je u kontekstu japanske kulture upravo grubo jer se osjećaji ne pokazuju.}
+	
+	\vspace{5pt}
+	\ten けど・けれど・けれども su veznici suprotnih rečenica (\textit{ali}, nezavisno slaganje)
+	
+	\begin{reibun}
+		\reinagai{うさぎは　はやいけど、きつねも　はやい。}{Zečevi su brzi, ali i lisice su brze.}
+		\reinagai{たけしくんに　たべてくださいと　いったけど、たべなかった。}{Rekao sam Takešiju da pojede, ali nije (pojeo).}
+		\reinagai{はなこさんは　しずかだけど、わたしは　はなこさんに　きづいた。}{Hanako je tiha, ali ja sam je primijetio.}
+	\end{reibun}
+
+	Ovi se veznici koriste gotovo isključivo u govornom jeziku, a u pisanom zvuče neformalno i opušteno. Sve tri varijante su jednake po značenju, no けれど i けれども zvuče pristojnije.
+	
+	\vspace{5pt}
+	\ten が je također veznik suprotnih rečenica (\textit{ali}, nezavisno slaganje)
+	
+	\begin{reibun}
+		\reinagai{つまらないが、わたしは　きらいじゃない。}{Dosadno je, ali meni nije mrsko.}
+		\reinagai{きいてみましたが、せんせいも　しりませんでした。}{Pitao sam, ali ni učitelj nije znao.}
+		\reinagai{いまは　しずかだが、あさは　けっこう　にぎやかだ。}{Sad je tiho, ali ujutro je prilično živahno.}
+	\end{reibun}
+
+	Po značenju, が je isto što i けど, ali formalnije i pretežno dio pisanog jezika.
+	
+	\fukudai{Veznici s opisnim oblikom}
+	
+	Za razliku od prethodne skupine, ovim veznicima prethodi opisni oblik. Uočljiva je razlika za imenice i な pridjeve! U konkretnim primjerima, razlog za opisni oblik je to što su nastali kraćenjem もの u の.
+	
+	\vspace{5pt}
+	\ten ので izriče razlog (\textit{jer}, zavisno slaganje)
+	
+	\begin{reibun}
+		\reinagai{つまらないので　えいがは　見ません。}{Ne gledam filmove jer su dosadni.}
+		\reinagai{たまねぎを　たくさん　たべなかったので　びょうきに　なった。}{Razbolio sam se jer nisam jeo puno luka.}
+		\reinagai{しずかなので　だれも　きづいてくれない。}{Nitko me ne primjećuje jer sam tih.}
+	\end{reibun}
+
+	Po značenju jednak upotrebi から koju smo ranije naučili, no zvuči blaže, smirenije i pristojnije.
+	
+	\vspace{5pt}
+	\ten のに kao veznik dopusnih rečenica (\textit{iako, unatoč}, zavisno slaganje)
+	
+	\begin{reibun}
+		\reinagai{あたまが　いたいのに　がっこうへ　いった。}{Otišao sam u školu iako me boli glava.}
+		\reinagai{たまねぎを　たくさん　たべたのに　びょうきに　なった。}{Razbolio sam se iako sam jeo puno luka.}
+		\reinagai{ふゆなのに　アイスクリームが　たべたい。}{Iako je zima, jede mi se sladoled.}
+	\end{reibun}
+
+	Ovaj se veznik jednako koristi i u formalnim i u neformalnim situacijama.
+	
+	\fukudai{Veznici s て oblikom}
+	
+	Veznicima iz ove skupine prethodi predikat u て obliku.
+	
+	\newpage
+	\ten から govori \textit{nakon čega} se događa glavna rečenica (zavisno slaganje)
+	
+	\begin{reibun}
+		\reinagai{えいがを　みてから、つまらないと　おもった。}{Nakon što sam pogledao film, pomislio sam kako je bezveze.}
+		\reinagai{みずにおちてから　けっこう　ふかいと　わかった。}{Nakon što sam upao u vodu, shvatio sam da je prilično duboka.}
+	\end{reibun}
+
+	Kao što se da vidjeti iz priloženog, tumačenje から jako varira ovisno o tome što se nalazi ispred. Iz tog je razloga korisno uložiti nešto vremena u razumijevanje vrsta raznih oblika i dijelova rečenice. Uočimo da ova upotreba s imenskim predikatima koji uvijek izriču \textbf{stanje} nema smisla jer je zavisna rečenica \textbf{događaj} koji prethodi glavnoj.
+	
+	\vspace{5pt}
+	\ten も izriče hipotetsku prepreku glavnoj rečenici (zavisno slaganje)
+	
+	\begin{reibun}
+		\reinagai{あたまが　いたくても　がっこうへ　いく。}{Idem u školu makar me boljela glava.}
+		\reinagai{たまねぎを　たくさん　たべても　びょうきに　なる。}{Razbolit ćeš se čak i ako budeš jeo puno luka.}
+		\reinagai{ふゆでも　アイスクリームが　たべたい　ひは　ある。}{Ima dana kad mi se jede sladoled iako je zima.}
+	\end{reibun}
+
+	Po značenju, ovaj veznik je vrlo blizak のに - oba izražavaju prepreku unatoč kojoj se glavna rečenica događa. Međutim, のに se koristi za stvarne prepreke, a も u situacijama gdje prepreka ne postoji nužno. Posljedično ćemo ovu upotrebu も češće čuti u neprošlim rečenicama, a のに u prošlosti, iako to nije gramatičko pravilo.
+	
+	\fukudai{Kontekstualni oblici veznika}
+	
+	U govornom jeziku, vrlo je čest slučaj da se izrečene misli mijenjaju i prekidaju pa se isto događa i izgovorenim rečenicama. Zbog toga veznici često imaju "kontekstualni oblik" kojim započinjemo rečenicu, nadovezujući se na ono što smo prethodno rekli. Ti su oblici nastali stavljanjem spojnog glagola pred veznike:
+	
+	\begin{reibun}
+		\rei{あたまが　いたい。}{Boli me glava. \normalfont{(kontekst)}}
+		\rei{だから　びょういんへ　いった。}{Zato sam otišao u bolnicu.}
+		\rei{だけど　がっこうへ　いった。}{Ali, otišao sam u školu.}
+		\rei{だが、がっこうへ　いった。}{Ali, otišao sam u školu.}
+		\rei{なので　びょういんへ　いった。}{Zato sam otišao u bolnicu.}
+		\rei{なのに　がっこうへ　いった。}{Ali ipak sam otišao u školu.}
+		\rei{でも、がっこうへ　いった。}{Ali, otišao sam u školu.}
+	\end{reibun}
+
+	To je jako puno \textit{ali} koje treba naučiti razlikovati \smiley. Sjetimo se da ne postoji preslikavanje \textit{jedan za jedan} između hrvatskih i japanskih veznika i da to što u hrvatskom često različite oblike japanskog prevedemo na sličan ili isti način ne znači da u japanskom među njima nema razlike.
+	
+	Pokušajmo se usredotočiti na shvaćanje što rečenice znače \textbf{na japanskom}!
+	
+\end{document}
