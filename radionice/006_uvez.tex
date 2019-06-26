@@ -124,13 +124,19 @@
 	\noindent\hspace{-10pt}$\bullet$
 }
 
+\setcounter{tocdepth}{0}
 \newcommand{\fakesection}[1]{%
-	\par\refstepcounter{section}% Increase section counter
+	\par\refstepcounter{chapter}% Increase section counter
 	\sectionmark{#1}% Add section mark (header)
-	\addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}% Add section to ToC
+	\addcontentsline{toc}{chapter}{\protect\numberline{\thechapter}#1\leavemode\xleaders\hbox{.}\hfill\kern0pt}% Add section to ToC
 	% Add more content here, if needed.
 }
 
 \CJKfamily{chanto}\CJKnospace
 
 \frenchspacing
+
+\hypersetup{
+	colorlinks = true,
+	linkcolor = {black},
+}
