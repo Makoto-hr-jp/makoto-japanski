@@ -2,3 +2,7 @@
 *.synctex.gz
 **/tex_aux
 *.pdf
+*.aux
+*.log
+*.out
+radionice/srednji/lekcije/030_kauzativ/release/030_kauzativ.pdf
