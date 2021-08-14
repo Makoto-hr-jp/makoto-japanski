@@ -1,0 +1,118 @@
+2. lekcija
+-点
+--点, てん: točka, bod, ocjena
+-半
+--半, はん: pola, polovica
+-音
+--音, おと: zvuk
+--音楽, おん.がく: glazba
+-先
+--先, さき: prethodno
+--先生, せん.せい: učitelj
+-生
+--生, なま: sirovo, uživo (npr. TV prijenos)
+--人生, じん.せい: ljudski život
+--生きる, い.きる: živjeti
+--生まれ, う.まれ: rodno mjesto
+-今
+--今, いま: sada
+--今日, きょう: danas
+--今日は, こん.にち.は: dobar dan
+-日
+--日, ひ: dan, sunce
+--日曜日, にち.よう.び: nedjelja
+--先日, せん.じつ: nekidan
+-猫
+--猫, ねこ: mačka
+-犬
+--犬, いぬ: pas
+-森
+--森, もり: šuma
+-石
+--石, いし: kamen
+-風
+--風, かぜ: vjetar
+--~風, ~ふう: stil
+-光
+--光, ひかり: svjetlo
+-月
+--月, つき: mjesec
+--三月, さん.がつ: ožujak
+--今月, こん.げつ: ovaj mjesec
+-空
+--空, そら: nebo
+--空気,　くう.き: zrak, atmosfera
+-天
+--天気, てん.き: vrijeme (u meteorološkom smislu)
+-川
+--川, かわ: rijeka
+
+
+
+3. lekcija
+-木
+--木, き: drvo, stablo
+--木曜日, もく.よう.び: četvrtak
+-土
+--土, つち: zemlja, tlo
+--土曜日, ど.よう.び: subota
+-虫
+--虫, むし: insekt
+-色
+--色, いろ: boja
+--色々,　いろ.いろ: razno 
+-花
+--花, はな: cvijeće
+-私
+--私, わたし: ja
+--私立, し.りつ: privatno (vlasništvo)
+-本
+--本, ほん: knjiga
+--本当, ほん.とう: stvarnost, istina
+-来
+--来年, らい.ねん: iduća godina
+--来る、　く.る: doći
+--来ます, き.ます: doći (pristojno)
+-年
+--年, とし: godina
+--去年, きょ.ねん: prošla godina
+
+
+
+4. lekcija
+-自
+--自由, じ.ゆう: sloboda
+--自然, し.ぜん: priroda
+-分
+--分, ぶん: dio
+--分, ふん: minuta
+--自分, じ.ぶん: svoje
+--分かる, わ.かる: razumjeti
+-好
+--好き, す.き: voljeti
+-人
+--人, ひと: osoba
+--人口, じん.こう: populacija
+--一人, ひとり: jedna osoba
+--三人, さん.にん: tri osobe
+-父
+--父, ちち: otac
+--父さん, とう.さん: otac (pristojno)
+-母
+--母母, はは: majka
+--母さん, かあ.さん: majka (pristojno)
+-主
+--主人, しゅ.じん: glava kuće, muž, vlasnik, šef
+-回
+--~回, ~かい: brojač ponavljanja
+--回る, ま.わる: okretati se
+-行
+--行く, い.く: ići
+--行動, こう.どう: radnja
+--走行, そう.こう: putovanje
+-見
+--見る, み.る: vidjeti, gledati
+--意見, い.けん: mišljenje
+-水
+--水, みず: voda
+--水曜日, すい.よう.び: srijeda

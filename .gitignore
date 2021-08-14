@@ -1,6 +1,7 @@
 *.synctex
 *.synctex.gz
 **/tex_aux
+**/__pycache__/**
 *.pdf
 *.aux
 *.log

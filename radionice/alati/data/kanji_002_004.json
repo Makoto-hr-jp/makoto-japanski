@@ -1,0 +1,422 @@
+{
+  "2": {
+    "点": [
+      {
+        "kanji": "点",
+        "reading": "てん",
+        "meaning": "točka, bod, ocjena"
+      }
+    ],
+    "半": [
+      {
+        "kanji": "半",
+        "reading": "はん",
+        "meaning": "pola, polovica"
+      }
+    ],
+    "音": [
+      {
+        "kanji": "音",
+        "reading": "おと",
+        "meaning": "zvuk"
+      },
+      {
+        "kanji": "音楽",
+        "reading": "おん.がく",
+        "meaning": "glazba"
+      }
+    ],
+    "先": [
+      {
+        "kanji": "先",
+        "reading": "さき",
+        "meaning": "prethodno"
+      },
+      {
+        "kanji": "先生",
+        "reading": "せん.せい",
+        "meaning": "učitelj"
+      }
+    ],
+    "生": [
+      {
+        "kanji": "生",
+        "reading": "なま",
+        "meaning": "sirovo, uživo (npr. TV prijenos)"
+      },
+      {
+        "kanji": "人生",
+        "reading": "じん.せい",
+        "meaning": "ljudski život"
+      },
+      {
+        "kanji": "生きる",
+        "reading": "い.きる",
+        "meaning": "živjeti"
+      },
+      {
+        "kanji": "生まれ",
+        "reading": "う.まれ",
+        "meaning": "rodno mjesto"
+      }
+    ],
+    "今": [
+      {
+        "kanji": "今",
+        "reading": "いま",
+        "meaning": "sada"
+      },
+      {
+        "kanji": "今日",
+        "reading": "きょう",
+        "meaning": "danas"
+      },
+      {
+        "kanji": "今日は",
+        "reading": "こん.にち.は",
+        "meaning": "dobar dan"
+      }
+    ],
+    "日": [
+      {
+        "kanji": "日",
+        "reading": "ひ",
+        "meaning": "dan, sunce"
+      },
+      {
+        "kanji": "日曜日",
+        "reading": "にち.よう.び",
+        "meaning": "nedjelja"
+      },
+      {
+        "kanji": "先日",
+        "reading": "せん.じつ",
+        "meaning": "nekidan"
+      }
+    ],
+    "猫": [
+      {
+        "kanji": "猫",
+        "reading": "ねこ",
+        "meaning": "mačka"
+      }
+    ],
+    "犬": [
+      {
+        "kanji": "犬",
+        "reading": "いぬ",
+        "meaning": "pas"
+      }
+    ],
+    "森": [
+      {
+        "kanji": "森",
+        "reading": "もり",
+        "meaning": "šuma"
+      }
+    ],
+    "石": [
+      {
+        "kanji": "石",
+        "reading": "いし",
+        "meaning": "kamen"
+      }
+    ],
+    "風": [
+      {
+        "kanji": "風",
+        "reading": "かぜ",
+        "meaning": "vjetar"
+      }
+    ],
+    "光": [
+      {
+        "kanji": "光",
+        "reading": "ひかり",
+        "meaning": "svjetlo"
+      }
+    ],
+    "月": [
+      {
+        "kanji": "月",
+        "reading": "つき",
+        "meaning": "mjesec"
+      },
+      {
+        "kanji": "三月",
+        "reading": "さん.がつ",
+        "meaning": "ožujak"
+      },
+      {
+        "kanji": "今月",
+        "reading": "こん.げつ",
+        "meaning": "ovaj mjesec"
+      }
+    ],
+    "空": [
+      {
+        "kanji": "空",
+        "reading": "そら",
+        "meaning": "nebo"
+      },
+      {
+        "kanji": "空気",
+        "reading": "くう.き",
+        "meaning": "zrak, atmosfera"
+      }
+    ],
+    "天": [
+      {
+        "kanji": "天気",
+        "reading": "てん.き",
+        "meaning": "vrijeme (u meteorološkom smislu)"
+      }
+    ],
+    "川": [
+      {
+        "kanji": "川",
+        "reading": "かわ",
+        "meaning": "rijeka"
+      }
+    ]
+  },
+  "3": {
+    "木": [
+      {
+        "kanji": "木",
+        "reading": "き",
+        "meaning": "drvo, stablo"
+      },
+      {
+        "kanji": "木曜日",
+        "reading": "もく.よう.び",
+        "meaning": "četvrtak"
+      }
+    ],
+    "土": [
+      {
+        "kanji": "土",
+        "reading": "つち",
+        "meaning": "zemlja, tlo"
+      },
+      {
+        "kanji": "土曜日",
+        "reading": "ど.よう.び",
+        "meaning": "subota"
+      }
+    ],
+    "虫": [
+      {
+        "kanji": "虫",
+        "reading": "むし",
+        "meaning": "insekt"
+      }
+    ],
+    "色": [
+      {
+        "kanji": "色",
+        "reading": "いろ",
+        "meaning": "boja"
+      },
+      {
+        "kanji": "色々",
+        "reading": "いろ.いろ",
+        "meaning": "razno"
+      }
+    ],
+    "花": [
+      {
+        "kanji": "花",
+        "reading": "はな",
+        "meaning": "cvijeće"
+      }
+    ],
+    "私": [
+      {
+        "kanji": "私",
+        "reading": "わたし",
+        "meaning": "ja"
+      },
+      {
+        "kanji": "私立",
+        "reading": "し.りつ",
+        "meaning": "privatno (vlasništvo)"
+      }
+    ],
+    "本": [
+      {
+        "kanji": "本",
+        "reading": "ほん",
+        "meaning": "knjiga"
+      },
+      {
+        "kanji": "本当",
+        "reading": "ほん.とう",
+        "meaning": "stvarnost, istina"
+      }
+    ],
+    "来": [
+      {
+        "kanji": "来年",
+        "reading": "らい.ねん",
+        "meaning": "iduća godina"
+      },
+      {
+        "kanji": "来ます",
+        "reading": "き.ます",
+        "meaning": "doći (pristojno)"
+      }
+    ],
+    "年": [
+      {
+        "kanji": "年",
+        "reading": "とし",
+        "meaning": "godina"
+      },
+      {
+        "kanji": "去年",
+        "reading": "きょ.ねん",
+        "meaning": "prošla godina"
+      }
+    ]
+  },
+  "4": {
+    "自": [
+      {
+        "kanji": "自由",
+        "reading": "じ.ゆう",
+        "meaning": "sloboda"
+      },
+      {
+        "kanji": "自然",
+        "reading": "し.ぜん",
+        "meaning": "priroda"
+      }
+    ],
+    "分": [
+      {
+        "kanji": "分",
+        "reading": "ぶん",
+        "meaning": "dio"
+      },
+      {
+        "kanji": "分",
+        "reading": "ふん",
+        "meaning": "minuta"
+      },
+      {
+        "kanji": "自分",
+        "reading": "じ.ぶん",
+        "meaning": "svoje"
+      },
+      {
+        "kanji": "分かる",
+        "reading": "わ.かる",
+        "meaning": "razumjeti"
+      }
+    ],
+    "好": [
+      {
+        "kanji": "好き",
+        "reading": "す.き",
+        "meaning": "voljeti"
+      }
+    ],
+    "人": [
+      {
+        "kanji": "人",
+        "reading": "ひと",
+        "meaning": "osoba"
+      },
+      {
+        "kanji": "人口",
+        "reading": "じん.こう",
+        "meaning": "populacija"
+      },
+      {
+        "kanji": "一人",
+        "reading": "ひとり",
+        "meaning": "jedna osoba"
+      },
+      {
+        "kanji": "三人",
+        "reading": "さん.にん",
+        "meaning": "tri osobe"
+      }
+    ],
+    "父": [
+      {
+        "kanji": "父",
+        "reading": "ちち",
+        "meaning": "otac"
+      },
+      {
+        "kanji": "父さん",
+        "reading": "とう.さん",
+        "meaning": "otac (pristojno)"
+      }
+    ],
+    "母": [
+      {
+        "kanji": "母母",
+        "reading": "はは",
+        "meaning": "majka"
+      },
+      {
+        "kanji": "母さん",
+        "reading": "かあ.さん",
+        "meaning": "majka (pristojno)"
+      }
+    ],
+    "主": [
+      {
+        "kanji": "主人",
+        "reading": "しゅ.じん",
+        "meaning": "glava kuće, muž, vlasnik, šef"
+      }
+    ],
+    "回": [
+      {
+        "kanji": "回る",
+        "reading": "ま.わる",
+        "meaning": "okretati se"
+      }
+    ],
+    "行": [
+      {
+        "kanji": "行く",
+        "reading": "い.く",
+        "meaning": "ići"
+      },
+      {
+        "kanji": "行動",
+        "reading": "こう.どう",
+        "meaning": "radnja"
+      },
+      {
+        "kanji": "走行",
+        "reading": "そう.こう",
+        "meaning": "putovanje"
+      }
+    ],
+    "見": [
+      {
+        "kanji": "見る",
+        "reading": "み.る",
+        "meaning": "vidjeti, gledati"
+      },
+      {
+        "kanji": "意見",
+        "reading": "い.けん",
+        "meaning": "mišljenje"
+      }
+    ],
+    "水": [
+      {
+        "kanji": "水",
+        "reading": "みず",
+        "meaning": "voda"
+      }
+    ]
+  }
+}
