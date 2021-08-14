@@ -127,6 +127,11 @@
         "kanji": "風",
         "reading": "かぜ",
         "meaning": "vjetar"
+      },
+      {
+        "kanji": "~風",
+        "reading": "~ふう",
+        "meaning": "stil"
       }
     ],
     "光": [
@@ -377,6 +382,11 @@
     ],
     "回": [
       {
+        "kanji": "~回",
+        "reading": "~かい",
+        "meaning": "brojač ponavljanja"
+      },
+      {
         "kanji": "回る",
         "reading": "ま.わる",
         "meaning": "okretati se"
@@ -416,6 +426,11 @@
         "kanji": "水",
         "reading": "みず",
         "meaning": "voda"
+      },
+      {
+        "kanji": "水曜日",
+        "reading": "すい.よう.び",
+        "meaning": "srijeda"
       }
     ]
   }

@@ -1,0 +1,243 @@
+{
+  "5": {
+    "名": [
+      {
+        "kanji": "名前",
+        "reading": "な.まえ",
+        "meaning": "ime"
+      },
+      {
+        "kanji": "有名",
+        "reading": "ゆう.めい",
+        "meaning": "poznato"
+      }
+    ],
+    "前": [
+      {
+        "kanji": "前",
+        "reading": "まえ",
+        "meaning": "ispred, prije"
+      },
+      {
+        "kanji": "午前",
+        "reading": "ご.ぜん",
+        "meaning": "prijepodne"
+      }
+    ],
+    "友": [
+      {
+        "kanji": "友達",
+        "reading": "とも.だち",
+        "meaning": "prijatelj"
+      },
+      {
+        "kanji": "友情",
+        "reading": "ゆう.じょう",
+        "meaning": "prijateljstvo"
+      }
+    ],
+    "鳥": [
+      {
+        "kanji": "鳥",
+        "reading": "とり",
+        "meaning": "ptica"
+      }
+    ]
+  },
+  "6": {
+    "白": [
+      {
+        "kanji": "白",
+        "reading": "しろ",
+        "meaning": "bijelo"
+      },
+      {
+        "kanji": "白人",
+        "reading": "はく.じん",
+        "meaning": "bijelac"
+      }
+    ],
+    "黒": [
+      {
+        "kanji": "黒",
+        "reading": "くろ",
+        "meaning": "crno"
+      },
+      {
+        "kanji": "黒板",
+        "reading": "こく.ばん",
+        "meaning": "školska ploča (za kredu)"
+      }
+    ],
+    "暗": [
+      {
+        "kanji": "暗い",
+        "reading": "くら.い",
+        "meaning": "tamno"
+      },
+      {
+        "kanji": "暗記",
+        "reading": "あん.き",
+        "meaning": "memorizacija, pamćenje"
+      }
+    ],
+    "明": [
+      {
+        "kanji": "明るい",
+        "reading": "あか.るい",
+        "meaning": "svijetlo"
+      },
+      {
+        "kanji": "不明",
+        "reading": "ふめ.い",
+        "meaning": "nejasno"
+      },
+      {
+        "kanji": "明日",
+        "reading": "あした <specijalno čitanje>",
+        "meaning": "sutra"
+      }
+    ],
+    "赤": [
+      {
+        "kanji": "赤",
+        "reading": "あか",
+        "meaning": "crveno"
+      }
+    ],
+    "大": [
+      {
+        "kanji": "大きい",
+        "reading": "おお.きい",
+        "meaning": "veliko"
+      },
+      {
+        "kanji": "大切",
+        "reading": "たい.せつ",
+        "meaning": "bitno, važno"
+      },
+      {
+        "kanji": "大体",
+        "reading": "だい.たい",
+        "meaning": "općenito, ugrubo, ukratko"
+      }
+    ],
+    "小": [
+      {
+        "kanji": "小さい",
+        "reading": "ちい.さい",
+        "meaning": "malo"
+      },
+      {
+        "kanji": "小学校",
+        "reading": "しょう.がっ.こう",
+        "meaning": "osnovna škola"
+      },
+      {
+        "kanji": "小鳥",
+        "reading": "こ.とり",
+        "meaning": "mala ptica"
+      }
+    ],
+    "丸": [
+      {
+        "kanji": "丸",
+        "reading": "まる",
+        "meaning": "krug"
+      }
+    ],
+    "太": [
+      {
+        "kanji": "太い",
+        "reading": "ふ.とい",
+        "meaning": "debelo"
+      },
+      {
+        "kanji": "太陽",
+        "reading": "たい.よう",
+        "meaning": "Sunce (nebesko tijelo)"
+      }
+    ],
+    "目": [
+      {
+        "kanji": "目",
+        "reading": "め",
+        "meaning": "oko"
+      },
+      {
+        "kanji": "目標",
+        "reading": "もく.ひょう",
+        "meaning": "cilj"
+      }
+    ],
+    "去": [
+      {
+        "kanji": "去年",
+        "reading": "きょ.ねん",
+        "meaning": "prošla godina"
+      },
+      {
+        "kanji": "過去",
+        "reading": "か.こ",
+        "meaning": "prošlost"
+      }
+    ]
+  },
+  "7": {
+    "有": [
+      {
+        "kanji": "有名",
+        "reading": "ゆう.めい",
+        "meaning": "poznato"
+      }
+    ],
+    "時": [
+      {
+        "kanji": "時",
+        "reading": "とき",
+        "meaning": "vrijeme"
+      },
+      {
+        "kanji": "一時",
+        "reading": "いち.じ",
+        "meaning": "1:00 h (točno vrijeme, ne trajanje)"
+      },
+      {
+        "kanji": "時計",
+        "reading": "と.けい <nepravilno čitanje>",
+        "meaning": "ručni sat"
+      }
+    ],
+    "子": [
+      {
+        "kanji": "女の子",
+        "reading": "おんな.の.こ",
+        "meaning": "djevojka, djevojčica"
+      },
+      {
+        "kanji": "女子",
+        "reading": "じょ.し",
+        "meaning": "žena, cura, djevojka"
+      }
+    ],
+    "供": [
+      {
+        "kanji": "子供",
+        "reading": "こ.ども",
+        "meaning": "dijete"
+      }
+    ],
+    "車": [
+      {
+        "kanji": "車",
+        "reading": "くるま",
+        "meaning": "auto"
+      },
+      {
+        "kanji": "電車",
+        "reading": "でん.しゃ",
+        "meaning": "vlak"
+      }
+    ]
+  }
+}

@@ -12,8 +12,8 @@ import json
 SOURCES = "./data/"
 
 LEKCIJA = re.compile(r"([0-9]+)\.\s*lekcija\s*\n")
-KANJI = re.compile(r"\-(\w+)\s*\n")
-EXAMPLE = re.compile(r"\-\-(\w+),(\s*[\w\.]+):\s*(.*)\n")
+KANJI = re.compile(r"\-([\w\~\<\>]+)\s*\n")
+EXAMPLE = re.compile(r"\-\-([\w\~\<\>]+),\s*(.+?):\s*(.*)\n")
 
 def parse_kanji(entry: str) -> list:
     """Parse an individual entry."""
@@ -46,7 +46,7 @@ def parse_file(path: str):
     """Transform file content to python structures describing kanji entries."""
     print(f"Parsing {path}...")
     with open(path, encoding="utf-8") as src:
-        raw = src.read()
+        raw = src.read() + "\n"
     ret = get_segments(raw)
     print(f"Found lessons: {list(ret.keys())}")
     return ret

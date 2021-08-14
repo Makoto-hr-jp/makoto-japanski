@@ -11,8 +11,18 @@ import kdict
 DEFAULT_TEMPLATE = "./kdict_output/template.tex"
 DEFAULT_OUTPUT = "./kdict_output/"
 
+CHAR_REMAPS = {"~": "\\textasciitilde "}
+
+def process_special_chars(segment: str) -> str:
+    ret = segment
+    for old, new in CHAR_REMAPS.items():
+        ret = ret.replace(old, new)
+    return ret
+
 def example_to_tex(example: dict) -> str:
-    return f"\\example{{{example['kanji']}}}{{{example['reading']}}}{{{example['meaning']}}}"
+    return (f"\\example{{{example['kanji']}}}"
+            f"{{{example['reading']}}}"
+            f"{{{example['meaning']}}}")
 
 def kanji_to_tex(kanji: str, examples: list) -> str:
     """Aggregate examples for each kanji."""
@@ -34,6 +44,7 @@ def make_tex(lesson: int, content: dict, template=DEFAULT_TEMPLATE, output=DEFAU
         raw = f.read()
     out = raw.replace("@LNUM", lnum)
     out = out.replace("@CONTENT", cdump)
+    out = process_special_chars(out)
     outname = output+f"kdict_{lnum}.tex"
     with open(outname, "w", encoding="utf-8") as f:
         f.write(out)
