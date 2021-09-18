@@ -1,0 +1,292 @@
+{
+  "18": {
+    "知": [
+      {
+        "kanji": "知る",
+        "reading": "し.る",
+        "meaning": "znati"
+      },
+      {
+        "kanji": "知らせ",
+        "reading": "し.らせ",
+        "meaning": "obavijest"
+      },
+      {
+        "kanji": "知り合い",
+        "reading": "し.り.あ.い",
+        "meaning": "poznanik"
+      },
+      {
+        "kanji": "知識",
+        "reading": "ち.しき",
+        "meaning": "znanje"
+      },
+      {
+        "kanji": "知恵",
+        "reading": "ち.え",
+        "meaning": "mudrost"
+      }
+    ],
+    "待": [
+      {
+        "kanji": "待つ",
+        "reading": "ま.つ",
+        "meaning": "čekati"
+      },
+      {
+        "kanji": "期待",
+        "reading": "き.たい",
+        "meaning": "očekivanje"
+      }
+    ],
+    "持": [
+      {
+        "kanji": "持つ",
+        "reading": "も.つ",
+        "meaning": "držati"
+      },
+      {
+        "kanji": "気持ち",
+        "reading": "き.も.ち",
+        "meaning": "osjećaj"
+      },
+      {
+        "kanji": "維持",
+        "reading": "い.じ",
+        "meaning": "održavanje"
+      }
+    ]
+  },
+  "19": {
+    "気": [
+      {
+        "kanji": "気",
+        "reading": "き",
+        "meaning": "duh, um"
+      },
+      {
+        "kanji": "人気",
+        "reading": "にん.き",
+        "meaning": "popularno"
+      },
+      {
+        "kanji": "気分",
+        "reading": "き.ぶん",
+        "meaning": "raspoloženje"
+      },
+      {
+        "kanji": "元気",
+        "reading": "げん.き",
+        "meaning": "zdravlje, energičnost"
+      },
+      {
+        "kanji": "病気",
+        "reading": "びょう.き",
+        "meaning": "bolest"
+      },
+      {
+        "kanji": "湯気",
+        "reading": "ゆ.げ",
+        "meaning": "vodena para"
+      }
+    ],
+    "付": [
+      {
+        "kanji": "付ける",
+        "reading": "つ.ける",
+        "meaning": "pričvrstiti nešto"
+      },
+      {
+        "kanji": "付く",
+        "reading": "つ.く",
+        "meaning": "biti pričvršćen"
+      },
+      {
+        "kanji": "気を付ける",
+        "reading": "き.を.つ.ける",
+        "meaning": "paziti, biti oprezan"
+      },
+      {
+        "kanji": "気付く",
+        "reading": "き.づ.く",
+        "meaning": "shvatiti, prepoznati"
+      },
+      {
+        "kanji": "受付",
+        "reading": "うけ.つけ",
+        "meaning": "recepcija"
+      },
+      {
+        "kanji": "付近",
+        "reading": "ふ.きん",
+        "meaning": "susjedstvo"
+      }
+    ],
+    "聞": [
+      {
+        "kanji": "聞く",
+        "reading": "き.く",
+        "meaning": "čuti, slušati, pitati"
+      },
+      {
+        "kanji": "新聞",
+        "reading": "しん.ぶん",
+        "meaning": "novine"
+      }
+    ]
+  },
+  "20": {
+    "次": [
+      {
+        "kanji": "次",
+        "reading": "つぎ",
+        "meaning": "sljedeće, iduće"
+      },
+      {
+        "kanji": "次回",
+        "reading": "じ.かい",
+        "meaning": "idući put"
+      }
+    ],
+    "字": [
+      {
+        "kanji": "字",
+        "reading": "じ",
+        "meaning": "slovo, simbol (npr. kanji)"
+      },
+      {
+        "kanji": "漢字",
+        "reading": "かん.じ",
+        "meaning": "kanji"
+      },
+      {
+        "kanji": "数字",
+        "reading": "すう.じ",
+        "meaning": "brojka, numeral"
+      }
+    ],
+    "文": [
+      {
+        "kanji": "文",
+        "reading": "ぶん",
+        "meaning": "rečenica, tekst"
+      },
+      {
+        "kanji": "文化",
+        "reading": "ぶん.か",
+        "meaning": "kultura"
+      },
+      {
+        "kanji": "文句",
+        "reading": "もん.く",
+        "meaning": "prigovor"
+      },
+      {
+        "kanji": "文字",
+        "reading": "も.じ <nepravilno čitanje>",
+        "meaning": "slovo, simbol (npr. kanji)"
+      }
+    ],
+    "直": [
+      {
+        "kanji": "直す",
+        "reading": "なお.す",
+        "meaning": "popraviti nešto"
+      },
+      {
+        "kanji": "正直",
+        "reading": "しょう.じき",
+        "meaning": "iskreno"
+      },
+      {
+        "kanji": "直接",
+        "reading": "ちょく.せつ",
+        "meaning": "direktno"
+      }
+    ],
+    "始": [
+      {
+        "kanji": "始まる",
+        "reading": "はじ.まる",
+        "meaning": "započeti"
+      },
+      {
+        "kanji": "開始",
+        "reading": "かい.し",
+        "meaning": "početak"
+      }
+    ],
+    "終": [
+      {
+        "kanji": "終わる",
+        "reading": "お.わる",
+        "meaning": "završiti"
+      },
+      {
+        "kanji": "終了",
+        "reading": "しゅう.りょう",
+        "meaning": "kraj"
+      }
+    ],
+    "道": [
+      {
+        "kanji": "道",
+        "reading": "みち",
+        "meaning": "put, cesta"
+      },
+      {
+        "kanji": "道具",
+        "reading": "どう.ぐ",
+        "meaning": "alat"
+      }
+    ],
+    "室": [
+      {
+        "kanji": "~室",
+        "reading": "~しつ",
+        "meaning": "soba, prostorija"
+      },
+      {
+        "kanji": "教室",
+        "reading": "きょう.しつ",
+        "meaning": "učionica"
+      }
+    ],
+    "読": [
+      {
+        "kanji": "読む",
+        "reading": "よ.む",
+        "meaning": "čitati"
+      },
+      {
+        "kanji": "読書",
+        "reading": "どく.しょ",
+        "meaning": "čitanje"
+      }
+    ],
+    "戻": [
+      {
+        "kanji": "戻る",
+        "reading": "もど.る",
+        "meaning": "vratiti se"
+      }
+    ],
+    "数": [
+      {
+        "kanji": "数",
+        "reading": "かず",
+        "meaning": "broj"
+      },
+      {
+        "kanji": "数える",
+        "reading": "かぞ.える",
+        "meaning": "brojati"
+      },
+      {
+        "kanji": "数学",
+        "reading": "すう.がく",
+        "meaning": "matematika"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+18. lekcija
+-知
+--知る, し.る: znati
+--知らせ,　し.らせ: obavijest
+--知り合い,　し.り.あ.い: poznanik
+--知識,　ち.しき: znanje
+--知恵,　ち.え: mudrost
+-待
+--待つ,　ま.つ: čekati
+--期待,　き.たい: očekivanje
+-持
+--持つ,　も.つ: držati
+--気持ち,　き.も.ち: osjećaj
+--維持,　い.じ: održavanje
+
+
+
+19. lekcija
+-気
+--気, き: duh, um
+--人気,　にん.き: popularno
+--気分,　き.ぶん: raspoloženje
+--元気,　げん.き: zdravlje, energičnost
+--病気,　びょう.き: bolest
+--湯気,　ゆ.げ: vodena para
+-付
+--付ける,　つ.ける: pričvrstiti nešto
+--付く, つ.く: biti pričvršćen
+--気を付ける,　き.を.つ.ける: paziti, biti oprezan
+--気付く,　き.づ.く: shvatiti, prepoznati
+--受付, うけ.つけ: recepcija
+--付近, ふ.きん: susjedstvo
+-聞
+--聞く, き.く: čuti, slušati, pitati
+--新聞,　しん.ぶん: novine
+
+
+
+20. lekcija
+-次
+--次, つぎ: sljedeće, iduće
+--次回,　じ.かい: idući put
+-字
+--字, じ: slovo, simbol (npr. kanji)
+--漢字, かん.じ: kanji
+--数字, すう.じ: brojka, numeral
+-文
+--文, ぶん: rečenica, tekst
+--文化, ぶん.か: kultura
+--文句, もん.く: prigovor
+--文字, も.じ <nepravilno čitanje>: slovo, simbol (npr. kanji)
+-直
+--直す, なお.す: popraviti nešto
+--正直,　しょう.じき: iskreno
+--直接, ちょく.せつ: direktno
+-始
+--始まる, はじ.まる: započeti
+--開始,　かい.し: početak
+-終
+--終わる, お.わる: završiti
+--終了,　しゅう.りょう: kraj
+-道
+--道, みち: put, cesta
+--道具, どう.ぐ: alat
+-室
+--~室, ~しつ: soba, prostorija
+--教室, きょう.しつ: učionica
+-読
+--読む, よ.む: čitati
+--読書,　どく.しょ: čitanje
+-戻
+--戻る, もど.る: vratiti se
+-数
+--数, かず: broj
+--数える,　かぞ.える: brojati
+--数学,　すう.がく: matematika

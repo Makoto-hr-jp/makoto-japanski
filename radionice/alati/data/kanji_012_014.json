@@ -1,0 +1,316 @@
+{
+  "12": {
+    "山": [
+      {
+        "kanji": "山",
+        "reading": "やま",
+        "meaning": "planina"
+      },
+      {
+        "kanji": "ふじ山",
+        "reading": "ふじ.さん",
+        "meaning": "planina Fuji"
+      },
+      {
+        "kanji": "火山",
+        "reading": "か.ざん",
+        "meaning": "vulkan"
+      }
+    ],
+    "安": [
+      {
+        "kanji": "安い",
+        "reading": "やす.い",
+        "meaning": "jeftino"
+      },
+      {
+        "kanji": "平安",
+        "reading": "へい.あん",
+        "meaning": "mir"
+      }
+    ],
+    "女": [
+      {
+        "kanji": "女",
+        "reading": "おんな",
+        "meaning": "žena"
+      },
+      {
+        "kanji": "女子",
+        "reading": "じょ.し",
+        "meaning": "djevojka, cura"
+      }
+    ],
+    "男": [
+      {
+        "kanji": "男",
+        "reading": "おとこ",
+        "meaning": "muškarac"
+      },
+      {
+        "kanji": "男性",
+        "reading": "だん.せい",
+        "meaning": "muškarac, muški spol"
+      }
+    ],
+    "声": [
+      {
+        "kanji": "声",
+        "reading": "こえ",
+        "meaning": "glas"
+      }
+    ],
+    "田": [
+      {
+        "kanji": "田",
+        "reading": "た",
+        "meaning": "polje riže"
+      },
+      {
+        "kanji": "田舎",
+        "reading": "いなか <specijalno čitanje>",
+        "meaning": "selo, ruralno područje"
+      }
+    ],
+    "語": [
+      {
+        "kanji": "日本語",
+        "reading": "に.ほん.ご",
+        "meaning": "japanski jezik"
+      },
+      {
+        "kanji": "物語",
+        "reading": "もの.がたり",
+        "meaning": "priča, pripovjetka"
+      }
+    ]
+  },
+  "13": {
+    "右": [
+      {
+        "kanji": "右",
+        "reading": "みぎ",
+        "meaning": "desno"
+      }
+    ],
+    "左": [
+      {
+        "kanji": "左",
+        "reading": "ひだり",
+        "meaning": "lijevo"
+      }
+    ],
+    "中": [
+      {
+        "kanji": "中",
+        "reading": "なか",
+        "meaning": "sredina, unutar"
+      },
+      {
+        "kanji": "中々",
+        "reading": "なか.なか",
+        "meaning": "podosta"
+      },
+      {
+        "kanji": "中央",
+        "reading": "ちゅう.おう",
+        "meaning": "centar, centralno"
+      }
+    ],
+    "下": [
+      {
+        "kanji": "下",
+        "reading": "した",
+        "meaning": "dolje, ispod"
+      },
+      {
+        "kanji": "下さい",
+        "reading": "くだ.さい",
+        "meaning": "molim lijepo"
+      },
+      {
+        "kanji": "下げる",
+        "reading": "さ.げる",
+        "meaning": "spustiti (nešto)"
+      },
+      {
+        "kanji": "下手",
+        "reading": "へた <specijalno čitanje (mislim, trebalo bi možda provjeriti na nekom japanskom sajtu jel 熟字訓 ili nepravilno čitanje)>",
+        "meaning": "loš(a) u nečemu"
+      },
+      {
+        "kanji": "地下",
+        "reading": "ち.か",
+        "meaning": "podzemno"
+      }
+    ],
+    "後": [
+      {
+        "kanji": "後で",
+        "reading": "あと.で",
+        "meaning": "poslije, nakon (vremenski)"
+      },
+      {
+        "kanji": "後ろ",
+        "reading": "うし.ろ",
+        "meaning": "iza (fizički), straga"
+      },
+      {
+        "kanji": "午後",
+        "reading": "ご.ご",
+        "meaning": "poslijepodne"
+      },
+      {
+        "kanji": "後輩",
+        "reading": "こう.はい",
+        "meaning": "mlađi u nečemu (student, djelatnik, itd.)"
+      }
+    ],
+    "外": [
+      {
+        "kanji": "外",
+        "reading": "そと",
+        "meaning": "vani"
+      },
+      {
+        "kanji": "外国人",
+        "reading": "がい.こく.じん",
+        "meaning": "stranac"
+      },
+      {
+        "kanji": "外す",
+        "reading": "はず.す",
+        "meaning": "odvojiti, odspojiti, odstraniti"
+      }
+    ],
+    "歩": [
+      {
+        "kanji": "歩く",
+        "reading": "ある.く",
+        "meaning": "hodati"
+      },
+      {
+        "kanji": "歩道",
+        "reading": "ほ.どう",
+        "meaning": "nogostup"
+      },
+      {
+        "kanji": "散歩",
+        "reading": "さん.ぽ",
+        "meaning": "šetnja"
+      }
+    ],
+    "家": [
+      {
+        "kanji": "家",
+        "reading": "いえ",
+        "meaning": "kuća, prebivalište"
+      },
+      {
+        "kanji": "家",
+        "reading": "うち",
+        "meaning": "kuća, dom"
+      },
+      {
+        "kanji": "家族",
+        "reading": "か.ぞく",
+        "meaning": "obitelj"
+      }
+    ],
+    "走": [
+      {
+        "kanji": "走る",
+        "reading": "はし.る",
+        "meaning": "trčati"
+      },
+      {
+        "kanji": "走行",
+        "reading": "そう.こう",
+        "meaning": "putovanje, kretanje (vozila)"
+      }
+    ],
+    "学": [
+      {
+        "kanji": "学生",
+        "reading": "がく.せい",
+        "meaning": "učenik, student"
+      },
+      {
+        "kanji": "文学",
+        "reading": "ぶん.がく",
+        "meaning": "literatura"
+      }
+    ],
+    "校": [
+      {
+        "kanji": "学校",
+        "reading": "がっ.こう",
+        "meaning": "škola"
+      }
+    ],
+    "店": [
+      {
+        "kanji": "店",
+        "reading": "みせ",
+        "meaning": "dućan, lokal"
+      },
+      {
+        "kanji": "店員",
+        "reading": "てん.いん",
+        "meaning": "zaposlenik dućana ili lokala"
+      }
+    ],
+    "近": [
+      {
+        "kanji": "近い",
+        "reading": "ちか.い",
+        "meaning": "blizu"
+      },
+      {
+        "kanji": "近所",
+        "reading": "きん.じょ",
+        "meaning": "susjedstvo"
+      }
+    ],
+    "達": [
+      {
+        "kanji": "友達",
+        "reading": "とも.だち",
+        "meaning": "prijatelj(i)"
+      }
+    ]
+  },
+  "14": {
+    "夕": [
+      {
+        "kanji": "夕べ",
+        "reading": "ゆう.べ",
+        "meaning": "večer"
+      }
+    ],
+    "思": [
+      {
+        "kanji": "思う",
+        "reading": "おも.う",
+        "meaning": "misliti"
+      },
+      {
+        "kanji": "思想",
+        "reading": "し.そう",
+        "meaning": "misao, ideja"
+      }
+    ],
+    "夜": [
+      {
+        "kanji": "夜",
+        "reading": "よる",
+        "meaning": "noć"
+      },
+      {
+        "kanji": "今夜",
+        "reading": "こん.や",
+        "meaning": "večeras"
+      }
+    ]
+  }
+}

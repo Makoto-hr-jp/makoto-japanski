@@ -1,0 +1,84 @@
+15. lekcija
+-一
+--一, いち: jedan
+--一つ,　ひと.つ: jedna stvar
+-二
+--二,　に: dva
+--二つ,　ふた.つ: dvije stvari
+-三
+--三,　さん: tri
+--三つ,　みっ.つ: tri stvari
+-四
+--四,　よん/し: četiri
+--四つ,　よっ.つ: četiri stvari
+-五
+--五,　ご: pet
+--五つ,　いつ.つ: pet stvari
+-六
+--六,　ろく: šest
+--六つ,　むっ.つ: šest stvari
+-七
+--七,　なな/しち: sedam
+--七つ,　なな.つ: sedam stvari
+-八
+--八,　はち: osam
+--八つ,　やっ.つ: osam stvari
+-九
+--九,　きゅう/く: devet
+--九つ,　ここの.つ: devet stvari
+-十
+--十,　じゅう: deset
+--十日,　とお.か: deset dana ili deseti dan
+-百
+--百,　ひゃく: sto
+-千
+--千,　せん: tisuću
+-万
+--万,　まん: deset tisuća
+-個
+--個,　こ: brojač za male stvari
+
+
+
+16. lekcija
+-枚
+--枚, まい: brojač za plosnate stvari
+-台
+--台,　だい:  brojač za strojeve
+--台所,　だい.どころ: kuhinja
+--台風,　たい.ふう: tajfun
+-匹
+--匹,　ひき: brojač za male životinje
+-町
+--町,　まち: grad, gradić, kvart (u većim gradovima)
+--町民,　ちょう.みん: građanin
+-話
+--話す,　はな.す: pričati
+--電話,　でん.わ: telefon
+-会
+--会う,　あ.う: naći se, susresti
+--会話,　かい.わ: razgovor
+
+
+
+17. lekcija
+-何
+--何, なに/なん: upitni prefiks, upitna čestica "što"
+-最
+--最~, さい~: prefiks "naj~"
+--最近, さい.きん: nedavno
+--最初, さい.しょ: prvo, početak
+--最高、 さい.こう: najviše (u smislu visine), najbolje
+--最も, もっと.も: naj, najviše (u smislu stupnja)
+-度
+--~度, ~ど: sufiks za stupnjeve (kut, temperatura) ili repeticije
+--丁度, ちょう.ど: točno, precizno
+--何度, なん.ど: koliko puta
+--毎度, まい.ど: svaki put, uvijek, često
+-買
+--買う、 か.う: kupovati
+--買い物, か.い.もの: kupovanje, shopping, kupljene stvari
+--購買,　こう.ばい: kupovina
+-魚
+--魚, さかな: riba
+--金魚、 きん.ぎょ: zlatna ribica

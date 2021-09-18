@@ -1,0 +1,284 @@
+{
+  "8": {
+    "出": [
+      {
+        "kanji": "出る",
+        "reading": "で.る",
+        "meaning": "izaći"
+      },
+      {
+        "kanji": "出す",
+        "reading": "だ.す",
+        "meaning": "izvaditi nešto"
+      },
+      {
+        "kanji": "出口",
+        "reading": "で.ぐち",
+        "meaning": "izlaz"
+      },
+      {
+        "kanji": "思い出",
+        "reading": "おも.い.で",
+        "meaning": "sjećanje"
+      },
+      {
+        "kanji": "思い出す",
+        "reading": "おも.い.だ.す",
+        "meaning": "sjetiti se"
+      },
+      {
+        "kanji": "出会う",
+        "reading": "で.あ.う",
+        "meaning": "nabasati na nekoga"
+      },
+      {
+        "kanji": "外出",
+        "reading": "がい.しゅつ",
+        "meaning": "izlazak van"
+      },
+      {
+        "kanji": "出身",
+        "reading": "しゅっ.しん",
+        "meaning": "rodni kraj, porijeklo"
+      }
+    ],
+    "上": [
+      {
+        "kanji": "上",
+        "reading": "うえ",
+        "meaning": "gore, iznad, na"
+      },
+      {
+        "kanji": "年上",
+        "reading": "とし.うえ",
+        "meaning": "stariji/a"
+      },
+      {
+        "kanji": "上がる",
+        "reading": "あ.がる",
+        "meaning": "podići se"
+      },
+      {
+        "kanji": "上げる",
+        "reading": "あ.げる",
+        "meaning": "podići nešto"
+      },
+      {
+        "kanji": "上る",
+        "reading": "のぼ.る",
+        "meaning": "penjati se, uzlaziti"
+      },
+      {
+        "kanji": "上手",
+        "reading": "じょう.ず",
+        "meaning": "vješt(a) u nečemu"
+      },
+      {
+        "kanji": "上手い",
+        "reading": "うまい <specijalno čitanje>",
+        "meaning": "vješt(a) u nečemu"
+      },
+      {
+        "kanji": "以上",
+        "reading": "い.じょう",
+        "meaning": "više od, dovoljno"
+      }
+    ],
+    "食": [
+      {
+        "kanji": "食べる",
+        "reading": "た.える",
+        "meaning": "jesti"
+      },
+      {
+        "kanji": "食べ物",
+        "reading": "た.べ.もの",
+        "meaning": "hrana"
+      },
+      {
+        "kanji": "食う",
+        "reading": "く.う",
+        "meaning": "jesti"
+      },
+      {
+        "kanji": "食事",
+        "reading": "しょく.じ",
+        "meaning": "obrok"
+      }
+    ]
+  },
+  "9": {
+    "行": [
+      {
+        "kanji": "行く",
+        "reading": "い.く",
+        "meaning": "ići"
+      },
+      {
+        "kanji": "行う",
+        "reading": "おこな.う",
+        "meaning": "izvršiti"
+      },
+      {
+        "kanji": "行き",
+        "reading": "ゆ.き",
+        "meaning": "smjer vlaka"
+      },
+      {
+        "kanji": "旅行",
+        "reading": "りょ.こう",
+        "meaning": "putovanje"
+      },
+      {
+        "kanji": "飛行機",
+        "reading": "ひ.こう.き",
+        "meaning": "avion"
+      },
+      {
+        "kanji": "銀行",
+        "reading": "ぎん.こう",
+        "meaning": "banka"
+      },
+      {
+        "kanji": "行動",
+        "reading": "こう.どう",
+        "meaning": "radnja, postupanje, ponašanje"
+      },
+      {
+        "kanji": "行",
+        "reading": "ぎょう",
+        "meaning": "redak teksta"
+      },
+      {
+        "kanji": "行儀",
+        "reading": "ぎょう.ぎ",
+        "meaning": "ponašanje, vladanje"
+      }
+    ],
+    "金": [
+      {
+        "kanji": "金",
+        "reading": "きん",
+        "meaning": "zlato"
+      },
+      {
+        "kanji": "金曜日",
+        "reading": "きん.よう.び",
+        "meaning": "petak"
+      },
+      {
+        "kanji": "現金",
+        "reading": "げん.きん",
+        "meaning": "gotovina"
+      },
+      {
+        "kanji": "お金",
+        "reading": "お.かね",
+        "meaning": "novac"
+      },
+      {
+        "kanji": "金持ち",
+        "reading": "かね.も.ち",
+        "meaning": "bogat"
+      }
+    ]
+  },
+  "10": {
+    "言": [
+      {
+        "kanji": "言う",
+        "reading": "い.う",
+        "meaning": "reći"
+      },
+      {
+        "kanji": "言い方",
+        "reading": "い.い.かた",
+        "meaning": "način izražavanja, izgovor"
+      },
+      {
+        "kanji": "言い訳",
+        "reading": "い.い.わけ",
+        "meaning": "isprika"
+      },
+      {
+        "kanji": "助言",
+        "reading": "じょ.げん",
+        "meaning": "savjet"
+      },
+      {
+        "kanji": "方言",
+        "reading": "ほう.げん",
+        "meaning": "dijalekt"
+      },
+      {
+        "kanji": "言語",
+        "reading": "げん.ご",
+        "meaning": "jezik"
+      },
+      {
+        "kanji": "言葉",
+        "reading": "こと.ば",
+        "meaning": "riječ"
+      }
+    ],
+    "休": [
+      {
+        "kanji": "休む",
+        "reading": "やす.む",
+        "meaning": "odmarati"
+      },
+      {
+        "kanji": "夏休み",
+        "reading": "なつ.やす.み",
+        "meaning": "ljetni praznici"
+      },
+      {
+        "kanji": "休日",
+        "reading": "きゅう.じつ",
+        "meaning": "praznik, godišnji odmor"
+      },
+      {
+        "kanji": "休止",
+        "reading": "きゅう.し",
+        "meaning": "pauza (u radu nečega)"
+      }
+    ],
+    "立": [
+      {
+        "kanji": "立つ",
+        "reading": "た.つ",
+        "meaning": "uspraviti se"
+      },
+      {
+        "kanji": "立てる",
+        "reading": "た.てる",
+        "meaning": "uspraviti nekoga ili nešto"
+      },
+      {
+        "kanji": "私立",
+        "reading": "し.りつ",
+        "meaning": "privatno (vlasništvo)"
+      },
+      {
+        "kanji": "市立",
+        "reading": "し.りつ",
+        "meaning": "gradski"
+      },
+      {
+        "kanji": "独立",
+        "reading": "どく.りつ",
+        "meaning": "neovisnost"
+      },
+      {
+        "kanji": "立派",
+        "reading": "りっ.ぱ",
+        "meaning": "izvrsno, sjajno, pohvalno"
+      },
+      {
+        "kanji": "立入禁止",
+        "reading": "たち.いり.きん.し",
+        "meaning": "zabranjen ulaz (upozorenje na znakovima)"
+      }
+    ]
+  }
+}

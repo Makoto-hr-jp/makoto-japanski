@@ -1,0 +1,75 @@
+21. lekcija
+-使
+--使う, つか.う: koristiti, upotrijebiti
+--使用,　し.よう: korištenje, uporaba
+-用
+--用事, よう.じ: zadatak, obaveza
+--作用, さ.よう: radnja, efekt, funkcija
+-方
+--仕方, し.かた: način, metoda
+--方向, ほう.こう: smjer
+-法
+--方法, ほう.ほう: metoda, proces, način
+--法律, ほう.りつ: zakon
+-部
+--全部, ぜん.ぶ: sve, cijelo, kompletno
+--部屋,　へ.や <nepravilno čitanje>: soba
+-屋
+--~屋, ~や: sufiks za dućane
+--本屋, ほん.や: knjižara
+--屋上, おく.じょう: krov (zgrade)
+-書
+--書く, か.く: pisati
+--図書館, と.しょ.かん: knjižnica
+-飲
+--飲む, の.む: piti
+--飲食, いん.しょく: hrana i piće
+-茶
+--お茶, お.ちゃ: čaj
+--喫茶店, きっ.さ.てん: čajana, kafić
+-牛
+--牛, うし: krava
+--牛肉,　ぎゅう.にく: govedina
+-洗
+--洗う, あ.らう: prati
+--洗濯,　せん.たく: pranje veša
+-毎
+--毎~, まい~: prefiks "svaki"
+--毎日, まい.にち: svaki dan
+-所
+--所, ところ: mjesto, lokacija
+--台所, だい.どころ: kuhinja
+--場所,　ば.しょ: mjesto, lokacija
+
+
+
+22. lekcija
+-足
+--足,　あし: stopalo, noga
+--足りる, た.りる: dostajati, biti dovoljno
+--不足,　ふ.そく: nedovoljno
+-速
+--速い, はや.い: brzo
+--速度, そく.ど: brzina
+-見
+--見る, み.る: vidjeti
+--発見,　はっ.けん: otkriće
+-玉
+--玉, たま: lopta, kugla
+-朝
+--朝, あさ: jutro
+--今朝, け.さ <specijalno čitanje>: ovo jutro
+-冬
+--冬, ふゆ: zima (godišnje doba)
+-東
+--東,　ひがし: istok
+--東北, とう.ほく: sjeveroistok, Tōhoku regija
+-京
+--京と, きょう.と: Kyōto
+--東京, とう.きょう: Tōkyō
+-笑
+--笑う, わら.う: smijati se
+--笑顔,　え.がお: osmijeh
+-顔
+--顔, かお: lice
+--顔面, がん.めん: lice

@@ -1,0 +1,293 @@
+{
+  "15": {
+    "一": [
+      {
+        "kanji": "一",
+        "reading": "いち",
+        "meaning": "jedan"
+      },
+      {
+        "kanji": "一つ",
+        "reading": "ひと.つ",
+        "meaning": "jedna stvar"
+      }
+    ],
+    "二": [
+      {
+        "kanji": "二",
+        "reading": "に",
+        "meaning": "dva"
+      },
+      {
+        "kanji": "二つ",
+        "reading": "ふた.つ",
+        "meaning": "dvije stvari"
+      }
+    ],
+    "三": [
+      {
+        "kanji": "三",
+        "reading": "さん",
+        "meaning": "tri"
+      },
+      {
+        "kanji": "三つ",
+        "reading": "みっ.つ",
+        "meaning": "tri stvari"
+      }
+    ],
+    "四": [
+      {
+        "kanji": "四",
+        "reading": "よん/し",
+        "meaning": "četiri"
+      },
+      {
+        "kanji": "四つ",
+        "reading": "よっ.つ",
+        "meaning": "četiri stvari"
+      }
+    ],
+    "五": [
+      {
+        "kanji": "五",
+        "reading": "ご",
+        "meaning": "pet"
+      },
+      {
+        "kanji": "五つ",
+        "reading": "いつ.つ",
+        "meaning": "pet stvari"
+      }
+    ],
+    "六": [
+      {
+        "kanji": "六",
+        "reading": "ろく",
+        "meaning": "šest"
+      },
+      {
+        "kanji": "六つ",
+        "reading": "むっ.つ",
+        "meaning": "šest stvari"
+      }
+    ],
+    "七": [
+      {
+        "kanji": "七",
+        "reading": "なな/しち",
+        "meaning": "sedam"
+      },
+      {
+        "kanji": "七つ",
+        "reading": "なな.つ",
+        "meaning": "sedam stvari"
+      }
+    ],
+    "八": [
+      {
+        "kanji": "八",
+        "reading": "はち",
+        "meaning": "osam"
+      },
+      {
+        "kanji": "八つ",
+        "reading": "やっ.つ",
+        "meaning": "osam stvari"
+      }
+    ],
+    "九": [
+      {
+        "kanji": "九",
+        "reading": "きゅう/く",
+        "meaning": "devet"
+      },
+      {
+        "kanji": "九つ",
+        "reading": "ここの.つ",
+        "meaning": "devet stvari"
+      }
+    ],
+    "十": [
+      {
+        "kanji": "十",
+        "reading": "じゅう",
+        "meaning": "deset"
+      },
+      {
+        "kanji": "十日",
+        "reading": "とお.か",
+        "meaning": "deset dana ili deseti dan"
+      }
+    ],
+    "百": [
+      {
+        "kanji": "百",
+        "reading": "ひゃく",
+        "meaning": "sto"
+      }
+    ],
+    "千": [
+      {
+        "kanji": "千",
+        "reading": "せん",
+        "meaning": "tisuću"
+      }
+    ],
+    "万": [
+      {
+        "kanji": "万",
+        "reading": "まん",
+        "meaning": "deset tisuća"
+      }
+    ],
+    "個": [
+      {
+        "kanji": "個",
+        "reading": "こ",
+        "meaning": "brojač za male stvari"
+      }
+    ]
+  },
+  "16": {
+    "枚": [
+      {
+        "kanji": "枚",
+        "reading": "まい",
+        "meaning": "brojač za plosnate stvari"
+      }
+    ],
+    "台": [
+      {
+        "kanji": "台",
+        "reading": "だい",
+        "meaning": "brojač za strojeve"
+      },
+      {
+        "kanji": "台所",
+        "reading": "だい.どころ",
+        "meaning": "kuhinja"
+      },
+      {
+        "kanji": "台風",
+        "reading": "たい.ふう",
+        "meaning": "tajfun"
+      }
+    ],
+    "匹": [
+      {
+        "kanji": "匹",
+        "reading": "ひき",
+        "meaning": "brojač za male životinje"
+      }
+    ],
+    "町": [
+      {
+        "kanji": "町",
+        "reading": "まち",
+        "meaning": "grad, gradić, kvart (u većim gradovima)"
+      },
+      {
+        "kanji": "町民",
+        "reading": "ちょう.みん",
+        "meaning": "građanin"
+      }
+    ],
+    "話": [
+      {
+        "kanji": "話す",
+        "reading": "はな.す",
+        "meaning": "pričati"
+      },
+      {
+        "kanji": "電話",
+        "reading": "でん.わ",
+        "meaning": "telefon"
+      }
+    ],
+    "会": [
+      {
+        "kanji": "会う",
+        "reading": "あ.う",
+        "meaning": "naći se, susresti"
+      },
+      {
+        "kanji": "会話",
+        "reading": "かい.わ",
+        "meaning": "razgovor"
+      }
+    ]
+  },
+  "17": {
+    "何": [
+      {
+        "kanji": "何",
+        "reading": "なに/なん",
+        "meaning": "upitni prefiks, upitna čestica \"što\""
+      }
+    ],
+    "最": [
+      {
+        "kanji": "最~",
+        "reading": "さい~",
+        "meaning": "prefiks \"naj~\""
+      },
+      {
+        "kanji": "最近",
+        "reading": "さい.きん",
+        "meaning": "nedavno"
+      },
+      {
+        "kanji": "最初",
+        "reading": "さい.しょ",
+        "meaning": "prvo, početak"
+      },
+      {
+        "kanji": "最も",
+        "reading": "もっと.も",
+        "meaning": "naj, najviše (u smislu stupnja)"
+      }
+    ],
+    "度": [
+      {
+        "kanji": "~度",
+        "reading": "~ど",
+        "meaning": "sufiks za stupnjeve (kut, temperatura) ili repeticije"
+      },
+      {
+        "kanji": "丁度",
+        "reading": "ちょう.ど",
+        "meaning": "točno, precizno"
+      },
+      {
+        "kanji": "何度",
+        "reading": "なん.ど",
+        "meaning": "koliko puta"
+      },
+      {
+        "kanji": "毎度",
+        "reading": "まい.ど",
+        "meaning": "svaki put, uvijek, često"
+      }
+    ],
+    "買": [
+      {
+        "kanji": "買い物",
+        "reading": "か.い.もの",
+        "meaning": "kupovanje, shopping, kupljene stvari"
+      },
+      {
+        "kanji": "購買",
+        "reading": "こう.ばい",
+        "meaning": "kupovina"
+      }
+    ],
+    "魚": [
+      {
+        "kanji": "魚",
+        "reading": "さかな",
+        "meaning": "riba"
+      }
+    ]
+  }
+}

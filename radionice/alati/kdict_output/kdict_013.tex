@@ -1,0 +1,95 @@
+% !TeX program = xelatex ?me -synctex=0 -interaction=nonstopmode -aux-directory=../tex_aux -output-directory=./release
+\input{../../000_template.tex}
+
+\newenvironment{dictentry}[1]{
+	\begin{tabular}{p{2cm} p{3cm} p{10cm}}
+		#1 &&\\
+}{
+	\end{tabular}
+	\vspace{20pt}
+}
+
+\newcommand{\example}[3]{
+	\hspace*{\fill}#1 & #2 & #3\\
+}
+
+\author{ロボット君}
+\begin{document}
+	\dai{Lekcija 013}
+
+\begin{dictentry}{右}
+\example{右}{みぎ}{desno}
+\end{dictentry}
+
+\begin{dictentry}{左}
+\example{左}{ひだり}{lijevo}
+\end{dictentry}
+
+\begin{dictentry}{中}
+\example{中}{なか}{sredina, unutar}
+\example{中々}{なか.なか}{podosta}
+\example{中央}{ちゅう.おう}{centar, centralno}
+\end{dictentry}
+
+\begin{dictentry}{下}
+\example{下}{した}{dolje, ispod}
+\example{下さい}{くだ.さい}{molim lijepo}
+\example{下げる}{さ.げる}{spustiti (nešto)}
+\example{下手}{へた <specijalno čitanje (mislim, trebalo bi možda provjeriti na nekom japanskom sajtu jel 熟字訓 ili nepravilno čitanje)>}{loš(a) u nečemu}
+\example{地下}{ち.か}{podzemno}
+\end{dictentry}
+
+\begin{dictentry}{後}
+\example{後で}{あと.で}{poslije, nakon (vremenski)}
+\example{後ろ}{うし.ろ}{iza (fizički), straga}
+\example{午後}{ご.ご}{poslijepodne}
+\example{後輩}{こう.はい}{mlađi u nečemu (student, djelatnik, itd.)}
+\end{dictentry}
+
+\begin{dictentry}{外}
+\example{外}{そと}{vani}
+\example{外国人}{がい.こく.じん}{stranac}
+\example{外す}{はず.す}{odvojiti, odspojiti, odstraniti}
+\end{dictentry}
+
+\begin{dictentry}{歩}
+\example{歩く}{ある.く}{hodati}
+\example{歩道}{ほ.どう}{nogostup}
+\example{散歩}{さん.ぽ}{šetnja}
+\end{dictentry}
+
+\begin{dictentry}{家}
+\example{家}{いえ}{kuća, prebivalište}
+\example{家}{うち}{kuća, dom}
+\example{家族}{か.ぞく}{obitelj}
+\end{dictentry}
+
+\begin{dictentry}{走}
+\example{走る}{はし.る}{trčati}
+\example{走行}{そう.こう}{putovanje, kretanje (vozila)}
+\end{dictentry}
+
+\begin{dictentry}{学}
+\example{学生}{がく.せい}{učenik, student}
+\example{文学}{ぶん.がく}{literatura}
+\end{dictentry}
+
+\begin{dictentry}{校}
+\example{学校}{がっ.こう}{škola}
+\end{dictentry}
+
+\begin{dictentry}{店}
+\example{店}{みせ}{dućan, lokal}
+\example{店員}{てん.いん}{zaposlenik dućana ili lokala}
+\end{dictentry}
+
+\begin{dictentry}{近}
+\example{近い}{ちか.い}{blizu}
+\example{近所}{きん.じょ}{susjedstvo}
+\end{dictentry}
+
+\begin{dictentry}{達}
+\example{友達}{とも.だち}{prijatelj(i)}
+\end{dictentry}
+
+\end{document}

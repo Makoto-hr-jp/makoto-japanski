@@ -1,0 +1,47 @@
+% !TeX program = xelatex ?me -synctex=0 -interaction=nonstopmode -aux-directory=../tex_aux -output-directory=./release
+\input{../../000_template.tex}
+
+\newenvironment{dictentry}[1]{
+	\begin{tabular}{p{2cm} p{3cm} p{10cm}}
+		#1 &&\\
+}{
+	\end{tabular}
+	\vspace{20pt}
+}
+
+\newcommand{\example}[3]{
+	\hspace*{\fill}#1 & #2 & #3\\
+}
+
+\author{ロボット君}
+\begin{document}
+	\dai{Lekcija 010}
+
+\begin{dictentry}{言}
+\example{言う}{い.う}{reći}
+\example{言い方}{い.い.かた}{način izražavanja, izgovor}
+\example{言い訳}{い.い.わけ}{isprika}
+\example{助言}{じょ.げん}{savjet}
+\example{方言}{ほう.げん}{dijalekt}
+\example{言語}{げん.ご}{jezik}
+\example{言葉}{こと.ば}{riječ}
+\end{dictentry}
+
+\begin{dictentry}{休}
+\example{休む}{やす.む}{odmarati}
+\example{夏休み}{なつ.やす.み}{ljetni praznici}
+\example{休日}{きゅう.じつ}{praznik, godišnji odmor}
+\example{休止}{きゅう.し}{pauza (u radu nečega)}
+\end{dictentry}
+
+\begin{dictentry}{立}
+\example{立つ}{た.つ}{uspraviti se}
+\example{立てる}{た.てる}{uspraviti nekoga ili nešto}
+\example{私立}{し.りつ}{privatno (vlasništvo)}
+\example{市立}{し.りつ}{gradski}
+\example{独立}{どく.りつ}{neovisnost}
+\example{立派}{りっ.ぱ}{izvrsno, sjajno, pohvalno}
+\example{立入禁止}{たち.いり.きん.し}{zabranjen ulaz (upozorenje na znakovima)}
+\end{dictentry}
+
+\end{document}
