@@ -85,7 +85,7 @@ def generate_book(top_folder, title = "Skripta"):
                 unique_authors[a] += 1
             else:
                 unique_authors[a] = 1
-                
+
         for p in l['packages']:
             if p not in unique_packages:
                 unique_packages.append(p)
@@ -106,10 +106,9 @@ def generate_book(top_folder, title = "Skripta"):
     book += "\\begin{document}\n\n"
     book += "{\\let\\cleardoublepage\clearpage\n\\maketitle\n\\tableofcontents}\n"
 
-    # merge fildered lesson text
-    first = True
+    # merge filtered lesson text
     for l in lessons:
-        book += f"\\newpage\n\\fakesection{{{l['title']}}}\n\n"
+        book += f"\\newpage\n\\fakesection{{{l['ID']:03}: {l['title']}}}\n\n"
         with open(top_folder + l['path'], 'r', encoding = "utf-8") as f:
             for line in f.readlines():
                 if not banned(line):
