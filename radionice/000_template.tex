@@ -124,6 +124,30 @@
 	\noindent\hspace{-10pt}$\bullet$
 }
 
+% 2021-12-17 dodan novi format tablice za rješenja
+
+\newcommand{\kaisetsu}{\newcounter{ctrkai}}
+
+\newenvironment{kaitou}[1][]{
+	\setcounter{ctrkai}{1}
+	\vspace{10pt}
+	\noindent #1
+	\vspace{5pt}
+	
+	\begin{tabular}{l l l}
+	}{
+	\end{tabular}
+	\vspace{10pt}
+}
+
+\newcommand{\kai}[2]{
+	\thectrkai&#1&\textit{#2}\stepcounter{ctrkai}\\
+}
+\newcommand{\kainagai}[2]{
+	\thectrkai&\multicolumn{2}{l}{#1}\stepcounter{ctrkai}\\
+	&\multicolumn{2}{l}{\hspace{10pt}\textit{#2}}\\
+}
+
 \CJKfamily{chanto}\CJKnospace
 
 \frenchspacing
