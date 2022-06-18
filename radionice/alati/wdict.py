@@ -15,10 +15,10 @@ SOURCE = "./data/rijeci_pocetna.html"
 TR_REGEX = re.compile(r"<tr>(.*?)</tr>", re.DOTALL)
 
 FIELDS = [{'name': "lekcija", 'mandatory': False},
-          {'name': "prirodno", 'mandatory': True},
+          {'name': "riječ", 'mandatory': True},
           {'name': "čitanje", 'mandatory': False},
           {'name': "vrsta", 'mandatory': True},
-          {'name': "prijevod", 'mandatory': True},
+          {'name': "značenje", 'mandatory': True},
           {'name': "napomena", 'mandatory': False}]
 
 def extract_table_rows(path: str) -> "list[str]":
