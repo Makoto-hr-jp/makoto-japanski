@@ -10,17 +10,18 @@ from bs4 import BeautifulSoup
 
 # built-in
 import re
+import json
 from dataclasses import dataclass
 
 SOURCE = "./data/rijeci_pocetna.html"
 TR_REGEX = re.compile(r"<tr>(.*?)</tr>", re.DOTALL)
 
-FIELDS = [{'name': "lekcija", 'mandatory': False},
-          {'name': "riječ", 'mandatory': True},
-          {'name': "čitanje", 'mandatory': False},
-          {'name': "vrsta", 'mandatory': True},
-          {'name': "značenje", 'mandatory': True},
-          {'name': "napomena", 'mandatory': False}]
+FIELDS = [{'name': "lekcija", 'mandatory': False, 'short': "L"},
+          {'name': "riječ", 'mandatory': True, 'short': "R"},
+          {'name': "čitanje", 'mandatory': False, 'short': "Č"},
+          {'name': "vrsta", 'mandatory': True, 'short': "V"},
+          {'name': "značenje", 'mandatory': True, 'short': "Z"},
+          {'name': "napomena", 'mandatory': False, 'short': "N"}]
 
 @dataclass
 class Entry:
@@ -38,6 +39,9 @@ class Entry:
                 f"   riječ: {riječ} "
                 f"[{self.vrsta}]\n"
                 f"značenje: {objašnjenje}")
+
+    def to_dict(self) -> dict:
+        return {field['short']: getattr(self, field['name']) for field in FIELDS}
 
 def extract_table_rows(path: str) -> "list[str]":
     with open(path, encoding="utf-8") as src:
@@ -76,10 +80,17 @@ def main():
         entry_data = Entry(*fields)
         rfields[cur_sect].append(entry_data)
 
-    logname = ".".join(SOURCE.split(".")[:-1]) + ".log"
-    with open(logname, "w", encoding="utf-8") as log:
+    base = ".".join(SOURCE.split(".")[:-1])
+    with open(base + ".log", "w", encoding="utf-8") as log:
         for sect, content in rfields.items():
             check_rows(content, log)
+
+    with open(base + ".json", "w", encoding="utf-8") as out:
+        entries = []
+        for _, sect_data in rfields.items():
+            for item in sect_data:
+                entries.append(item.to_dict())
+        json.dump(entries, out, ensure_ascii=False, indent=1)
 
 if __name__ == "__main__":
     main()

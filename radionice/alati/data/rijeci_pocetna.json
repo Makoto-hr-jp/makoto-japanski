@@ -1,0 +1,5370 @@
+[
+ {
+  "L": "LEKCIJA",
+  "R": "RIJEČ",
+  "Č": "ČITANJE",
+  "V": "VRSTA RIJEČI",
+  "Z": "ZNAČENJE",
+  "N": "KOMENTAR"
+ },
+ {
+  "L": "2. Glasovni sustav japanskog – hiragana",
+  "R": "学校",
+  "Č": "がっこう",
+  "V": "imenica",
+  "Z": "škola",
+  "N": ""
+ },
+ {
+  "L": "2. Glasovni sustav japanskog – hiragana",
+  "R": "先生",
+  "Č": "せんせい",
+  "V": "imenica",
+  "Z": "učitelj, doktor",
+  "N": ""
+ },
+ {
+  "L": "2. Glasovni sustav japanskog – hiragana",
+  "R": "王様",
+  "Č": "おうさま",
+  "V": "imenica",
+  "Z": "kralj",
+  "N": ""
+ },
+ {
+  "L": "2. Glasovni sustav japanskog – hiragana",
+  "R": "今日",
+  "Č": "きょう",
+  "V": "imenica",
+  "Z": "danas",
+  "N": ""
+ },
+ {
+  "L": "2. Glasovni sustav japanskog – hiragana",
+  "R": "猫",
+  "Č": "ねこ",
+  "V": "imenica",
+  "Z": "mačka",
+  "N": ""
+ },
+ {
+  "L": "2. Glasovni sustav japanskog – hiragana",
+  "R": "犬",
+  "Č": "いぬ",
+  "V": "imenica",
+  "Z": "pas",
+  "N": ""
+ },
+ {
+  "L": "2. Glasovni sustav japanskog – hiragana",
+  "R": "宿題",
+  "Č": "しゅくだい",
+  "V": "imenica",
+  "Z": "domaća zadaća",
+  "N": ""
+ },
+ {
+  "L": "2. Glasovni sustav japanskog – hiragana",
+  "R": "先輩",
+  "Č": "せんぱい",
+  "V": "imenica",
+  "Z": "senpai",
+  "N": "stariji učenik/student/kolega"
+ },
+ {
+  "L": "2. Glasovni sustav japanskog – hiragana",
+  "R": "東京",
+  "Č": "とうきょう",
+  "V": "imenica",
+  "Z": "Tokio",
+  "N": ""
+ },
+ {
+  "L": "2. Glasovni sustav japanskog – hiragana",
+  "R": "京都",
+  "Č": "きょうと",
+  "V": "imenica",
+  "Z": "Kyoto",
+  "N": ""
+ },
+ {
+  "L": "2. Glasovni sustav japanskog – hiragana",
+  "R": "鳥",
+  "Č": "とり",
+  "V": "imenica",
+  "Z": "ptica",
+  "N": ""
+ },
+ {
+  "L": "2. Glasovni sustav japanskog – hiragana",
+  "R": "森",
+  "Č": "もり",
+  "V": "imenica",
+  "Z": "šuma",
+  "N": ""
+ },
+ {
+  "L": "2. Glasovni sustav japanskog – hiragana",
+  "R": "趣味",
+  "Č": "しゅみ",
+  "V": "imenica",
+  "Z": "hobi",
+  "N": ""
+ },
+ {
+  "L": "2. Glasovni sustav japanskog – hiragana",
+  "R": "心配",
+  "Č": "しんぱい",
+  "V": "imenica",
+  "Z": "briga/zabrinutost",
+  "N": ""
+ },
+ {
+  "L": "2. Glasovni sustav japanskog – hiragana",
+  "R": "明後日",
+  "Č": "あさって",
+  "V": "imenica",
+  "Z": "preksutra",
+  "N": ""
+ },
+ {
+  "L": "2. Glasovni sustav japanskog – hiragana",
+  "R": "大阪",
+  "Č": "おおさか",
+  "V": "imenica",
+  "Z": "Osaka",
+  "N": "grad "
+ },
+ {
+  "L": "2. Glasovni sustav japanskog – hiragana",
+  "R": "十日町",
+  "Č": "とおかまち",
+  "V": "imenica",
+  "Z": "Tookamachi",
+  "N": "grad "
+ },
+ {
+  "L": "2. Glasovni sustav japanskog – hiragana",
+  "R": " 特殊相対性理論",
+  "Č": "とくしゅそうたいせいりろん",
+  "V": "imenica",
+  "Z": "posebna teorija relativnosti",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "猫",
+  "Č": "ねこ",
+  "V": "imenica",
+  "Z": "mačka",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "植物",
+  "Č": "しょくぶつ",
+  "V": "imenica",
+  "Z": "biljke",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "木",
+  "Č": "き",
+  "V": "imenica",
+  "Z": "drvo, stablo",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "川",
+  "Č": "かわ",
+  "V": "imenica",
+  "Z": "rijeka",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "公園",
+  "Č": "こうえん",
+  "V": "imenica",
+  "Z": "park",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "葉",
+  "Č": "は",
+  "V": "imenica",
+  "Z": "list",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "土",
+  "Č": "つち",
+  "V": "imenica",
+  "Z": "zemlja",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "家",
+  "Č": "いえ",
+  "V": "imenica",
+  "Z": "kuća",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "庭",
+  "Č": "にわ",
+  "V": "imenica",
+  "Z": "dvorište",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "動物",
+  "Č": "どうぶつ",
+  "V": "imenica",
+  "Z": "životinje",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "鳥",
+  "Č": "とり",
+  "V": "imenica",
+  "Z": "ptica",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "鶏",
+  "Č": "にわとり",
+  "V": "imenica",
+  "Z": "kokoš",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "犬",
+  "Č": "いぬ",
+  "V": "imenica",
+  "Z": "pas",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "牛",
+  "Č": "うし",
+  "V": "imenica",
+  "Z": "krava",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "虫",
+  "Č": "むし",
+  "V": "imenica",
+  "Z": "kukac",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "色",
+  "Č": "いろ",
+  "V": "imenica",
+  "Z": "boja",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "馬",
+  "Č": "うま",
+  "V": "imenica",
+  "Z": "konj",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "果物",
+  "Č": "くだもの",
+  "V": "imenica",
+  "Z": "voće",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "林檎・リンゴ",
+  "Č": "りんご",
+  "V": "imenica",
+  "Z": "jabuka",
+  "N": "nazivi voća se često pišu katakanom"
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "花",
+  "Č": "はな",
+  "V": "imenica",
+  "Z": "cvijet",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "梨・ナシ",
+  "Č": "なし",
+  "V": "imenica",
+  "Z": "kruška",
+  "N": "nazivi voća se često pišu katakanom"
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "梅・ウメ",
+  "Č": "うめ",
+  "V": "imenica",
+  "Z": "šljiva",
+  "N": "nazivi voća se često pišu katakanom"
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "苺・イチゴ",
+  "Č": "いちご",
+  "V": "imenica",
+  "Z": "jagoda",
+  "N": "nazivi voća se često pišu katakanom"
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "葡萄・ブドウ",
+  "Č": "ぶどう",
+  "V": "imenica",
+  "Z": "grožđe",
+  "N": "nazivi voća se često pišu katakanom"
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "西瓜・スイカ",
+  "Č": "すいか",
+  "V": "imenica",
+  "Z": "lubenica",
+  "N": "nazivi voća se često pišu katakanom"
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "田中",
+  "Č": "たなか",
+  "V": "vlastita imenica",
+  "Z": "Tanaka",
+  "N": "prezime"
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "本",
+  "Č": "ほん",
+  "V": "imenica",
+  "Z": "knjiga",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "今日",
+  "Č": "きょう",
+  "V": "imenica",
+  "Z": "danas",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "天気",
+  "Č": "てんき",
+  "V": "imenica",
+  "Z": "vrijeme",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "来年",
+  "Č": "らいねん",
+  "V": "imenica",
+  "Z": "iduća godina",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "誕生日",
+  "Č": "たんじょうび",
+  "V": "imenica",
+  "Z": "rođendan",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "重さ",
+  "Č": "おもさ",
+  "V": "imenica",
+  "Z": "težina",
+  "N": "u većini slučajeva kod i-pridjeva micanje nastavka い i dodavanjem さ stvaramo imenicu"
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "高さ",
+  "Č": "たかさ",
+  "V": "imenica",
+  "Z": "visina",
+  "N": ""
+ },
+ {
+  "L": "3. Imenice i pokazne zamjenice",
+  "R": "木の葉",
+  "Č": "このは",
+  "V": "imenica",
+  "Z": "lišće drveća",
+  "N": ""
+ },
+ {
+  "L": "4. Osobne zamjenice i oslovljavanje ljudi; čestice とiや",
+  "R": "好き",
+  "Č": "すき",
+  "V": "na-pridjev",
+  "Z": "drago, svidljivo",
+  "N": ""
+ },
+ {
+  "L": "4. Osobne zamjenice i oslovljavanje ljudi; čestice とiや",
+  "R": "人",
+  "Č": "ひと",
+  "V": "imenica",
+  "Z": "čovjek",
+  "N": ""
+ },
+ {
+  "L": "4. Osobne zamjenice i oslovljavanje ljudi; čestice とiや",
+  "R": "行く",
+  "Č": "いく",
+  "V": "glagol, 五",
+  "Z": "ići",
+  "N": ""
+ },
+ {
+  "L": "4. Osobne zamjenice i oslovljavanje ljudi; čestice とiや",
+  "R": "叫ぶ",
+  "Č": "さけぶ",
+  "V": "glagol, 五",
+  "Z": "vrištati",
+  "N": ""
+ },
+ {
+  "L": "4. Osobne zamjenice i oslovljavanje ljudi; čestice とiや",
+  "R": "見える",
+  "Č": "みえる",
+  "V": "glagol, 一",
+  "Z": "vidjeti se",
+  "N": ""
+ },
+ {
+  "L": "4. Osobne zamjenice i oslovljavanje ljudi; čestice とiや",
+  "R": "掃除する",
+  "Č": "そうじする",
+  "V": "glagol, する",
+  "Z": "čistiti",
+  "N": ""
+ },
+ {
+  "L": "4. Osobne zamjenice i oslovljavanje ljudi; čestice とiや",
+  "R": "書類",
+  "Č": "しょるい",
+  "V": "imenica",
+  "Z": "papiri (dokumenti)",
+  "N": ""
+ },
+ {
+  "L": "4. Osobne zamjenice i oslovljavanje ljudi; čestice とiや",
+  "R": "どうぞ",
+  "Č": "",
+  "V": "",
+  "Z": "izvolite",
+  "N": ""
+ },
+ {
+  "L": "4. Osobne zamjenice i oslovljavanje ljudi; čestice とiや",
+  "R": "元気",
+  "Č": "げんき",
+  "V": "imenica, na-pridjev",
+  "Z": "zdrav, živahan",
+  "N": ""
+ },
+ {
+  "L": "4. Osobne zamjenice i oslovljavanje ljudi; čestice とiや",
+  "R": "嫌い",
+  "Č": "きらい",
+  "V": "na -pridjev",
+  "Z": "mrsko",
+  "N": ""
+ },
+ {
+  "L": "4. Osobne zamjenice i oslovljavanje ljudi; čestice とiや",
+  "R": "牛乳",
+  "Č": "ぎゅうにゅう",
+  "V": "imenica",
+  "Z": "kravlje mlijeko",
+  "N": ""
+ },
+ {
+  "L": "4. Osobne zamjenice i oslovljavanje ljudi; čestice とiや",
+  "R": "お茶",
+  "Č": "おちゃ",
+  "V": "imenica",
+  "Z": "čaj",
+  "N": ""
+ },
+ {
+  "L": "4. Osobne zamjenice i oslovljavanje ljudi; čestice とiや",
+  "R": "水",
+  "Č": "みず",
+  "V": "imenica",
+  "Z": "voda",
+  "N": ""
+ },
+ {
+  "L": "4. Osobne zamjenice i oslovljavanje ljudi; čestice とiや",
+  "R": "松田",
+  "Č": "まつだ",
+  "V": "imenica",
+  "Z": "Matsuda",
+  "N": "prezime"
+ },
+ {
+  "L": "4. Osobne zamjenice i oslovljavanje ljudi; čestice とiや",
+  "R": "桃子",
+  "Č": "ももこ",
+  "V": "vlastita imenica",
+  "Z": "Momoko",
+  "N": "ime"
+ },
+ {
+  "L": "4. Osobne zamjenice i oslovljavanje ljudi; čestice とiや",
+  "R": "酒",
+  "Č": "さけ",
+  "V": "imenica",
+  "Z": "sake (ali i bilo koje drugo alkoholno piće)",
+  "N": ""
+ },
+ {
+  "L": "4. Osobne zamjenice i oslovljavanje ljudi; čestice とiや",
+  "R": "葡萄酒・ぶどう酒",
+  "Č": "ぶどうしゅ",
+  "V": "imenica",
+  "Z": "vino",
+  "N": "doslovno alkohol 酒 od grožđa 葡萄. Koristi se i ワイン"
+ },
+ {
+  "L": "4. Osobne zamjenice i oslovljavanje ljudi; čestice とiや",
+  "R": "雨水",
+  "Č": "あまみず",
+  "V": "imenica",
+  "Z": "kišnica",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "あれ・彼・彼れ",
+  "Č": "あれ",
+  "V": "pokazna zamjenica",
+  "Z": "ono",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "猫",
+  "Č": "ねこ",
+  "V": "imenica",
+  "Z": "mačka",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "それ・其れ",
+  "Č": "",
+  "V": "pokazna zamjenica",
+  "Z": "to",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": " 私",
+  "Č": "わたし",
+  "V": "zamjenica",
+  "Z": "ja",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "鞄",
+  "Č": "かばん",
+  "V": "imenica",
+  "Z": "torba",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "これ・此れ",
+  "Č": "",
+  "V": "pokazna zamjenica",
+  "Z": "ovo ",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "林檎・リンゴ",
+  "Č": "りんご",
+  "V": "imenica",
+  "Z": "jabuka",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "あの",
+  "Č": "",
+  "V": "pokazna zamjenica",
+  "Z": "ono",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "人",
+  "Č": "ひと",
+  "V": "imenica",
+  "Z": "čovjek",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "名前",
+  "Č": "なまえ",
+  "V": "imenica",
+  "Z": "ime",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "武",
+  "Č": "たけし",
+  "V": "vlastita imenica",
+  "Z": "Takeši",
+  "N": "muško ime"
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "犬",
+  "Č": "いぬ",
+  "V": "imenica",
+  "Z": "pas",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "西瓜・スイカ",
+  "Č": "すいか",
+  "V": "imenica",
+  "Z": "lubenica",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "果物",
+  "Č": "くだもの",
+  "V": "imenica",
+  "Z": "voće",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "友達",
+  "Č": "ともだち",
+  "V": "imenica",
+  "Z": "prijatelj",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "高校生",
+  "Č": "こうこうせい",
+  "V": "imenica",
+  "Z": "srednjoškolac/srednjoškolka",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "丸",
+  "Č": "まる",
+  "V": "imenica",
+  "Z": "krug",
+  "N": "ovdje je ime"
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "林",
+  "Č": "はやし",
+  "V": "imenica",
+  "Z": "Hajaši",
+  "N": "prezime"
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "川",
+  "Č": "かわ",
+  "V": "imenica",
+  "Z": "rijeka",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "花",
+  "Č": "はな",
+  "V": "imenica",
+  "Z": "cvijet",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "薔薇",
+  "Č": "ばら",
+  "V": "imenica",
+  "Z": "ruža",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "あなた・貴方",
+  "Č": "あなた",
+  "V": "zamjenica",
+  "Z": "ti ",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "彼",
+  "Č": "かれ",
+  "V": "zamjenica",
+  "Z": "on",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "金魚",
+  "Č": "きんぎょ",
+  "V": "imenica",
+  "Z": "zlatna ribica",
+  "N": ""
+ },
+ {
+  "L": "5. Spojni glagol",
+  "R": "鳥",
+  "Č": "とり",
+  "V": "imenica",
+  "Z": "ptica",
+  "N": ""
+ },
+ {
+  "L": "6. Pridjevi kao imenski predikat",
+  "R": "その",
+  "Č": "",
+  "V": "pokazna zamjenica",
+  "Z": "to",
+  "N": ""
+ },
+ {
+  "L": "6. Pridjevi kao imenski predikat",
+  "R": "猫",
+  "Č": "ねこ",
+  "V": "imenica",
+  "Z": "mačka",
+  "N": ""
+ },
+ {
+  "L": "6. Pridjevi kao imenski predikat",
+  "R": "日本語",
+  "Č": "にほんご",
+  "V": "imenica",
+  "Z": "japanski jezik",
+  "N": "dodavanjem 語 na iza riječi koja označava državu stvara se naziv jezika"
+ },
+ {
+  "L": "6. Pridjevi kao imenski predikat",
+  "R": "勉強",
+  "Č": "べんきょう",
+  "V": "imenica",
+  "Z": "učenje",
+  "N": ""
+ },
+ {
+  "L": "6. Pridjevi kao imenski predikat",
+  "R": "デスクトップ",
+  "Č": "",
+  "V": "imenica",
+  "Z": "desktop",
+  "N": ""
+ },
+ {
+  "L": "6. Pridjevi kao imenski predikat",
+  "R": "ピーシー",
+  "Č": "",
+  "V": "imenica",
+  "Z": "PC",
+  "N": ""
+ },
+ {
+  "L": "6. Pridjevi kao imenski predikat",
+  "R": "本",
+  "Č": "ほん",
+  "V": "imenica",
+  "Z": "knjiga",
+  "N": ""
+ },
+ {
+  "L": "6. Pridjevi kao imenski predikat",
+  "R": "低い",
+  "Č": "ひくい",
+  "V": "i-pridjev",
+  "Z": "nisko",
+  "N": ""
+ },
+ {
+  "L": "6. Pridjevi kao imenski predikat",
+  "R": "山",
+  "Č": "やま",
+  "V": "imenica",
+  "Z": "planina",
+  "N": ""
+ },
+ {
+  "L": "6. Pridjevi kao imenski predikat",
+  "R": "ライブ",
+  "Č": "",
+  "V": "imenica",
+  "Z": "live",
+  "N": ""
+ },
+ {
+  "L": "6. Pridjevi kao imenski predikat",
+  "R": "きれい・綺麗",
+  "Č": "きれい",
+  "V": "na -pridjev",
+  "Z": "lijepo, čisto",
+  "N": ""
+ },
+ {
+  "L": "6. Pridjevi kao imenski predikat",
+  "R": "空",
+  "Č": "そら",
+  "V": "imenica",
+  "Z": "nebo",
+  "N": ""
+ },
+ {
+  "L": "6. Pridjevi kao imenski predikat",
+  "R": "問題",
+  "Č": "もんだい",
+  "V": "imenica",
+  "Z": "problem",
+  "N": ""
+ },
+ {
+  "L": "6. Pridjevi kao imenski predikat",
+  "R": "部屋",
+  "Č": "へや",
+  "V": "imenica",
+  "Z": "soba",
+  "N": ""
+ },
+ {
+  "L": "6. Pridjevi kao imenski predikat",
+  "R": "目",
+  "Č": "め",
+  "V": "imenica",
+  "Z": "oko",
+  "N": ""
+ },
+ {
+  "L": "6. Pridjevi kao imenski predikat",
+  "R": "毛布",
+  "Č": "もうふ",
+  "V": "imenica",
+  "Z": "deka",
+  "N": ""
+ },
+ {
+  "L": "6. Pridjevi kao imenski predikat",
+  "R": "花",
+  "Č": "はな",
+  "V": "imenica",
+  "Z": "cvijet",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "いい・良い",
+  "Č": "いい",
+  "V": "i-pridjev",
+  "Z": "dobro",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "良い・よい",
+  "Č": "よい",
+  "V": "i-pridjev",
+  "Z": "dobro",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "白い",
+  "Č": "しろい",
+  "V": "i-pridjev",
+  "Z": "bijelo",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "猫",
+  "Č": "ねこ",
+  "V": "imenica",
+  "Z": "mačka",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "高い",
+  "Č": "たかい",
+  "V": "i-pridjev",
+  "Z": "visoko, skupo",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "木",
+  "Č": "き",
+  "V": "imenica",
+  "Z": "drvo",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "大きい",
+  "Č": "おおきい",
+  "V": "i-pridjev",
+  "Z": "veliko",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "家",
+  "Č": "いえ",
+  "V": "imenica",
+  "Z": "kuća",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "甘い",
+  "Č": "あまい",
+  "V": "i-pridjev",
+  "Z": "slatko",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "林檎・リンゴ",
+  "Č": "りんご",
+  "V": "imenica",
+  "Z": "jabuka",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "静か",
+  "Č": "しずか",
+  "V": "na -pridjev",
+  "Z": "tiho",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "公園",
+  "Č": "こうえん",
+  "V": "imenica",
+  "Z": "park",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "病気",
+  "Č": "びょうき",
+  "V": "imenica, no-pridjev",
+  "Z": "bolest",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "友達",
+  "Č": "ともだち",
+  "V": "imenica",
+  "Z": "prijatelj",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "簡単",
+  "Č": "かんたん",
+  "V": "na -pridjev",
+  "Z": "jednostavno, nekomplicirano",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "問題",
+  "Č": "もんだい",
+  "V": "imenica",
+  "Z": "problem",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "嫌い",
+  "Č": "きらい",
+  "V": "na -pridjev",
+  "Z": "mrsko",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "鳥",
+  "Č": "とり",
+  "V": "imenica",
+  "Z": "ptica",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "田中",
+  "Č": "たなか",
+  "V": "vlastita imenica",
+  "Z": "Tanaka",
+  "N": "prezime"
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "背が高い",
+  "Č": "せいがたかい",
+  "V": "fraza",
+  "Z": "visokog stasta",
+  "N": "stavljena ispred riječi koja se odnosi na neku osobu koristi se za opisivanje ljudi, jednako kao i 髪が長い・かみがながい・dugokosi, 眼鏡をかける・めがねをかける・onaj koji nosi naočale (doslovno: naočale noseći)"
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "足",
+  "Č": "あし",
+  "V": "imenica",
+  "Z": "stopalo, noga",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "速い",
+  "Č": "はやい",
+  "V": "i-pridjev",
+  "Z": "brzo, hitro",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "足が速い",
+  "Č": "あしがはやい",
+  "V": "fraza",
+  "Z": "brzo trči, doslovno: ima brze noge",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "鈴木",
+  "Č": "すずき",
+  "V": "vlastita imenica",
+  "Z": "Suzuki",
+  "N": "prezime"
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "頭",
+  "Č": "あたま",
+  "V": "imenica",
+  "Z": "glava",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "頭がいい",
+  "Č": "あたまがいい",
+  "V": "fraza",
+  "Z": "pametan, doslovno: ima dobru glavu",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "高梨",
+  "Č": "たかなし",
+  "V": "imenica",
+  "Z": "Takanaši",
+  "N": "prezime"
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "目",
+  "Č": "め",
+  "V": "imenica",
+  "Z": "oko",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "悪い",
+  "Č": "わるい",
+  "V": "i-pridjev",
+  "Z": "loš",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "目が悪い",
+  "Č": "めがわるい",
+  "V": "fraza",
+  "Z": "loše vidi, doslovno: ima loše oči",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "黒い",
+  "Č": "くろい",
+  "V": "i-pridjev",
+  "Z": "crno",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "赤い",
+  "Č": "あかい",
+  "V": "i-pridjev",
+  "Z": "crveno",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "格好いい・かっこいい",
+  "Č": "かっこいい",
+  "V": "i-pridjev",
+  "Z": "zgodan, privlačan (osoba, najčešće muška)",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "あの",
+  "Č": "",
+  "V": "pokazna zamjenica",
+  "Z": "ono",
+  "N": ""
+ },
+ {
+  "L": "7. Opisni oblik pridjeva",
+  "R": "あれ・彼・彼れ",
+  "Č": "",
+  "V": "pokazna zamjenica",
+  "Z": "ono",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "一段",
+  "Č": "いちだん",
+  "V": "imenica",
+  "Z": "ichidan glagol, doslovno: jedna razina",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "五段",
+  "Č": "ごだん",
+  "V": "imenica",
+  "Z": "godan glagol, doslovno: pet razina",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "着る",
+  "Č": "きる",
+  "V": "glagol, 一",
+  "Z": "nositi odjeću",
+  "N": "odnosi se na odjeću na gornjem djelu tjela. Za odjeću na donjem djelu tijela koristi se glagol 履く・はく, a za ono što se stavlja na glavu glagol 被る・かぶる"
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "切る",
+  "Č": "きる",
+  "V": "glagol, 五",
+  "Z": "prerezati",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "変える",
+  "Č": "かえる",
+  "V": "glagol, 一",
+  "Z": "promijeniti",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "帰る",
+  "Č": "かえる",
+  "V": "glagol, 五",
+  "Z": "vratiti se (kući)",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "見る",
+  "Č": "みる",
+  "V": "glagol, 一",
+  "Z": "vidjeti",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "出る",
+  "Č": "でる",
+  "V": "glagol, 一",
+  "Z": "izići",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "寝る",
+  "Č": "ねる",
+  "V": "glagol, 一",
+  "Z": "leći, spavati",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "見える",
+  "Č": "みえる",
+  "V": "glagol, 一",
+  "Z": "vidjeti se",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "開ける",
+  "Č": "あける",
+  "V": "glagol, 一",
+  "Z": "otvoriti",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "起きる",
+  "Č": "おきる",
+  "V": "glagol, 一",
+  "Z": "probuditi se",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "いる・居る",
+  "Č": "いる",
+  "V": "glagol, 一",
+  "Z": "biti, za sva živa bića; uz česticu が znači imati",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "閉める",
+  "Č": "しめる",
+  "V": "glagol, 一",
+  "Z": "zatvoriti",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "上げる",
+  "Č": "あげる",
+  "V": "glagol, 一",
+  "Z": "dati, podići i još 25 drugih značenja",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "林檎・リンゴ",
+  "Č": "りんご",
+  "V": "imenica",
+  "Z": "jabuka",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "食べる",
+  "Č": "たべる",
+  "V": "glagol, 一",
+  "Z": "jesti",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "鳥",
+  "Č": "とり",
+  "V": "imenica",
+  "Z": "ptica",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "本",
+  "Č": "ほん",
+  "V": "imenica",
+  "Z": "knjiga",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "家",
+  "Č": "いえ",
+  "V": "imenica",
+  "Z": "kuća",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "鈴木",
+  "Č": "すずき",
+  "V": "vlastita imenica",
+  "Z": "Suzuki",
+  "N": "prezime"
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "窓",
+  "Č": "まど",
+  "V": "imenica",
+  "Z": "prozor",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "猫",
+  "Č": "ねこ",
+  "V": "imenica",
+  "Z": "mačka",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "武",
+  "Č": "たけし",
+  "V": "vlastita imenica",
+  "Z": "Takeši",
+  "N": "muško ime"
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "箱",
+  "Č": "はこ",
+  "V": "imenica",
+  "Z": "kutija",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "友達",
+  "Č": "ともだち",
+  "V": "imenica",
+  "Z": "prijatelj",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "人参・ニンジン",
+  "Č": "にんじん",
+  "V": "imenica",
+  "Z": "mrkva",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "蜜柑・ミカン",
+  "Č": "みかん",
+  "V": "imenica",
+  "Z": "mandarina",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "彼",
+  "Č": "かれ",
+  "V": "zamjenica",
+  "Z": "on",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "小さい",
+  "Č": "ちいさい",
+  "V": "i-pridjev",
+  "Z": "malo",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "子供",
+  "Č": "こども",
+  "V": "imenica",
+  "Z": "dijete",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "たち・達",
+  "Č": "",
+  "V": "sufiks",
+  "Z": "oznaka množine",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "黒い",
+  "Č": "くろい",
+  "V": "i-pridjev",
+  "Z": "crno",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "嫌い",
+  "Č": "きらい",
+  "V": "na -pridjev",
+  "Z": "mrsko",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "赤い",
+  "Č": "あかい",
+  "V": "i-pridjev",
+  "Z": "crveno",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "美味しい",
+  "Č": "おいしい",
+  "V": "i-pridjev",
+  "Z": "ukusno",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "あの",
+  "Č": "",
+  "V": "pokazna zamjenica",
+  "Z": "ono",
+  "N": ""
+ },
+ {
+  "L": "8. Glagoli I",
+  "R": "古い",
+  "Č": "ふるい",
+  "V": "i-pridjev",
+  "Z": "staro (ne koristi se za živa bića)",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "来る",
+  "Č": "くる",
+  "V": "nepravilni glagol",
+  "Z": "doći",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "する",
+  "Č": "",
+  "V": "nepravilni glagol",
+  "Z": "raditi, činiti",
+  "N": "dodaje se na imenice i tako nastaju する glagoli, npr. 掃除する・そうじする・čistiti od čišćenje + する"
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "行く",
+  "Č": "いく",
+  "V": "glagol, 五",
+  "Z": "ići",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "ある・有る",
+  "Č": "ある",
+  "V": "glagol, 五",
+  "Z": "biti (za neživo), sa česticom が znači imati",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "勉強",
+  "Č": "べんきょう",
+  "V": "imenica",
+  "Z": "učenje",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "武",
+  "Č": "たけし",
+  "V": "vlastita imenica",
+  "Z": "Takeši",
+  "N": "muško ime"
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "掃除",
+  "Č": "そうじ",
+  "V": "imenica",
+  "Z": "čišćenje",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "高木",
+  "Č": "たかぎ",
+  "V": "imenica",
+  "Z": "Takagi",
+  "N": "prezime"
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "部屋",
+  "Č": "へや",
+  "V": "imenica",
+  "Z": "soba",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "選択",
+  "Č": "せんたく",
+  "V": "imenica",
+  "Z": "pranje odjeće",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "鈴木",
+  "Č": "すずき",
+  "V": "vlastita imenica",
+  "Z": "Suzuki",
+  "N": "prezime"
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "家",
+  "Č": "いえ",
+  "V": "imenica",
+  "Z": "kuća",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "猫",
+  "Č": "ねこ",
+  "V": "imenica",
+  "Z": "mačka",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "いる・居る",
+  "Č": "いる",
+  "V": "glagol, 一",
+  "Z": "biti, za sva živa bića; uz česticu が znači imati",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "箱",
+  "Č": "はこ",
+  "V": "imenica",
+  "Z": "kutija",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "林檎・リンゴ",
+  "Č": "りんご",
+  "V": "imenica",
+  "Z": "jabuka",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "日本",
+  "Č": "にほん",
+  "V": "imenica",
+  "Z": "Japan",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "友達",
+  "Č": "ともだち",
+  "V": "imenica",
+  "Z": "prijatelj",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "本",
+  "Č": "ほん",
+  "V": "imenica",
+  "Z": "knjiga",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "上げる",
+  "Č": "あげる",
+  "V": "glagol, 一",
+  "Z": "dati, podići i još 25 drugih značenja",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "先生",
+  "Č": "せんせい",
+  "V": "imenica",
+  "Z": "učitelj, doktor",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "借りる",
+  "Č": "かりる",
+  "V": "glagol, 一",
+  "Z": "posuditi od nekoga",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "床",
+  "Č": "ゆか",
+  "V": "imenica",
+  "Z": "pod",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "寝る",
+  "Č": "ねる",
+  "V": "glagol, 一",
+  "Z": "leći, spavati",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "彼",
+  "Č": "かれ",
+  "V": "zamjenica",
+  "Z": "on",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "日本語",
+  "Č": "にほんご",
+  "V": "imenica",
+  "Z": "japanski jezik",
+  "N": "dodavanjem 語 na iza riječi koja označava državu stvara se naziv jezika"
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "鞄",
+  "Č": "かばん",
+  "V": "imenica",
+  "Z": "torba",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "鍵",
+  "Č": "かぎ",
+  "V": "imenica",
+  "Z": "ključ",
+  "N": ""
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "山田",
+  "Č": "やまだ",
+  "V": "vlastita imenica",
+  "Z": "Yamada",
+  "N": "prezime"
+ },
+ {
+  "L": "9. Glagoli II",
+  "R": "お金",
+  "Č": "おかね",
+  "V": "imenica",
+  "Z": "novac",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "打つ",
+  "Č": "うつ",
+  "V": "glagol, 五",
+  "Z": "udariti",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "売る",
+  "Č": "うる",
+  "V": "glagol, 五",
+  "Z": "prodati",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "書く",
+  "Č": "かく",
+  "V": "glagol, 五",
+  "Z": "napisati",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "泳ぐ",
+  "Č": "およぐ",
+  "V": "glagol, 五",
+  "Z": "plivati",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "話す",
+  "Č": "はなす",
+  "V": "glagol, 五",
+  "Z": "pričati",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "放す",
+  "Č": "はなす",
+  "V": "glagol, 五",
+  "Z": "pustiti",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "死ぬ",
+  "Č": "しぬ",
+  "V": "glagol, 五",
+  "Z": "umrijeti",
+  "N": "jedini　ぬ　glagol u modernom japanskom"
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "読む",
+  "Č": "よむ",
+  "V": "glagol, 五",
+  "Z": "pročitati",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "呼ぶ",
+  "Č": "よぶ",
+  "V": "glagol, 五",
+  "Z": "dozvati",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "言う",
+  "Č": "いう",
+  "V": "glagol, 五",
+  "Z": "reći",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "待つ",
+  "Č": "まつ",
+  "V": "glagol, 五",
+  "Z": "pričekati",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "走る",
+  "Č": "はしる",
+  "V": "glagol, 五",
+  "Z": "trčati",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "聞く",
+  "Č": "きく",
+  "V": "glagol, 五",
+  "Z": "čuti, pitati",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "急ぐ",
+  "Č": "いそぐ",
+  "V": "glagol, 五",
+  "Z": "požuriti",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "出す",
+  "Č": "だす",
+  "V": "glagol, 五",
+  "Z": "iznijeti, izbaciti",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "飲む",
+  "Č": "のむ",
+  "V": "glagol, 五",
+  "Z": "popiti",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "飛ぶ",
+  "Č": "とぶ",
+  "V": "glagol, 五",
+  "Z": "poletjeti/skočiti",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "買う",
+  "Č": "かう",
+  "V": "glagol, 五",
+  "Z": "kupiti",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "持つ",
+  "Č": "もつ",
+  "V": "glagol, 五",
+  "Z": "ponijeti/imati (kod sebe)",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "作る",
+  "Č": "つくる",
+  "V": "glagol, 五",
+  "Z": "izraditi, napraviti",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "置く",
+  "Č": "おく",
+  "V": "glagol, 五",
+  "Z": "ostaviti (negdje)",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "脱ぐ",
+  "Č": "ぬぐ",
+  "V": "glagol, 五",
+  "Z": "skinuti (odjeću sa sebe)",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "探す",
+  "Č": "さがす",
+  "V": "glagol, 五",
+  "Z": "potražiti",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "休む",
+  "Č": "やすむ",
+  "V": "glagol, 五",
+  "Z": "odmoriti se",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "遊ぶ",
+  "Č": "あそぶ",
+  "V": "glagol, 五",
+  "Z": "igrati se",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "歌う",
+  "Č": "うたう",
+  "V": "glagol, 五",
+  "Z": "pjevati",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "立つ",
+  "Č": "たつ",
+  "V": "glagol, 五",
+  "Z": "ustati",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "乗る",
+  "Č": "のる",
+  "V": "glagol, 五",
+  "Z": "voziti se/jahati",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "公園",
+  "Č": "こうえん",
+  "V": "imenica",
+  "Z": "park",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "居酒屋",
+  "Č": "いざかや",
+  "V": "imenica",
+  "Z": "birtija",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "酒",
+  "Č": "さけ",
+  "V": "imenica",
+  "Z": "sake (ali i bilo koje drugo alkoholno piće)",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "電車",
+  "Č": "でんしゃ",
+  "V": "imenica",
+  "Z": "vlak",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "海",
+  "Č": "うみ",
+  "V": "imenica",
+  "Z": "more",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "鉛筆",
+  "Č": "えんぴつ",
+  "V": "imenica",
+  "Z": "olovka",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "友達",
+  "Č": "ともだち",
+  "V": "imenica",
+  "Z": "prijatelj",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "掃除する",
+  "Č": "そうじする",
+  "V": "glagol, する",
+  "Z": "čistiti",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "弟",
+  "Č": "おとうと",
+  "V": "imenica",
+  "Z": "mlađi brat, neformalno",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "鈴木",
+  "Č": "すずき",
+  "V": "vlastita imenica",
+  "Z": "Suzuki",
+  "N": "prezime"
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "山田",
+  "Č": "やまだ",
+  "V": "imenica",
+  "Z": "Yamada",
+  "N": "prezime"
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "田中",
+  "Č": "たなか",
+  "V": "vlastita imenica",
+  "Z": "Tanaka",
+  "N": "prezime"
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "好き",
+  "Č": "すき",
+  "V": "na -pridjev",
+  "Z": "drago, svidljivo",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "新しい",
+  "Č": "あたらしい",
+  "V": "i-pridjev",
+  "Z": "novo",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "靴",
+  "Č": "くつ",
+  "V": "imenica",
+  "Z": "cipele",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "手紙",
+  "Č": "てがみ",
+  "V": "imenica",
+  "Z": "pismo",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "ゴミ",
+  "Č": "",
+  "V": "imenica",
+  "Z": "smeće",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "鳥",
+  "Č": "とり",
+  "V": "imenica",
+  "Z": "ptica",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "その",
+  "Č": "",
+  "V": "pokazna zamjenica",
+  "Z": "to",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "店",
+  "Č": "みせ",
+  "V": "imenica",
+  "Z": "trgovina",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "お父さん",
+  "Č": "おとうさん",
+  "V": "imenica",
+  "Z": "otac",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "武",
+  "Č": "たけし",
+  "V": "vlastita imenica",
+  "Z": "Takeši",
+  "N": "muško ime"
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "きれい・綺麗",
+  "Č": "きれい",
+  "V": "na -pridjev",
+  "Z": "lijepo, čisto",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "村上",
+  "Č": "村上",
+  "V": "vlastita imenica",
+  "Z": "Murakami",
+  "N": "prezime"
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "大阪",
+  "Č": "おおさか",
+  "V": "imenica",
+  "Z": "Osaka",
+  "N": "grad "
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "長い",
+  "Č": "ながい",
+  "V": "i-pridjev",
+  "Z": "dugo",
+  "N": ""
+ },
+ {
+  "L": "10. Glagoli III",
+  "R": "鳥籠・鳥かご",
+  "Č": "とりかご",
+  "V": "imenica",
+  "Z": "krletka",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "良く",
+  "Č": "よく",
+  "V": "prilog",
+  "Z": "dobro",
+  "N": "i-pridjevi se u priloge pretvaraju tako da im se oduzme -い na kraju i doda -く"
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "これ・此れ",
+  "Č": "これ",
+  "V": "pokazna zamjenica",
+  "Z": "ovo ",
+  "N": "pokazne zamjenice se najčešće pišu hiraganom"
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "いい・良い",
+  "Č": "いい",
+  "V": "i-pridjev",
+  "Z": "dobro",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "所",
+  "Č": "ところ",
+  "V": "imenica",
+  "Z": "mjesto",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "食べる",
+  "Č": "たべる",
+  "V": "glagol, 一",
+  "Z": "jesti",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "武",
+  "Č": "たけし",
+  "V": "vlastita imenica",
+  "Z": "Takeši",
+  "N": "muško ime"
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "の",
+  "Č": "",
+  "V": "posvojna čestica",
+  "Z": "oznaka pripadnosti",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "部屋",
+  "Č": "へや",
+  "V": "imenica",
+  "Z": "soba",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "綺麗・きれい",
+  "Č": "きれい",
+  "V": "na -pridjev",
+  "Z": "lijepo, čisto",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "掃除する",
+  "Č": "そうじする",
+  "V": "glagol, する",
+  "Z": "čistiti",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "庭",
+  "Č": "にわ",
+  "V": "imenica",
+  "Z": "vrt",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "大きく",
+  "Č": "おおきく",
+  "V": "prilog",
+  "Z": "naveliko",
+  "N": "i-pridjevi se u priloge pretvaraju tako da im se oduzme -い na kraju i doda -く"
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "する",
+  "Č": "",
+  "V": "nepravilni glagol",
+  "Z": "raditi, činiti",
+  "N": "dodaje se na imenice i tako nastaju する glagoli, npr. 掃除する・そうじする・čistiti od čišćenje + する"
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "なる",
+  "Č": "",
+  "V": "glagol, 五",
+  "Z": "postati",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "家",
+  "Č": "いえ",
+  "V": "imenica",
+  "Z": "kuća",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "いる・居る",
+  "Č": "いる",
+  "V": "glagol, 一",
+  "Z": "biti, za sva živa bića; uz česticu が znači imati",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "鈴木",
+  "Č": "すずき",
+  "V": "vlastita imenica",
+  "Z": "Suzuki",
+  "N": "prezime"
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "出る",
+  "Č": "でる",
+  "V": "glagol, 五",
+  "Z": "izići",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "海豚・イルカ",
+  "Č": "いるか",
+  "V": "imenica",
+  "Z": "dupin",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "魚",
+  "Č": "さかな",
+  "V": "imenica",
+  "Z": "riba",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "日本語",
+  "Č": "にほんご",
+  "V": "imenica",
+  "Z": "japanski jezik",
+  "N": "dodavanjem 語 na iza riječi koja označava državu stvara se naziv jezika"
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "分かる",
+  "Č": "わかる",
+  "V": "glagol, 五",
+  "Z": "razumijeti",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "来る",
+  "Č": "くる",
+  "V": "nepravilni glagol",
+  "Z": "doći",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "絵",
+  "Č": "え",
+  "V": "imenica",
+  "Z": "slika",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "見る",
+  "Č": "みる",
+  "V": "glagol, 一",
+  "Z": "vidjeti",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "彼女",
+  "Č": "かのじょ",
+  "V": "zamjenica, imenica",
+  "Z": "ona, djevojka",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "人",
+  "Č": "ひと",
+  "V": "imenica",
+  "Z": "čovjek",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "五月",
+  "Č": "さつき",
+  "V": "imenica",
+  "Z": "Satsuki",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "消しゴム",
+  "Č": "けしごむ",
+  "V": "imenica",
+  "Z": "gumica za brisanje",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "小さく",
+  "Č": "ちいさく",
+  "V": "prilog",
+  "Z": "maleno",
+  "N": "i-pridjevi se u priloge pretvaraju tako da im se oduzme -い na kraju i doda -く"
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "壁",
+  "Č": "かべ",
+  "V": "imenica",
+  "Z": "zid",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "白く",
+  "Č": "しろく",
+  "V": "prilog",
+  "Z": "bijelo",
+  "N": "i-pridjevi se u priloge pretvaraju tako da im se oduzme -い na kraju i doda -く"
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "塗る",
+  "Č": "ぬる",
+  "V": "glagol, 五",
+  "Z": "obojati",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "日",
+  "Č": "ひ",
+  "V": "imenica",
+  "Z": "sunce, dan",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "短く",
+  "Č": "みじかく",
+  "V": "prilog",
+  "Z": "kratko",
+  "N": "i-pridjevi se u priloge pretvaraju tako da im se oduzme -い na kraju i doda -く"
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "山",
+  "Č": "やま",
+  "V": "imenica",
+  "Z": "planina",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "天気",
+  "Č": "てんき",
+  "V": "imenica",
+  "Z": "vrijeme (meteorološko)",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "寒く",
+  "Č": "さむく",
+  "V": "prilog",
+  "Z": "hladno",
+  "N": "i-pridjevi se u priloge pretvaraju tako da im se oduzme -い na kraju i doda -く"
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "松",
+  "Č": "まつ",
+  "V": "imenica",
+  "Z": "bor",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "木",
+  "Č": "き",
+  "V": "imenica",
+  "Z": "stablo",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "高く",
+  "Č": "たかく",
+  "V": "prilog",
+  "Z": "visoko, skupo",
+  "N": "i-pridjevi se u priloge pretvaraju tako da im se oduzme -い na kraju i doda -く"
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "隣",
+  "Č": "となり",
+  "V": "imenica, no-pridjev",
+  "Z": "blizu, u susjedstvu",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "パン",
+  "Č": "",
+  "V": "imenica",
+  "Z": "kruh",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "パン屋",
+  "Č": "ぱんや",
+  "V": "imenica",
+  "Z": "pekara",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "パン屋さん",
+  "Č": "ぱんやさん",
+  "V": "imenica",
+  "Z": "djelatnik ili vlasnik pekare",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "安く",
+  "Č": "やすく",
+  "V": "prilog",
+  "Z": "jeftino",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "髪",
+  "Č": "かみ",
+  "V": "imenica",
+  "Z": "kosa",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "弟",
+  "Č": "おとうと",
+  "V": "imenica",
+  "Z": "mlađi brat, neformalno",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "コーヒー",
+  "Č": "",
+  "V": "imenica",
+  "Z": "kava",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "甘く",
+  "Č": "あまく",
+  "V": "prilog",
+  "Z": "slatko",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "子供達・子供たち",
+  "Č": "こどもたち",
+  "V": "imenica",
+  "Z": "djeca",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "全然",
+  "Č": "ぜんぜん",
+  "V": "prilog",
+  "Z": "nimalo (s negativnom rečenicom), u potpunosti (s poztivnom rečenicom) ",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "静か",
+  "Č": "しずか",
+  "V": "na-pridjev",
+  "Z": "tiho",
+  "N": ""
+ },
+ {
+  "L": "11. Prilozi",
+  "R": "可愛い・かわいい",
+  "Č": "かわいい",
+  "V": "i-pridjev",
+  "Z": "slatko",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "木",
+  "Č": "き",
+  "V": "imenica",
+  "Z": "drvo, stablo",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "家",
+  "Č": "いえ",
+  "V": "imenica",
+  "Z": "kuća",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "高木",
+  "Č": "たかぎ",
+  "V": "vlastita imenica",
+  "Z": "Takagi",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "箱",
+  "Č": "はこ",
+  "V": "imenica",
+  "Z": "kutija",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "山",
+  "Č": "やま",
+  "V": "imenica",
+  "Z": "planina",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "出る",
+  "Č": "でる",
+  "V": "glagol, 一",
+  "Z": "izići",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "あの",
+  "Č": "",
+  "V": "pokazna zamjenica",
+  "Z": "ono",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "武",
+  "Č": "たけし",
+  "V": "vlastita imenica",
+  "Z": "Takeši",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "走る",
+  "Č": "はしる",
+  "V": "glagol, 五",
+  "Z": "trčati",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "学校",
+  "Č": "がっこう",
+  "V": "imenica",
+  "Z": "škola",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "歩く",
+  "Č": "あるく",
+  "V": "glagol, 五",
+  "Z": "hodati",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "猫",
+  "Č": "ねこ",
+  "V": "imenica",
+  "Z": "mačka",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "いる・居る",
+  "Č": "いる",
+  "V": "glagol, 一",
+  "Z": "biti, za sva živa bića; uz česticu が znači imati",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "遠い",
+  "Č": "とおい",
+  "V": "i-pridjev",
+  "Z": "daleko",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "暗い",
+  "Č": "くらい",
+  "V": "i-pridjev",
+  "Z": "tamno",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "行く",
+  "Č": "いく",
+  "V": "glagol, 五",
+  "Z": "ići",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "銀行",
+  "Č": "ぎんこう",
+  "V": "imenica",
+  "Z": "banka",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "隣",
+  "Č": "となり",
+  "V": "imenica, na-pridjev",
+  "Z": "blizu, u susjedstvu",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "店",
+  "Č": "みせ",
+  "V": "imenica",
+  "Z": "trgovina",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "来る",
+  "Č": "くる",
+  "V": "nepravilni glagol",
+  "Z": "doći",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "この",
+  "Č": "",
+  "V": "pokazna zamjenica",
+  "Z": "ovo ",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "喫茶店",
+  "Č": "きっさてん",
+  "V": "imenica",
+  "Z": "kafić",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "テーブル",
+  "Č": "",
+  "V": "imenica",
+  "Z": "stol",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "川",
+  "Č": "かわ",
+  "V": "imenica",
+  "Z": "rijeka",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "向こう",
+  "Č": "むこう",
+  "V": "imenica",
+  "Z": "druga strana, suprotna strana",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "松",
+  "Č": "まつ",
+  "V": "imenica",
+  "Z": "bor",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "黒い",
+  "Č": "くろい",
+  "V": "i-pridjev",
+  "Z": "crno",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "駅",
+  "Č": "えき",
+  "V": "imenica",
+  "Z": "stanica",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "友達",
+  "Č": "ともだち",
+  "V": "imenica",
+  "Z": "prijatelj",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "子犬",
+  "Č": "こいぬ",
+  "V": "imenica",
+  "Z": "štene",
+  "N": "naziv mladunčadi životinja se najčešće dobiva dodavanjem prefiksa 子, npr. 子犬・こいぬ・štene, 子猫・こねこ・mače"
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "郵便局",
+  "Č": "ゆうびんきょく",
+  "V": "imenica",
+  "Z": "pošta",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "もう",
+  "Č": "",
+  "V": "prilog",
+  "Z": "već (uz pozitivan glagol),  (uz negativan glagol) više kao u nisi više moj, nek izgori sve",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "ある・有る",
+  "Č": "ある",
+  "V": "glagol, 一",
+  "Z": "biti (za neživo), sa česticom が znači imati",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "消防署",
+  "Č": "しょうぼうしょ",
+  "V": "imenica",
+  "Z": "vatrogasna postaja",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "近く",
+  "Č": "ちかく",
+  "V": "imenica, no-pridjev, prijedlog",
+  "Z": "blizu, susjedstvo",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "寝る",
+  "Č": "ねる",
+  "V": "glagol, 一",
+  "Z": "leći, spavati",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "リンゴ・林檎",
+  "Č": "",
+  "V": "imenica",
+  "Z": "jabuka",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "食べる",
+  "Č": "たべる",
+  "V": "glagol, 一",
+  "Z": "jesti",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "晩ご飯",
+  "Č": "ばんごはん",
+  "V": "imenica",
+  "Z": "večera",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "美味しい",
+  "Č": "おいしい",
+  "V": "i-pridjev",
+  "Z": "ukusno",
+  "N": ""
+ },
+ {
+  "L": "12. Priložne oznake mjesta",
+  "R": "思い出す",
+  "Č": "おもいだす",
+  "V": "glagol, 五",
+  "Z": "prisjetiti se",
+  "N": ""
+ },
+ {
+  "L": "15. Količina II",
+  "R": "猫",
+  "Č": "ねこ",
+  "V": "imenica",
+  "Z": "mačka",
+  "N": ""
+ },
+ {
+  "L": "15. Količina II",
+  "R": "見る",
+  "Č": "みる",
+  "V": "glagol, 一",
+  "Z": "vidjeti",
+  "N": ""
+ },
+ {
+  "L": "15. Količina II",
+  "R": "箱",
+  "Č": "はこ",
+  "V": "imenica",
+  "Z": "kutija",
+  "N": ""
+ },
+ {
+  "L": "15. Količina II",
+  "R": "中",
+  "Č": "なか",
+  "V": "odnosna imenica",
+  "Z": "unutar",
+  "N": ""
+ },
+ {
+  "L": "15. Količina II",
+  "R": "子猫",
+  "Č": "こねこ",
+  "V": "imenica",
+  "Z": "mače",
+  "N": "naziv mladunčadi životinja se najčešće dobiva dodavanjem prefiksa 子, npr. 子犬・こいぬ・štene, 子猫・こねこ・mače"
+ },
+ {
+  "L": "15. Količina II",
+  "R": "いる・居る",
+  "Č": "いる",
+  "V": "glagol, 一",
+  "Z": "biti, za sva živa bića; uz česticu が znači imati",
+  "N": ""
+ },
+ {
+  "L": "15. Količina II",
+  "R": "子供達・子供たち",
+  "Č": "こどもたち",
+  "V": "imenica",
+  "Z": "djeca",
+  "N": ""
+ },
+ {
+  "L": "15. Količina II",
+  "R": "友達",
+  "Č": "ともだち",
+  "V": "imenica",
+  "Z": "prijatelj",
+  "N": ""
+ },
+ {
+  "L": "15. Količina II",
+  "R": "会う",
+  "Č": "あう",
+  "V": "glagol, 五",
+  "Z": "sresti",
+  "N": ""
+ },
+ {
+  "L": "15. Količina II",
+  "R": "と",
+  "Č": "",
+  "V": "veznik",
+  "Z": "i",
+  "N": ""
+ },
+ {
+  "L": "15. Količina II",
+  "R": "話す",
+  "Č": "はなす",
+  "V": "glagol, 五",
+  "Z": "pričati",
+  "N": ""
+ },
+ {
+  "L": "15. Količina II",
+  "R": "武",
+  "Č": "たけし",
+  "V": "vlastita imenica",
+  "Z": "Takeši",
+  "N": ""
+ },
+ {
+  "L": "15. Količina II",
+  "R": "フォーク",
+  "Č": "",
+  "V": "imenica",
+  "Z": "vilica",
+  "N": ""
+ },
+ {
+  "L": "15. Količina II",
+  "R": "肉",
+  "Č": "にく",
+  "V": "imenica",
+  "Z": "meso",
+  "N": ""
+ },
+ {
+  "L": "15. Količina II",
+  "R": "刺す",
+  "Č": "さす",
+  "V": "glagol, 五",
+  "Z": "nabosti",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "武",
+  "Č": "たけし",
+  "V": "vlastita imenica",
+  "Z": "Takeši",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "今朝",
+  "Č": "けさ",
+  "V": "vremenska imenica",
+  "Z": "jutros",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "日本",
+  "Č": "にほん",
+  "V": "imenica",
+  "Z": "Japan",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "帰る",
+  "Č": "かえる",
+  "V": "glagol, 五",
+  "Z": "vratiti se svojoj kući, zemlji",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "あの",
+  "Č": "あの",
+  "V": "pokazna zamjenica",
+  "Z": "ono",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "花",
+  "Č": "はな",
+  "V": "imenica",
+  "Z": "cvijet",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "きれい・綺麗",
+  "Č": "きれい",
+  "V": "na -pridjev",
+  "Z": "lijepo, čisto",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "花子",
+  "Č": "はなこ",
+  "V": "vlastita imenica",
+  "Z": "Hanako",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "見る",
+  "Č": "みる",
+  "V": "glagol, 一",
+  "Z": "vidjeti",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "サルマ",
+  "Č": "",
+  "V": "imenica",
+  "Z": "sarma",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "食べる",
+  "Č": "たべる",
+  "V": "glagol, 一",
+  "Z": "jesti",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "嫌い",
+  "Č": "きらい",
+  "V": "na -pridjev",
+  "Z": "mrsko",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "鈴木",
+  "Č": "すずき",
+  "V": "vlastita imenica",
+  "Z": "Suzuki",
+  "N": "prezime"
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "友達",
+  "Č": "ともだち",
+  "V": "imenica",
+  "Z": "prijatelj",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "と",
+  "Č": "",
+  "V": "veznik",
+  "Z": "i",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "話す",
+  "Č": "はなす",
+  "V": "glagol, 五",
+  "Z": "pričati",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "人",
+  "Č": "ひと",
+  "V": "imenica",
+  "Z": "čovjek",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "リンゴ・林檎",
+  "Č": "",
+  "V": "imenica",
+  "Z": "jabuka",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "箱",
+  "Č": "はこ",
+  "V": "imenica",
+  "Z": "kutija",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "あれ・彼・彼れ",
+  "Č": "あれ",
+  "V": "pokazna zamjenica",
+  "Z": "ono",
+  "N": "pokazne zamjenice se najčešće pišu hiraganom"
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "これ・此れ",
+  "Č": "これ",
+  "V": "pokazna zamjenica",
+  "Z": "ovo ",
+  "N": "pokazne zamjenice se najčešće pišu hiraganom"
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "この",
+  "Č": "この",
+  "V": "pokazna zamjenica",
+  "Z": "ovo ",
+  "N": "pokazne zamjenice se najčešće pišu hiraganom"
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "猫",
+  "Č": "ねこ",
+  "V": "imenica",
+  "Z": "mačka",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "その",
+  "Č": "",
+  "V": "pokazna zamjenica",
+  "Z": "to",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "家",
+  "Č": "いえ",
+  "V": "imenica",
+  "Z": "kuća",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "そこ・其処",
+  "Č": "そこ",
+  "V": "odnosna imenica",
+  "Z": "najčešće se pišu hiraganom",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "後ろ",
+  "Č": "うしろ",
+  "V": "odnosna imenica",
+  "Z": "iza",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "赤い",
+  "Č": "あかい",
+  "V": "i-pridjev",
+  "Z": "crveno",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "きれいに",
+  "Č": "",
+  "V": "prilog",
+  "Z": "lijepo, čisto",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "赤く",
+  "Č": "あかく",
+  "V": "prilog",
+  "Z": "crveno",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "ケーキ",
+  "Č": "",
+  "V": "imenica",
+  "Z": "kolač",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "貴方・貴男・貴女",
+  "Č": "あなた",
+  "V": "zamjenica",
+  "Z": "ti ",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "物・もの",
+  "Č": "",
+  "V": "imenica",
+  "Z": "stvar",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "アイスクリーム",
+  "Č": "",
+  "V": "imenica",
+  "Z": "sladoled",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "買う",
+  "Č": "かう",
+  "V": "glagol, 五",
+  "Z": "kupiti",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "鞄",
+  "Č": "かばん",
+  "V": "imenica",
+  "Z": "torba",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "パーティ",
+  "Č": "",
+  "V": "imenica",
+  "Z": "zabava",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "来る",
+  "Č": "くる",
+  "V": "nepravilni glagol",
+  "Z": "doći",
+  "N": ""
+ },
+ {
+  "L": "16. Pitanja i završne čestice",
+  "R": "コーヒー",
+  "Č": "",
+  "V": "imenica",
+  "Z": "kava",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "話す",
+  "Č": "はなす",
+  "V": "glagol, 五",
+  "Z": "pričati",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "話",
+  "Č": "はなし",
+  "V": "imenica",
+  "Z": "priča",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "日本",
+  "Č": "にほん",
+  "V": "imenica",
+  "Z": "Japan",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "行く",
+  "Č": "いく",
+  "V": "glagol, 五",
+  "Z": "ići",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "箱",
+  "Č": "はこ",
+  "V": "imenica",
+  "Z": "kutija",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "中",
+  "Č": "なか",
+  "V": "odnosna imenica",
+  "Z": "unutar",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "リンゴ・林檎",
+  "Č": "りんご",
+  "V": "imenica",
+  "Z": "jabuka",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "ある・有る",
+  "Č": "ある",
+  "V": "glagol, 五",
+  "Z": "biti (za neživo), sa česticom が znači imati",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "動物園",
+  "Č": "どうぶつえん",
+  "V": "imenica",
+  "Z": "zoološki vrt",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "トラ・虎",
+  "Č": "とら",
+  "V": "imenica",
+  "Z": "tigar",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "見る",
+  "Č": "みる",
+  "V": "glagol, 一",
+  "Z": "vidjeti",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "武",
+  "Č": "たけし",
+  "V": "vlastita imenica",
+  "Z": "Takeši",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "手紙",
+  "Č": "てがみ",
+  "V": "imenica",
+  "Z": "pismo",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "書く",
+  "Č": "かく",
+  "V": "glagol, 五",
+  "Z": "pisati",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "あの",
+  "Č": "あの",
+  "V": "pokazna zamjenica",
+  "Z": "ono",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "花",
+  "Č": "はな",
+  "V": "imenica",
+  "Z": "cvijet",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "きれい・綺麗",
+  "Č": "きれい",
+  "V": "na -pridjev",
+  "Z": "lijepo, čisto",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "空",
+  "Č": "そら",
+  "V": "imenica",
+  "Z": "nebo",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "青い",
+  "Č": "あおい",
+  "V": "i-pridjev",
+  "Z": "plavo",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "あれ・彼・彼れ",
+  "Č": "あれ",
+  "V": "pokazna zamjenica",
+  "Z": "ono",
+  "N": "pokazne zamjenice se najčešće pišu hiraganom"
+ },
+ {
+  "L": "17. い oblik",
+  "R": "猫",
+  "Č": "ねこ",
+  "V": "imenica",
+  "Z": "mačka",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "昨日",
+  "Č": "きのう",
+  "V": "vremenska imenica",
+  "Z": "jučer",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "暖かい",
+  "Č": "あたたかい",
+  "V": "i-pridjev",
+  "Z": "toplo",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "家",
+  "Č": "いえ",
+  "V": "imenica",
+  "Z": "kuća",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "木",
+  "Č": "き",
+  "V": "imenica",
+  "Z": "drvo, stablo",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "お金",
+  "Č": "おかね",
+  "V": "imenica",
+  "Z": "novac",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "鈴木",
+  "Č": "すずき",
+  "V": "vlastita imenica",
+  "Z": "Suzuki",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "と",
+  "Č": "",
+  "V": "veznik",
+  "Z": "i",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "時間",
+  "Č": "じかん",
+  "V": "imenica",
+  "Z": "vrijeme (period)",
+  "N": "dodamo li かん na brojač za vrijeme, pretvaramo količinu iz točnog vremena u raspon"
+ },
+ {
+  "L": "17. い oblik",
+  "R": "勉強する",
+  "Č": "べんきょうする",
+  "V": "glagol, する",
+  "Z": "učiti",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "友達",
+  "Č": "ともだち",
+  "V": "imenica",
+  "Z": "prijatelj",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "その",
+  "Č": "",
+  "V": "pokazna zamjenica",
+  "Z": "to",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "本",
+  "Č": "ほん",
+  "V": "imenica",
+  "Z": "knjiga",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "読む",
+  "Č": "よむ",
+  "V": "glagol, 五",
+  "Z": "čitati",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "何",
+  "Č": "なん・なに",
+  "V": "upitna riječ",
+  "Z": "što",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "映画館",
+  "Č": "えいがかん",
+  "V": "imenica",
+  "Z": "kino",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "言う",
+  "Č": "いう",
+  "V": "glagol, 五",
+  "Z": "pričati",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "花子",
+  "Č": "はなこ",
+  "V": "vlastita imenica",
+  "Z": "Hanako",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "嫌い",
+  "Č": "きらい",
+  "V": "na-pridjev",
+  "Z": "mrsko",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "新しい",
+  "Č": "あたらしい",
+  "V": "i-pridjev",
+  "Z": "novo",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "車",
+  "Č": "くるま",
+  "V": "imenica",
+  "Z": "automobil",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "買う",
+  "Č": "かう",
+  "V": "glagol, 五",
+  "Z": "kupiti",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "田中",
+  "Č": "たなか",
+  "V": "vlastita imenica",
+  "Z": "Tanaka",
+  "N": ""
+ },
+ {
+  "L": "17. い oblik",
+  "R": "嬉しい",
+  "Č": "うれしい",
+  "V": "i-pridjev",
+  "Z": "sretno",
+  "N": "prezime"
+ },
+ {
+  "L": "17. い oblik",
+  "R": "隠れる",
+  "Č": "かくれる",
+  "V": "glagol, 一",
+  "Z": "sakriti, biti skriven",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "下さい・ください",
+  "Č": "",
+  "V": "fraza",
+  "Z": "molim",
+  "N": "dodaje se na imperativ i time se zapovjed ublažava u zamolbu koja ostaje retorička jer se i dalje radi o blagoj naredbi "
+ },
+ {
+  "L": "18. て oblik",
+  "R": "リンゴ・林檎",
+  "Č": "",
+  "V": "imenica",
+  "Z": "jabuka",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "食べる",
+  "Č": "たべる",
+  "V": "glagol, 一",
+  "Z": "jesti",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "靴",
+  "Č": "くつ",
+  "V": "imenica",
+  "Z": "cipele",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "履く",
+  "Č": "はく",
+  "V": "glagol, 五",
+  "Z": "obuti",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "家",
+  "Č": "いえ",
+  "V": "imenica",
+  "Z": "kuća",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "出る",
+  "Č": "でる",
+  "V": "glagol, 五",
+  "Z": "izići",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "お腹",
+  "Č": "おなか",
+  "V": "imenica",
+  "Z": "želudac",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "空く",
+  "Č": "すく",
+  "V": "glagol, 五",
+  "Z": "isprazniti se",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "お腹が空く",
+  "Č": "おなかがすく",
+  "V": "fraza",
+  "Z": "ogladniti",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "いる・居る",
+  "Č": "いる",
+  "V": "glagol, 一",
+  "Z": "biti, za sva živa bića; uz česticu が znači imati",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "空",
+  "Č": "そら",
+  "V": "imenica",
+  "Z": "nebo",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "見る",
+  "Č": "みる",
+  "V": "glagol, 一",
+  "Z": "vidjeti",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "まだ",
+  "Č": "",
+  "V": "prilog",
+  "Z": "još uvijek",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "昼ご飯",
+  "Č": "ひるごはん",
+  "V": "imenica",
+  "Z": "ručak",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "もう",
+  "Č": "",
+  "V": "prilog",
+  "Z": "već (uz pozitivan glagol),  (uz negativan glagol) više kao u nisi više moj, nek izgori sve",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "その",
+  "Č": "",
+  "V": "pokazna zamjenica",
+  "Z": "to",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "時",
+  "Č": "とき",
+  "V": "imenica",
+  "Z": "vrijeme",
+  "N": "pokazne zamjenice se najčešće pišu hiraganom"
+ },
+ {
+  "L": "18. て oblik",
+  "R": "掃除する",
+  "Č": "そうじする",
+  "V": "glagol, する",
+  "Z": "čistiti",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "出す",
+  "Č": "だす",
+  "V": "glagol, 五",
+  "Z": "iznijeti",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "起きる",
+  "Č": "おきる",
+  "V": "glagol, 一",
+  "Z": "ustati",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "遊ぶ",
+  "Č": "あそぶ",
+  "V": "glagol, 五",
+  "Z": "igrati se",
+  "N": ""
+ },
+ {
+  "L": "18. て oblik",
+  "R": "結婚する",
+  "Č": "けっこんする",
+  "V": "glagol, する",
+  "Z": "vjenčati se",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "為さい・なさい",
+  "Č": "",
+  "V": "fraza",
+  "Z": "nastavak za tvorbu imperativa",
+  "N": "za razliku od ください koji daje naredbi blagi ton, なさい joj daje strogi, ali nikako grub ton"
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "ニンジン・人参",
+  "Č": "",
+  "V": "imenica",
+  "Z": "mrkva",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "食べる",
+  "Č": "たべる",
+  "V": "glagol, 一",
+  "Z": "jesti",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "外",
+  "Č": "そと",
+  "V": "odnosna imenica",
+  "Z": "izvan",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "出る",
+  "Č": "でる",
+  "V": "glagol, 五",
+  "Z": "izići",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "次",
+  "Č": "つぎ",
+  "V": "imenica, no-pridjev",
+  "Z": "sljedeći",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "文",
+  "Č": "ぶん",
+  "V": "imenica",
+  "Z": "rečenica",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "クロアチア語",
+  "Č": "くろあちあご",
+  "V": "imenica",
+  "Z": "hrvatski jezik",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "訳す",
+  "Č": "やくす",
+  "V": "glagol, 五",
+  "Z": "prevoditi",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "たい",
+  "Č": "",
+  "V": "pomoćni pridjev",
+  "Z": "nastavak za stvaranje „želim raditi” verzije glagola",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "好き",
+  "Č": "すき",
+  "V": "na-pridjev",
+  "Z": "drago, svidljivo",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "嫌い",
+  "Č": "きらい",
+  "V": "na-pridjev",
+  "Z": "mrsko",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "アイスクリーム",
+  "Č": "",
+  "V": "imenica",
+  "Z": "sladoled",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "武",
+  "Č": "たけし",
+  "V": "vlastita imenica",
+  "Z": "Takeši",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "易い・やすい",
+  "Č": "やすい",
+  "V": "i-pridjev",
+  "Z": "lako, jednostavno",
+  "N": "kad je u funkciji nastavka na glagol piše se hiraganom "
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "難い・にくい",
+  "Č": "にくい",
+  "V": "i-pridjev",
+  "Z": "teško, komplicirano",
+  "N": "kad je u funkciji nastavka na glagol piše se hiraganom "
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "この",
+  "Č": "",
+  "V": "pokazna zamjenica",
+  "Z": "ovo ",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "階段",
+  "Č": "かいだん",
+  "V": "imenica",
+  "Z": "stepenice",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "登る",
+  "Č": "のぼる",
+  "V": "glagol, 五",
+  "Z": "penjati se",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "寿司",
+  "Č": "すし",
+  "V": "imenica",
+  "Z": "suši",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "文字",
+  "Č": "もじ・もんじ",
+  "V": "imenica",
+  "Z": "slovo, rukopis",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "読む",
+  "Č": "よむ",
+  "V": "glagol, 五",
+  "Z": "čitati",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "先生",
+  "Č": "せんせい",
+  "V": "imenica",
+  "Z": "učitelj, doktor",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "行く",
+  "Č": "いく",
+  "V": "glagol, 五",
+  "Z": "ići",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "来る",
+  "Č": "くる",
+  "V": "nepravilni glagol",
+  "Z": "doći",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "映画",
+  "Č": "えいが",
+  "V": "imenica",
+  "Z": "film",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "見る",
+  "Č": "みる",
+  "V": "glagol, 一",
+  "Z": "vidjeti",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "明日",
+  "Č": "あした",
+  "V": "vremenska imenica",
+  "Z": "sutra",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "花子",
+  "Č": "はなこ",
+  "V": "vlastita imenica",
+  "Z": "Hanako",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "遊ぶ",
+  "Č": "あそぶ",
+  "V": "glagol, 五",
+  "Z": "igrati se",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "牛乳",
+  "Č": "ぎゅうにゅう",
+  "V": "imenica",
+  "Z": "kravlje mlijeko",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "買う",
+  "Č": "かう",
+  "V": "glagol, 五",
+  "Z": "kupiti",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "直す",
+  "Č": "なおす",
+  "V": "glagol, 五",
+  "Z": "popraviti",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "始める",
+  "Č": "はじめる",
+  "V": "glagol, 一",
+  "Z": "započeti",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "終わる",
+  "Č": "おわる",
+  "V": "glagol, 五",
+  "Z": "završiti",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "日本語",
+  "Č": "にほんご",
+  "V": "imenica",
+  "Z": "japanski jezik",
+  "N": "dodavanjem 語 na iza riječi koja označava državu stvara se naziv jezika"
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "勉強する",
+  "Č": "べんきょうする",
+  "V": "glagol, する",
+  "Z": "učiti",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "鈴木",
+  "Č": "すずき",
+  "V": "vlastita imenica",
+  "Z": "Suzuki",
+  "N": "prezime"
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "細い",
+  "Č": "ほそい",
+  "V": "i-pridjev",
+  "Z": "usko",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "道",
+  "Č": "みち",
+  "V": "imenica",
+  "Z": "ulica",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "歩く",
+  "Č": "あるく",
+  "V": "glagol, 五",
+  "Z": "hodati",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "酒",
+  "Č": "さけ",
+  "V": "imenica",
+  "Z": "sake",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "飲む",
+  "Č": "のむ",
+  "V": "glagol, 五",
+  "Z": "piti",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "帰る",
+  "Č": "かえる",
+  "V": "glagol, 五",
+  "Z": "vratiti se svojoj kući, zemlji",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "その",
+  "Č": "",
+  "V": "pokazna zamjenica",
+  "Z": "to",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "時",
+  "Č": "とき",
+  "V": "imenica",
+  "Z": "vrijeme",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "思う",
+  "Č": "おもう",
+  "V": "glagol, 五",
+  "Z": "misliti",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "動詞",
+  "Č": "どうし",
+  "V": "imenica",
+  "Z": "glagol",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "分かる",
+  "Č": "わかる",
+  "V": "glagol, 五",
+  "Z": "razumijeti",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "前",
+  "Č": "まえ",
+  "V": "odnosna imenica",
+  "Z": "ispred",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "本",
+  "Č": "ほん",
+  "V": "imenica",
+  "Z": "knjiga",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "今度",
+  "Č": "こんど",
+  "V": "imenica, prilog",
+  "Z": "ovaj put, sljedeći put",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "借りる",
+  "Č": "かりる",
+  "V": "glagol, 一",
+  "Z": "posuditi",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "後",
+  "Č": "あと",
+  "V": "imenica, no-pridjev",
+  "Z": "iza, poslije",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "職員室",
+  "Č": "しょくいんしつ",
+  "V": "imenica",
+  "Z": "zbornica",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "言う",
+  "Č": "いう",
+  "V": "glagol, 五",
+  "Z": "reći",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "毎",
+  "Č": "まい",
+  "V": "prefiks",
+  "Z": "svaki",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "週",
+  "Č": "しゅう",
+  "V": "imenica",
+  "Z": "tjedan",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "ここ・此処",
+  "Č": "ここ",
+  "V": "odnosna imenica",
+  "Z": "ovdje",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "日",
+  "Č": "にち",
+  "V": "imenica",
+  "Z": "dan",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "月",
+  "Č": "つき",
+  "V": "imenica",
+  "Z": "mjesec",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "年",
+  "Č": "とし",
+  "V": "imenica",
+  "Z": "godina",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "朝",
+  "Č": "あさ",
+  "V": "imenica",
+  "Z": "jutro",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "晩",
+  "Č": "ばん",
+  "V": "imenica",
+  "Z": "večer",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "去年",
+  "Č": "きょねん",
+  "V": "vremenska imenica",
+  "Z": "prošla godina",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "引っ越す",
+  "Č": "ひっこす",
+  "V": "glagol, 五",
+  "Z": "preseliti se",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "日本",
+  "Č": "にほん",
+  "V": "imenica",
+  "Z": "Japan",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "から",
+  "Č": "",
+  "V": "čestica",
+  "Z": "od",
+  "N": "označava početnu točku ili početak neke radnje"
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "戻る",
+  "Č": "もどる",
+  "V": "glagol, 五",
+  "Z": "vratiti se",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "友達",
+  "Č": "ともだち",
+  "V": "imenica",
+  "Z": "prijatelj",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "話",
+  "Č": "はなし",
+  "V": "imenica",
+  "Z": "priča",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "聞く",
+  "Č": "きく",
+  "V": "glagol, 五",
+  "Z": "slušati",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "私",
+  "Č": "わたし",
+  "V": "zamjenica",
+  "Z": "ja",
+  "N": ""
+ },
+ {
+  "L": "19. Upotrebe い oblika I",
+  "R": "も",
+  "Č": "",
+  "V": "čestica",
+  "Z": "također, čak",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "みる",
+  "Č": "",
+  "V": "glagol, 一",
+  "Z": "nastavak za izražavanje pokusa, pokušaja",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "納豆",
+  "Č": "なっとう",
+  "V": "imenica",
+  "Z": "nato",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "食べる",
+  "Č": "たべる",
+  "V": "glagol, 一",
+  "Z": "jesti",
+  "N": "vrsta jela"
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "お母さん",
+  "Č": "おかあさん",
+  "V": "imenica",
+  "Z": "majka",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "話す",
+  "Č": "はなす",
+  "V": "glagol, 五",
+  "Z": "pričati",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "一",
+  "Č": "いち",
+  "V": "broj",
+  "Z": "jedan",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "一度",
+  "Č": "いちど",
+  "V": "imenica, prilog",
+  "Z": "jedan put",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "日本",
+  "Č": "にほん",
+  "V": "imenica",
+  "Z": "Japan",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "行く",
+  "Č": "いく",
+  "V": "glagol, 五",
+  "Z": "ići",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "おく　",
+  "Č": "",
+  "V": "glagol, 五",
+  "Z": "nastavak za izražavanje pripreme za budućnost",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "昨夜",
+  "Č": "ゆうべ",
+  "V": "vremenska imenica",
+  "Z": "večer",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "ゴミ",
+  "Č": "",
+  "V": "imenica",
+  "Z": "smeće",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "出す",
+  "Č": "だす",
+  "V": "glagol, 五",
+  "Z": "iznijeti",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "使用方法",
+  "Č": "しようほうほう",
+  "V": "imenica",
+  "Z": "upute",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "読む",
+  "Č": "よむ",
+  "V": "glagol, 五",
+  "Z": "čitati",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "呉れる",
+  "Č": "くれる",
+  "V": "glagol, 一 pomoćni",
+  "Z": "dati",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "上げる",
+  "Č": "あげる",
+  "V": "glagol, 一 pomoćni",
+  "Z": "dati",
+  "N": "nastavak za izražavanje tko čini nešto za nekoga – dodati suvislo obrazloženje"
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "武",
+  "Č": "たけし",
+  "V": "vlastita imenica",
+  "Z": "Takeši",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "数学",
+  "Č": "すうがく",
+  "V": "imenica",
+  "Z": "matematika",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "教える",
+  "Č": "おしえる",
+  "V": "glagol, 一",
+  "Z": "podučiti",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "花子",
+  "Č": "はなこ",
+  "V": "vlastita imenica",
+  "Z": "Hanako",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "私",
+  "Č": "わたし",
+  "V": "zamjenica",
+  "Z": "ja",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "兄",
+  "Č": "あに",
+  "V": "imenica",
+  "Z": "stariji brat",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "部屋",
+  "Č": "へや",
+  "V": "imenica",
+  "Z": "soba",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "掃除する",
+  "Č": "そうじする",
+  "V": "glagol, する",
+  "Z": "čistiti",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "代わりに",
+  "Č": "かわりに",
+  "V": "fraza",
+  "Z": "u zamjenu za",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "宿題",
+  "Č": "しゅくだい",
+  "V": "imenica",
+  "Z": "domaća zadaća",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "書く",
+  "Č": "かく",
+  "V": "glagol, 五",
+  "Z": "pisati",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "貰う",
+  "Č": "もらう",
+  "V": "glagol, 五 pomoćni",
+  "Z": "primiti",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "飲む",
+  "Č": "のむ",
+  "V": "glagol, 五",
+  "Z": "piti",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "買う",
+  "Č": "かう",
+  "V": "glagol, 五",
+  "Z": "kupiti",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "この",
+  "Č": "",
+  "V": "pokazna zamjenica",
+  "Z": "ovo ",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "お茶",
+  "Č": "おちゃ",
+  "V": "imenica",
+  "Z": "čaj",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "家",
+  "Č": "いえ",
+  "V": "imenica",
+  "Z": "kuća",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "決める",
+  "Č": "きめる",
+  "V": "glagol, 一",
+  "Z": "odlučiti",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "先生",
+  "Č": "せんせい",
+  "V": "imenica",
+  "Z": "učitelj, doktor",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "子供たち",
+  "Č": "こどもたち",
+  "V": "imenica",
+  "Z": "djeca",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "絵本",
+  "Č": "えほん",
+  "V": "imenica",
+  "Z": "slikovnica",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "友達",
+  "Č": "ともだち",
+  "V": "imenica",
+  "Z": "prijatelj",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "物理学",
+  "Č": "ぶつりがく",
+  "V": "imenica",
+  "Z": "fizika",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "彼女",
+  "Č": "かのじょ",
+  "V": "zamjenica, imenica",
+  "Z": "ona, djevojka",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "牛乳",
+  "Č": "ぎゅうにゅう",
+  "V": "imenica",
+  "Z": "kravlje mlijeko",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "洗剤",
+  "Č": "せんざい",
+  "V": "imenica",
+  "Z": "sredstvo za čišćenje",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "毎",
+  "Č": "まい",
+  "V": "prefiks",
+  "Z": "svaki",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "日",
+  "Č": "にち",
+  "V": "imenica",
+  "Z": "dan",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "ありがとう・有り難う",
+  "Č": "",
+  "V": "fraza",
+  "Z": "hvala",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "言う",
+  "Č": "いう",
+  "V": "glagol, 五",
+  "Z": "reći",
+  "N": ""
+ },
+ {
+  "L": "20. Upotrebe て oblika I",
+  "R": "忘れる",
+  "Č": "わすれる",
+  "V": "glagol, 一",
+  "Z": "zaboraviti",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "晩ご飯",
+  "Č": "ばんごはん",
+  "V": "imenica",
+  "Z": "večera",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "食べる",
+  "Č": "たべる",
+  "V": "glagol, 一",
+  "Z": "jesti",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "寝る",
+  "Č": "ねる",
+  "V": "glagol, 一",
+  "Z": "spavati",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "黒い",
+  "Č": "くろい",
+  "V": "i-pridjev",
+  "Z": "crno",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "足",
+  "Č": "あし",
+  "V": "imenica",
+  "Z": "stopalo, noga",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "速い",
+  "Č": "はやい",
+  "V": "i-pridjev",
+  "Z": "brzo",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "足の速い",
+  "Č": "あしのはやい",
+  "V": "fraza",
+  "Z": "brzo",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "猫",
+  "Č": "ねこ",
+  "V": "imenica",
+  "Z": "mačka",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "見る",
+  "Č": "みる",
+  "V": "glagol, 一",
+  "Z": "vidjeti",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "から",
+  "Č": "",
+  "V": "čestica",
+  "Z": "zato što, jer",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "詰まらない",
+  "Č": "つまらない",
+  "V": "i-pridjev",
+  "Z": "dosadan",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "映画",
+  "Č": "えいが",
+  "V": "imenica",
+  "Z": "film",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "玉ねぎ",
+  "Č": "たまねぎ",
+  "V": "imenica",
+  "Z": "luk",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "沢山",
+  "Č": "たくさん",
+  "V": "",
+  "Z": "puno",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "病気",
+  "Č": "びょうき",
+  "V": "na -pridjev",
+  "Z": "bolestan",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "なる",
+  "Č": "",
+  "V": "glagol, 五",
+  "Z": "postati",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "静か",
+  "Č": "しずか",
+  "V": "na -pridjev",
+  "Z": "tiho",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "人",
+  "Č": "ひと",
+  "V": "imenica",
+  "Z": "čovjek",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "気付く",
+  "Č": "きづく",
+  "V": "glagol, 五",
+  "Z": "zamijetiti",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "けど",
+  "Č": "",
+  "V": "veznik",
+  "Z": "ali",
+  "N": "naredna 3 „ali” se ralikuju u razini pristojnosti, a ono što im je zajedničko jest da ne mogu stajati na početku rečenice"
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "けれど",
+  "Č": "",
+  "V": "veznik",
+  "Z": "ali",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "けれでも",
+  "Č": "",
+  "V": "veznik",
+  "Z": "ali",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "兎",
+  "Č": "うさぎ",
+  "V": "imenica",
+  "Z": "zec",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "狐",
+  "Č": "きつね",
+  "V": "imenica",
+  "Z": "lisica",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "武",
+  "Č": "たけし",
+  "V": "vlastita imenica",
+  "Z": "Takeši",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "ください",
+  "Č": "",
+  "V": "fraza",
+  "Z": "molim",
+  "N": "dodaje se na imperativ i time se zapovjed ublažava u zamolbu koja ostaje retorička jer se i dalje radi o blagoj naredbi "
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "言う",
+  "Č": "いう",
+  "V": "glagol, 五",
+  "Z": "reći",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "花子",
+  "Č": "はなこ",
+  "V": "vlastita imenica",
+  "Z": "Hanako",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "私",
+  "Č": "わたし",
+  "V": "zamjenica",
+  "Z": "ja",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "嫌い",
+  "Č": "きらい",
+  "V": "na -pridjev",
+  "Z": "mrsko",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "聞く",
+  "Č": "きく",
+  "V": "glagol, 五",
+  "Z": "čuti, pitati",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "先生",
+  "Č": "せんせい",
+  "V": "imenica",
+  "Z": "učitelj, doktor",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "知る",
+  "Č": "しる",
+  "V": "glagol, 五",
+  "Z": "znati",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "今",
+  "Č": "いま",
+  "V": "vremenska imenica",
+  "Z": "sad",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "朝",
+  "Č": "あさ",
+  "V": "imenica",
+  "Z": "jutro",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "結構",
+  "Č": "けっこう",
+  "V": "na -pridjev",
+  "Z": "",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "賑やか",
+  "Č": "にぎやか",
+  "V": "na -pridjev",
+  "Z": "",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "ので",
+  "Č": "",
+  "V": "",
+  "Z": "",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "のに",
+  "Č": "",
+  "V": "",
+  "Z": "",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "頭",
+  "Č": "あたま",
+  "V": "imenica",
+  "Z": "glava",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "痛い",
+  "Č": "いたい",
+  "V": "i-pridjev",
+  "Z": "bolno",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "学校",
+  "Č": "がっこう",
+  "V": "imenica",
+  "Z": "škola",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "行く",
+  "Č": "いく",
+  "V": "glagol, 五",
+  "Z": "ići",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "冬",
+  "Č": "ふゆ",
+  "V": "imenica",
+  "Z": "zima",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "アイスクリーム",
+  "Č": "",
+  "V": "imenica",
+  "Z": "sladoled",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "思う",
+  "Č": "おもう",
+  "V": "glagol, 五",
+  "Z": "misliti",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "水",
+  "Č": "みず",
+  "V": "imenica",
+  "Z": "voda",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "落ちる",
+  "Č": "おちる",
+  "V": "glagol, 一",
+  "Z": "pasti",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "深い",
+  "Č": "ふかい",
+  "V": "i-pridjev",
+  "Z": "doboko",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "分かる",
+  "Č": "わかる",
+  "V": "glagol, 五",
+  "Z": "shvatiti",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "も",
+  "Č": "",
+  "V": "čestica",
+  "Z": "također, čak",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "日",
+  "Č": "ひ",
+  "V": "imenica",
+  "Z": "dan",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "ある・有る",
+  "Č": "",
+  "V": "glagol, 五",
+  "Z": "biti (za neživo), sa česticom が znači imati",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "病院",
+  "Č": "びょういん",
+  "V": "imenica",
+  "Z": "bolnica",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "へ",
+  "Č": "",
+  "V": "čestica",
+  "Z": "čestica puta prema odredištu",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "だから",
+  "Č": "",
+  "V": "",
+  "Z": "",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "だけど",
+  "Č": "",
+  "V": "",
+  "Z": "",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "だが",
+  "Č": "",
+  "V": "",
+  "Z": "",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "なので",
+  "Č": "",
+  "V": "",
+  "Z": "",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "なのに",
+  "Č": "",
+  "V": "",
+  "Z": "",
+  "N": ""
+ },
+ {
+  "L": "21. Složene rečenice",
+  "R": "でも",
+  "Č": "",
+  "V": "",
+  "Z": "",
+  "N": ""
+ }
+]
