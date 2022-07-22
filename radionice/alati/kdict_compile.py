@@ -50,13 +50,15 @@ def make_tex(lesson: int, content: dict, template=DEFAULT_TEMPLATE, output=DEFAU
         f.write(out)
     return outname
 
-DEFAULT_OPTS = ("-synctex=0",
+DEFAULT_OPTS = ["-synctex=0",
                 "-interaction=nonstopmode",
                 "-aux-directory=../tex_aux",
-                "-output-directory=./release")
+                "-output-directory=./release"]
 def compile_tex(texpath: str):
     """Tex compiler for convenience."""
-    cproc = Popen(["xelatex", texpath] + list(DEFAULT_OPTS))
+    cproc = Popen(["xelatex", texpath] + DEFAULT_OPTS)
+    pipes = cproc.communicate()
+    print(pipes)
 
 if __name__ == "__main__":
     data = kdict.parse_sources(kdict.SOURCES)
