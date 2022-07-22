@@ -49,7 +49,7 @@
 --文, ぶん: rečenica, tekst
 --文化, ぶん.か: kultura
 --文句, もん.く: prigovor
---文字, も.じ <nepravilno čitanje>: slovo, simbol (npr. kanji)
+--文字, も.じ<nepravilno čitanje>: slovo, simbol (npr. kanji)
 -直
 --直す, なお.す: popraviti nešto
 --正直,　しょう.じき: iskreno

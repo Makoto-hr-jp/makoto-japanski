@@ -15,7 +15,7 @@
 --上げる,　あ.げる: podići nešto
 --上る,　のぼ.る: penjati se, uzlaziti
 --上手,　じょう.ず: vješt(a) u nečemu
---上手い,　うまい <specijalno čitanje>: vješt(a) u nečemu
+--上手い,　うまい<posebno čitanje>: vješt(a) u nečemu
 --以上,　い.じょう: više od, dovoljno
 -食
 --食べる,　た.べる: jesti

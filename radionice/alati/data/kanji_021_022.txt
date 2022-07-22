@@ -13,7 +13,7 @@
 --法律, ほう.りつ: zakon
 -部
 --全部, ぜん.ぶ: sve, cijelo, kompletno
---部屋,　へ.や <nepravilno čitanje>: soba
+--部屋,　へ.や<nepravilno čitanje>: soba
 -屋
 --~屋, ~や: sufiks za dućane
 --本屋, ほん.や: knjižara
@@ -58,7 +58,7 @@
 --玉, たま: lopta, kugla
 -朝
 --朝, あさ: jutro
---今朝, け.さ <specijalno čitanje>: ovo jutro
+--今朝, け.さ <posebno čitanje>: ovo jutro
 -冬
 --冬, ふゆ: zima (godišnje doba)
 -東

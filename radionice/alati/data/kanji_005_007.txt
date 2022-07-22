@@ -26,7 +26,7 @@
 -明
 --明るい,　あか.るい: svijetlo
 --不明,　ふ.めい: nejasno
---明日,　あした <specijalno čitanje>: sutra
+--明日,　あした<posebno čitanje>: sutra
 -赤
 --赤,　あか: crveno
 -大
@@ -57,7 +57,7 @@
 -時
 --時,　とき: vrijeme
 --一時,　いち.じ: 1:00 h (točno vrijeme, ne trajanje)
---時計,　と.けい <nepravilno čitanje>: ručni sat
+--時計,　と.けい<nepravilno čitanje>: ručni sat
 -子
 --女の子,　おんな.の.こ: djevojka, djevojčica
 --女子,　じょ.し: žena, cura, djevojka

@@ -16,7 +16,7 @@
 --声,　こえ: glas
 -田
 --田,　た: polje riže
---田舎,　いなか <specijalno čitanje>: selo, ruralno područje
+--田舎,　いなか<posebno čitanje>: selo, ruralno područje
 -語
 --日本語,　に.ほん.ご: japanski jezik
 --物語,　もの.がたり: priča, pripovjetka
@@ -36,7 +36,7 @@
 --下, した: dolje, ispod
 --下さい,　くだ.さい: molim lijepo
 --下げる,　さ.げる: spustiti (nešto)
---下手,　へた <posebno čitanje>: loš(a) u nečemu, nevješt(a)
+--下手,　へた<posebno čitanje>: loš(a) u nečemu, nevješt(a)
 --地下,　ち.か: podzemno
 -後
 --後で,　あと.で: poslije, nakon (vremenski)
