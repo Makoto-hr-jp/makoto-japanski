@@ -18,7 +18,7 @@
 --上手い,　うまい <specijalno čitanje>: vješt(a) u nečemu
 --以上,　い.じょう: više od, dovoljno
 -食
---食べる,　た.える: jesti
+--食べる,　た.べる: jesti
 --食べ物,　た.べ.もの: hrana
 --食う,　く.う: jesti
 --食事,　しょく.じ: obrok
