@@ -5,7 +5,7 @@
         "kanji": "点",
         "reading": "てん",
         "meaning": "točka, bod, ocjena",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "半": [
@@ -13,7 +13,7 @@
         "kanji": "半",
         "reading": "はん",
         "meaning": "pola, polovica",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "音": [
@@ -21,13 +21,13 @@
         "kanji": "音",
         "reading": "おと",
         "meaning": "zvuk",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "音楽",
         "reading": "おん.がく",
         "meaning": "glazba",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "先": [
@@ -35,13 +35,13 @@
         "kanji": "先",
         "reading": "さき",
         "meaning": "prethodno",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "先生",
         "reading": "せん.せい",
         "meaning": "učitelj",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "生": [
@@ -49,25 +49,25 @@
         "kanji": "生",
         "reading": "なま",
         "meaning": "sirovo, uživo (npr. TV prijenos)",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "人生",
         "reading": "じん.せい",
         "meaning": "ljudski život",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "生きる",
         "reading": "い.きる",
         "meaning": "živjeti",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "生まれ",
         "reading": "う.まれ",
         "meaning": "rodno mjesto",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "今": [
@@ -75,15 +75,15 @@
         "kanji": "今",
         "reading": "いま",
         "meaning": "sada",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "今日は",
         "reading": "こん.にち.は<0>",
         "meaning": "dobar dan",
-        "footnotes": [
-          "は je ovdje čestica pa se izgovara kao わ"
-        ]
+        "footnotes": {
+          "は je ovdje čestica pa se izgovara kao わ": 0
+        }
       }
     ],
     "日": [
@@ -91,19 +91,19 @@
         "kanji": "日",
         "reading": "ひ",
         "meaning": "dan, sunce",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "日曜日",
         "reading": "にち.よう.び",
         "meaning": "nedjelja",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "先日",
         "reading": "せん.じつ",
         "meaning": "nekidan",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "猫": [
@@ -111,7 +111,7 @@
         "kanji": "猫",
         "reading": "ねこ",
         "meaning": "mačka",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "犬": [
@@ -119,7 +119,7 @@
         "kanji": "犬",
         "reading": "いぬ",
         "meaning": "pas",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "森": [
@@ -127,7 +127,7 @@
         "kanji": "森",
         "reading": "もり",
         "meaning": "šuma",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "石": [
@@ -135,7 +135,7 @@
         "kanji": "石",
         "reading": "いし",
         "meaning": "kamen",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "風": [
@@ -143,13 +143,13 @@
         "kanji": "風",
         "reading": "かぜ",
         "meaning": "vjetar",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "~風",
         "reading": "~ふう",
         "meaning": "stil",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "光": [
@@ -157,7 +157,7 @@
         "kanji": "光",
         "reading": "ひかり",
         "meaning": "svjetlo",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "月": [
@@ -165,19 +165,19 @@
         "kanji": "月",
         "reading": "つき",
         "meaning": "mjesec",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "三月",
         "reading": "さん.がつ",
         "meaning": "ožujak",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "今月",
         "reading": "こん.げつ",
         "meaning": "ovaj mjesec",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "空": [
@@ -185,13 +185,13 @@
         "kanji": "空",
         "reading": "そら",
         "meaning": "nebo",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "空気",
         "reading": "くう.き",
         "meaning": "zrak, atmosfera",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "天": [
@@ -199,7 +199,7 @@
         "kanji": "天気",
         "reading": "てん.き",
         "meaning": "vrijeme (u meteorološkom smislu)",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "川": [
@@ -207,7 +207,7 @@
         "kanji": "川",
         "reading": "かわ",
         "meaning": "rijeka",
-        "footnotes": []
+        "footnotes": {}
       }
     ]
   },
@@ -217,13 +217,13 @@
         "kanji": "木",
         "reading": "き",
         "meaning": "drvo, stablo",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "木曜日",
         "reading": "もく.よう.び",
         "meaning": "četvrtak",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "土": [
@@ -231,13 +231,13 @@
         "kanji": "土",
         "reading": "つち",
         "meaning": "zemlja, tlo",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "土曜日",
         "reading": "ど.よう.び",
         "meaning": "subota",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "虫": [
@@ -245,7 +245,7 @@
         "kanji": "虫",
         "reading": "むし",
         "meaning": "insekt",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "色": [
@@ -253,13 +253,13 @@
         "kanji": "色",
         "reading": "いろ",
         "meaning": "boja",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "色々",
         "reading": "いろ.いろ",
         "meaning": "razno",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "花": [
@@ -267,7 +267,7 @@
         "kanji": "花",
         "reading": "はな",
         "meaning": "cvijeće",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "私": [
@@ -275,13 +275,13 @@
         "kanji": "私",
         "reading": "わたし",
         "meaning": "ja",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "私立",
         "reading": "し.りつ",
         "meaning": "privatno (vlasništvo)",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "本": [
@@ -289,13 +289,13 @@
         "kanji": "本",
         "reading": "ほん",
         "meaning": "knjiga",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "本当",
         "reading": "ほん.とう",
         "meaning": "stvarnost, istina",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "来": [
@@ -303,13 +303,13 @@
         "kanji": "来年",
         "reading": "らい.ねん",
         "meaning": "iduća godina",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "来ます",
         "reading": "き.ます",
         "meaning": "doći (pristojno)",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "年": [
@@ -317,13 +317,13 @@
         "kanji": "年",
         "reading": "とし",
         "meaning": "godina",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "去年",
         "reading": "きょ.ねん",
         "meaning": "prošla godina",
-        "footnotes": []
+        "footnotes": {}
       }
     ]
   },
@@ -333,13 +333,13 @@
         "kanji": "自由",
         "reading": "じ.ゆう",
         "meaning": "sloboda",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "自然",
         "reading": "し.ぜん",
         "meaning": "priroda",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "分": [
@@ -347,25 +347,25 @@
         "kanji": "分",
         "reading": "ぶん",
         "meaning": "dio",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "分",
         "reading": "ふん",
         "meaning": "minuta",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "自分",
         "reading": "じ.ぶん",
         "meaning": "svoje",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "分かる",
         "reading": "わ.かる",
         "meaning": "razumjeti",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "好": [
@@ -373,7 +373,7 @@
         "kanji": "好き",
         "reading": "す.き",
         "meaning": "voljeti",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "人": [
@@ -381,19 +381,19 @@
         "kanji": "人",
         "reading": "ひと",
         "meaning": "osoba",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "人口",
         "reading": "じん.こう",
         "meaning": "populacija",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "三人",
         "reading": "さん.にん",
         "meaning": "tri osobe",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "父": [
@@ -401,13 +401,13 @@
         "kanji": "父",
         "reading": "ちち",
         "meaning": "otac",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "父さん",
         "reading": "とう.さん",
         "meaning": "otac (pristojno)",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "母": [
@@ -415,13 +415,13 @@
         "kanji": "母母",
         "reading": "はは",
         "meaning": "majka",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "母さん",
         "reading": "かあ.さん",
         "meaning": "majka (pristojno)",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "主": [
@@ -429,7 +429,7 @@
         "kanji": "主人",
         "reading": "しゅ.じん",
         "meaning": "glava kuće, muž, vlasnik, šef",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "回": [
@@ -437,13 +437,13 @@
         "kanji": "~回",
         "reading": "~かい",
         "meaning": "brojač ponavljanja",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "回る",
         "reading": "まわ.る",
         "meaning": "okretati se",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "行": [
@@ -451,19 +451,19 @@
         "kanji": "行く",
         "reading": "い.く",
         "meaning": "ići",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "行動",
         "reading": "こう.どう",
         "meaning": "radnja",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "走行",
         "reading": "そう.こう",
         "meaning": "putovanje",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "見": [
@@ -471,13 +471,13 @@
         "kanji": "見る",
         "reading": "み.る",
         "meaning": "vidjeti, gledati",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "意見",
         "reading": "い.けん",
         "meaning": "mišljenje",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "水": [
@@ -485,13 +485,13 @@
         "kanji": "水",
         "reading": "みず",
         "meaning": "voda",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "水曜日",
         "reading": "すい.よう.び",
         "meaning": "srijeda",
-        "footnotes": []
+        "footnotes": {}
       }
     ]
   }

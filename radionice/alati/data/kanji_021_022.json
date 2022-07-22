@@ -5,13 +5,13 @@
         "kanji": "使う",
         "reading": "つか.う",
         "meaning": "koristiti, upotrijebiti",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "使用",
         "reading": "し.よう",
         "meaning": "korištenje, uporaba",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "用": [
@@ -19,13 +19,13 @@
         "kanji": "用紙",
         "reading": "よう.し",
         "meaning": "list papira, prazan papir",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "作用",
         "reading": "さ.よう",
         "meaning": "radnja, efekt, funkcija",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "方": [
@@ -33,13 +33,13 @@
         "kanji": "仕方",
         "reading": "し.かた",
         "meaning": "način, metoda",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "方向",
         "reading": "ほう.こう",
         "meaning": "smjer",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "法": [
@@ -47,13 +47,13 @@
         "kanji": "方法",
         "reading": "ほう.ほう",
         "meaning": "metoda, proces, način",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "法律",
         "reading": "ほう.りつ",
         "meaning": "zakon",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "部": [
@@ -61,15 +61,15 @@
         "kanji": "全部",
         "reading": "ぜん.ぶ",
         "meaning": "sve, cijelo, kompletno",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "部屋",
         "reading": "へ.や<0>",
         "meaning": "soba",
-        "footnotes": [
-          "nepravilno čitanje"
-        ]
+        "footnotes": {
+          "nepravilno čitanje": 0
+        }
       }
     ],
     "屋": [
@@ -77,19 +77,19 @@
         "kanji": "~屋",
         "reading": "~や",
         "meaning": "sufiks za dućane",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "本屋",
         "reading": "ほん.や",
         "meaning": "knjižara",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "屋上",
         "reading": "おく.じょう",
         "meaning": "krov (zgrade)",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "書": [
@@ -97,13 +97,13 @@
         "kanji": "書く",
         "reading": "か.く",
         "meaning": "pisati",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "図書館",
         "reading": "と.しょ.かん",
         "meaning": "knjižnica",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "飲": [
@@ -111,13 +111,13 @@
         "kanji": "飲む",
         "reading": "の.む",
         "meaning": "piti",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "飲食",
         "reading": "いん.しょく",
         "meaning": "hrana i piće",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "茶": [
@@ -125,13 +125,13 @@
         "kanji": "お茶",
         "reading": "お.ちゃ",
         "meaning": "čaj",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "喫茶店",
         "reading": "きっ.さ.てん",
         "meaning": "čajana, kafić",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "牛": [
@@ -139,13 +139,13 @@
         "kanji": "牛",
         "reading": "うし",
         "meaning": "krava",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "牛肉",
         "reading": "ぎゅう.にく",
         "meaning": "govedina",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "洗": [
@@ -153,13 +153,13 @@
         "kanji": "洗う",
         "reading": "あら.う",
         "meaning": "prati",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "洗濯",
         "reading": "せん.たく",
         "meaning": "pranje veša",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "毎": [
@@ -167,13 +167,13 @@
         "kanji": "毎~",
         "reading": "まい~",
         "meaning": "prefiks \"svaki\"",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "毎日",
         "reading": "まい.にち",
         "meaning": "svaki dan",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "所": [
@@ -181,19 +181,19 @@
         "kanji": "所",
         "reading": "ところ",
         "meaning": "mjesto, lokacija",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "台所",
         "reading": "だい.どころ",
         "meaning": "kuhinja",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "場所",
         "reading": "ば.しょ",
         "meaning": "mjesto, lokacija",
-        "footnotes": []
+        "footnotes": {}
       }
     ]
   },
@@ -203,19 +203,19 @@
         "kanji": "足",
         "reading": "あし",
         "meaning": "stopalo, noga",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "足りる",
         "reading": "た.りる",
         "meaning": "dostajati, biti dovoljno",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "不足",
         "reading": "ふ.そく",
         "meaning": "nedovoljno",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "速": [
@@ -223,13 +223,13 @@
         "kanji": "速い",
         "reading": "はや.い",
         "meaning": "brzo",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "速度",
         "reading": "そく.ど",
         "meaning": "brzina",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "見": [
@@ -237,13 +237,13 @@
         "kanji": "見る",
         "reading": "み.る",
         "meaning": "vidjeti",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "発見",
         "reading": "はっ.けん",
         "meaning": "otkriće",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "玉": [
@@ -251,7 +251,7 @@
         "kanji": "玉",
         "reading": "たま",
         "meaning": "lopta, kugla",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "朝": [
@@ -259,15 +259,15 @@
         "kanji": "朝",
         "reading": "あさ",
         "meaning": "jutro",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "今朝",
         "reading": "け.さ <0>",
         "meaning": "ovo jutro",
-        "footnotes": [
-          "specijalno čitanje"
-        ]
+        "footnotes": {
+          "posebno čitanje": 0
+        }
       }
     ],
     "冬": [
@@ -275,7 +275,7 @@
         "kanji": "冬",
         "reading": "ふゆ",
         "meaning": "zima (godišnje doba)",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "東": [
@@ -283,13 +283,13 @@
         "kanji": "東",
         "reading": "ひがし",
         "meaning": "istok",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "東北",
         "reading": "とう.ほく",
         "meaning": "sjeveroistok, Tōhoku regija",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "京": [
@@ -297,13 +297,13 @@
         "kanji": "京と",
         "reading": "きょう.と",
         "meaning": "Kyōto",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "東京",
         "reading": "とう.きょう",
         "meaning": "Tōkyō",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "笑": [
@@ -311,13 +311,13 @@
         "kanji": "笑う",
         "reading": "わら.う",
         "meaning": "smijati se",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "笑顔",
         "reading": "え.がお",
         "meaning": "osmijeh",
-        "footnotes": []
+        "footnotes": {}
       }
     ],
     "顔": [
@@ -325,13 +325,13 @@
         "kanji": "顔",
         "reading": "かお",
         "meaning": "lice",
-        "footnotes": []
+        "footnotes": {}
       },
       {
         "kanji": "顔面",
         "reading": "がん.めん",
         "meaning": "lice",
-        "footnotes": []
+        "footnotes": {}
       }
     ]
   }
