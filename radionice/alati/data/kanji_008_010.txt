@@ -60,8 +60,8 @@
 --休日,　きゅう.じつ: praznik, godišnji odmor
 --休止,　きゅう.し: pauza (u radu nečega)
 -立
---立つ,　た.つ: uspraviti se
---立てる,　た.てる: uspraviti nekoga ili nešto
+--立つ,　た.つ: stajati
+--立てる,　た.てる: uspraviti (nekoga ili nešto)
 --私立,　し.りつ: privatno (vlasništvo)
 --市立,　し.りつ: gradski
 --独立,　どく.りつ: neovisnost
