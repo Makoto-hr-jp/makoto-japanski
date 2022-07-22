@@ -23,6 +23,7 @@
 --元気,　げん.き: zdravlje, energičnost
 --病気,　びょう.き: bolest
 --湯気,　ゆ.げ: vodena para
+--気高い, け.だか.い: uzvišeno, plemenito
 -付
 --付ける,　つ.ける: pričvrstiti nešto
 --付く, つ.く: biti pričvršćen
