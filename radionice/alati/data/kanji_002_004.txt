@@ -93,7 +93,6 @@
 -人
 --人, ひと: osoba
 --人口, じん.こう: populacija
---一人, ひとり: jedna osoba
 --三人, さん.にん: tri osobe
 -父
 --父, ちち: otac
@@ -105,7 +104,7 @@
 --主人, しゅ.じん: glava kuće, muž, vlasnik, šef
 -回
 --~回, ~かい: brojač ponavljanja
---回る, ま.わる: okretati se
+--回る, まわ.る: okretati se
 -行
 --行く, い.く: ići
 --行動, こう.どう: radnja
