@@ -3,7 +3,7 @@
 --使う, つか.う: koristiti, upotrijebiti
 --使用,　し.よう: korištenje, uporaba
 -用
---用事, よう.じ: zadatak, obaveza
+--用紙, よう.し: list papira, prazan papir
 --作用, さ.よう: radnja, efekt, funkcija
 -方
 --仕方, し.かた: način, metoda
@@ -31,7 +31,7 @@
 --牛, うし: krava
 --牛肉,　ぎゅう.にく: govedina
 -洗
---洗う, あ.らう: prati
+--洗う, あら.う: prati
 --洗濯,　せん.たく: pranje veša
 -毎
 --毎~, まい~: prefiks "svaki"
