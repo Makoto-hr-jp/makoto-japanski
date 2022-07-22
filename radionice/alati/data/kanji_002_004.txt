@@ -16,8 +16,8 @@
 --生まれ, う.まれ: rodno mjesto
 -今
 --今, いま: sada
---今日, きょう: danas
---今日は, こん.にち.は: dobar dan
+--今日<posebno čitanje>, きょう: danas
+--今日は, こん.にち.は<は je ovdje čestica pa se izgovara kao わ>: dobar dan
 -日
 --日, ひ: dan, sunce
 --日曜日, にち.よう.び: nedjelja
