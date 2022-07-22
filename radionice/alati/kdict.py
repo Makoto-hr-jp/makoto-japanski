@@ -20,11 +20,11 @@ FN_FIELDS = ("kanji", "reading", "meaning")
 def extract_footnotes(kanji: dict):
     """Extract footnotes as special field of the kanji object."""
     n = 0
-    fn = []
+    fn = {}
     for field in FN_FIELDS:
         notes = re.findall(FOOTNOTE, kanji[field])
         for note in notes:
-            fn.append(note)
+            fn[note] = n
             kanji[field] = re.sub(note, f"{n}", kanji[field])
             n += 1
 
