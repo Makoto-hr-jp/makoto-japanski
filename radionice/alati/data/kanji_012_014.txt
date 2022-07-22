@@ -36,11 +36,11 @@
 --下, した: dolje, ispod
 --下さい,　くだ.さい: molim lijepo
 --下げる,　さ.げる: spustiti (nešto)
---下手,　へた <specijalno čitanje (mislim, trebalo bi možda provjeriti na nekom japanskom sajtu jel 熟字訓 ili nepravilno čitanje)>: loš(a) u nečemu
+--下手,　へた <posebno čitanje>: loš(a) u nečemu, nevješt(a)
 --地下,　ち.か: podzemno
 -後
 --後で,　あと.で: poslije, nakon (vremenski)
---後ろ,　うし.ろ: iza (fizički), straga 
+--後ろ,　うし.ろ: iza (fizički), straga
 --午後,　ご.ご: poslijepodne
 --後輩,　こう.はい: mlađi u nečemu (student, djelatnik, itd.)
 -外
@@ -70,7 +70,7 @@
 --近い,　ちか.い: blizu
 --近所,　きん.じょ: susjedstvo
 -達
---〜達,　〜たち: sufiks za plural
+--〜達,　〜たち: nastavak za množinu
 --友達,　とも.だち: prijatelj(i)
 
 
