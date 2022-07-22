@@ -25,7 +25,7 @@
 --暗記,　あん.き: memorizacija, pamćenje
 -明
 --明るい,　あか.るい: svijetlo
---不明,　ふめ.い: nejasno
+--不明,　ふ.めい: nejasno
 --明日,　あした <specijalno čitanje>: sutra
 -赤
 --赤,　あか: crveno
@@ -40,7 +40,7 @@
 -丸
 --丸,　まる: krug
 -太
---太い,　ふ.とい: debelo
+--太い,　ふと.い: debelo
 --太陽,　たい.よう: Sunce (nebesko tijelo)
 -目
 --目,　め: oko
