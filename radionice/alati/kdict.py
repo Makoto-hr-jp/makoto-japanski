@@ -14,6 +14,21 @@ SOURCES = "./data/"
 LEKCIJA = re.compile(r"([0-9]+)\.\s*lekcija\s*\n")
 KANJI = re.compile(r"\-([\w\~\<\>]+)\s*\n")
 EXAMPLE = re.compile(r"\-\-([\w\~\<\>]+),\s*(.+?):\s*(.*)\n")
+FOOTNOTE = re.compile(r"\<(.+?)\>")
+FN_FIELDS = ("kanji", "reading", "meaning")
+
+def extract_footnotes(kanji: dict):
+    """Extract footnotes as special field of the kanji object."""
+    n = 0
+    fn = []
+    for field in FN_FIELDS:
+        notes = re.findall(FOOTNOTE, kanji[field])
+        for note in notes:
+            fn.append(note)
+            kanji[field] = re.sub(note, f"{n}", kanji[field])
+            n += 1
+
+    kanji["footnotes"] = fn
 
 def parse_kanji(entry: str) -> list:
     """Parse an individual entry."""
@@ -22,6 +37,7 @@ def parse_kanji(entry: str) -> list:
         new_ex = {"kanji": exp[0].strip(),
                   "reading": exp[1].strip(),
                   "meaning": exp[2].strip()}
+        extract_footnotes(new_ex)
         ret.append(new_ex)
     return ret
 
@@ -66,4 +82,4 @@ def parse_sources(top: str):
     return total_data
 
 if __name__ == "__main__":
-    print(parse_sources(SOURCES))
+    parse_sources(SOURCES)
