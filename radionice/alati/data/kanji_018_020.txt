@@ -44,7 +44,7 @@
 -字
 --字, じ: slovo, simbol (npr. kanji)
 --漢字, かん.じ: kanji
---数字, すう.じ: brojka, numeral
+--数字, すう.じ: brojka, znamenka
 -文
 --文, ぶん: rečenica, tekst
 --文化, ぶん.か: kultura
