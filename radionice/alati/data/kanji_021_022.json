@@ -4,166 +4,196 @@
       {
         "kanji": "使う",
         "reading": "つか.う",
-        "meaning": "koristiti, upotrijebiti"
+        "meaning": "koristiti, upotrijebiti",
+        "footnotes": []
       },
       {
         "kanji": "使用",
         "reading": "し.よう",
-        "meaning": "korištenje, uporaba"
+        "meaning": "korištenje, uporaba",
+        "footnotes": []
       }
     ],
     "用": [
       {
-        "kanji": "用事",
-        "reading": "よう.じ",
-        "meaning": "zadatak, obaveza"
+        "kanji": "用紙",
+        "reading": "よう.し",
+        "meaning": "list papira, prazan papir",
+        "footnotes": []
       },
       {
         "kanji": "作用",
         "reading": "さ.よう",
-        "meaning": "radnja, efekt, funkcija"
+        "meaning": "radnja, efekt, funkcija",
+        "footnotes": []
       }
     ],
     "方": [
       {
         "kanji": "仕方",
         "reading": "し.かた",
-        "meaning": "način, metoda"
+        "meaning": "način, metoda",
+        "footnotes": []
       },
       {
         "kanji": "方向",
         "reading": "ほう.こう",
-        "meaning": "smjer"
+        "meaning": "smjer",
+        "footnotes": []
       }
     ],
     "法": [
       {
         "kanji": "方法",
         "reading": "ほう.ほう",
-        "meaning": "metoda, proces, način"
+        "meaning": "metoda, proces, način",
+        "footnotes": []
       },
       {
         "kanji": "法律",
         "reading": "ほう.りつ",
-        "meaning": "zakon"
+        "meaning": "zakon",
+        "footnotes": []
       }
     ],
     "部": [
       {
         "kanji": "全部",
         "reading": "ぜん.ぶ",
-        "meaning": "sve, cijelo, kompletno"
+        "meaning": "sve, cijelo, kompletno",
+        "footnotes": []
       },
       {
         "kanji": "部屋",
-        "reading": "へ.や <nepravilno čitanje>",
-        "meaning": "soba"
+        "reading": "へ.や<0>",
+        "meaning": "soba",
+        "footnotes": [
+          "nepravilno čitanje"
+        ]
       }
     ],
     "屋": [
       {
         "kanji": "~屋",
         "reading": "~や",
-        "meaning": "sufiks za dućane"
+        "meaning": "sufiks za dućane",
+        "footnotes": []
       },
       {
         "kanji": "本屋",
         "reading": "ほん.や",
-        "meaning": "knjižara"
+        "meaning": "knjižara",
+        "footnotes": []
       },
       {
         "kanji": "屋上",
         "reading": "おく.じょう",
-        "meaning": "krov (zgrade)"
+        "meaning": "krov (zgrade)",
+        "footnotes": []
       }
     ],
     "書": [
       {
         "kanji": "書く",
         "reading": "か.く",
-        "meaning": "pisati"
+        "meaning": "pisati",
+        "footnotes": []
       },
       {
         "kanji": "図書館",
         "reading": "と.しょ.かん",
-        "meaning": "knjižnica"
+        "meaning": "knjižnica",
+        "footnotes": []
       }
     ],
     "飲": [
       {
         "kanji": "飲む",
         "reading": "の.む",
-        "meaning": "piti"
+        "meaning": "piti",
+        "footnotes": []
       },
       {
         "kanji": "飲食",
         "reading": "いん.しょく",
-        "meaning": "hrana i piće"
+        "meaning": "hrana i piće",
+        "footnotes": []
       }
     ],
     "茶": [
       {
         "kanji": "お茶",
         "reading": "お.ちゃ",
-        "meaning": "čaj"
+        "meaning": "čaj",
+        "footnotes": []
       },
       {
         "kanji": "喫茶店",
         "reading": "きっ.さ.てん",
-        "meaning": "čajana, kafić"
+        "meaning": "čajana, kafić",
+        "footnotes": []
       }
     ],
     "牛": [
       {
         "kanji": "牛",
         "reading": "うし",
-        "meaning": "krava"
+        "meaning": "krava",
+        "footnotes": []
       },
       {
         "kanji": "牛肉",
         "reading": "ぎゅう.にく",
-        "meaning": "govedina"
+        "meaning": "govedina",
+        "footnotes": []
       }
     ],
     "洗": [
       {
         "kanji": "洗う",
-        "reading": "あ.らう",
-        "meaning": "prati"
+        "reading": "あら.う",
+        "meaning": "prati",
+        "footnotes": []
       },
       {
         "kanji": "洗濯",
         "reading": "せん.たく",
-        "meaning": "pranje veša"
+        "meaning": "pranje veša",
+        "footnotes": []
       }
     ],
     "毎": [
       {
         "kanji": "毎~",
         "reading": "まい~",
-        "meaning": "prefiks \"svaki\""
+        "meaning": "prefiks \"svaki\"",
+        "footnotes": []
       },
       {
         "kanji": "毎日",
         "reading": "まい.にち",
-        "meaning": "svaki dan"
+        "meaning": "svaki dan",
+        "footnotes": []
       }
     ],
     "所": [
       {
         "kanji": "所",
         "reading": "ところ",
-        "meaning": "mjesto, lokacija"
+        "meaning": "mjesto, lokacija",
+        "footnotes": []
       },
       {
         "kanji": "台所",
         "reading": "だい.どころ",
-        "meaning": "kuhinja"
+        "meaning": "kuhinja",
+        "footnotes": []
       },
       {
         "kanji": "場所",
         "reading": "ば.しょ",
-        "meaning": "mjesto, lokacija"
+        "meaning": "mjesto, lokacija",
+        "footnotes": []
       }
     ]
   },
@@ -172,115 +202,136 @@
       {
         "kanji": "足",
         "reading": "あし",
-        "meaning": "stopalo, noga"
+        "meaning": "stopalo, noga",
+        "footnotes": []
       },
       {
         "kanji": "足りる",
         "reading": "た.りる",
-        "meaning": "dostajati, biti dovoljno"
+        "meaning": "dostajati, biti dovoljno",
+        "footnotes": []
       },
       {
         "kanji": "不足",
         "reading": "ふ.そく",
-        "meaning": "nedovoljno"
+        "meaning": "nedovoljno",
+        "footnotes": []
       }
     ],
     "速": [
       {
         "kanji": "速い",
         "reading": "はや.い",
-        "meaning": "brzo"
+        "meaning": "brzo",
+        "footnotes": []
       },
       {
         "kanji": "速度",
         "reading": "そく.ど",
-        "meaning": "brzina"
+        "meaning": "brzina",
+        "footnotes": []
       }
     ],
     "見": [
       {
         "kanji": "見る",
         "reading": "み.る",
-        "meaning": "vidjeti"
+        "meaning": "vidjeti",
+        "footnotes": []
       },
       {
         "kanji": "発見",
         "reading": "はっ.けん",
-        "meaning": "otkriće"
+        "meaning": "otkriće",
+        "footnotes": []
       }
     ],
     "玉": [
       {
         "kanji": "玉",
         "reading": "たま",
-        "meaning": "lopta, kugla"
+        "meaning": "lopta, kugla",
+        "footnotes": []
       }
     ],
     "朝": [
       {
         "kanji": "朝",
         "reading": "あさ",
-        "meaning": "jutro"
+        "meaning": "jutro",
+        "footnotes": []
       },
       {
         "kanji": "今朝",
-        "reading": "け.さ <specijalno čitanje>",
-        "meaning": "ovo jutro"
+        "reading": "け.さ <0>",
+        "meaning": "ovo jutro",
+        "footnotes": [
+          "specijalno čitanje"
+        ]
       }
     ],
     "冬": [
       {
         "kanji": "冬",
         "reading": "ふゆ",
-        "meaning": "zima (godišnje doba)"
+        "meaning": "zima (godišnje doba)",
+        "footnotes": []
       }
     ],
     "東": [
       {
         "kanji": "東",
         "reading": "ひがし",
-        "meaning": "istok"
+        "meaning": "istok",
+        "footnotes": []
       },
       {
         "kanji": "東北",
         "reading": "とう.ほく",
-        "meaning": "sjeveroistok, Tōhoku regija"
+        "meaning": "sjeveroistok, Tōhoku regija",
+        "footnotes": []
       }
     ],
     "京": [
       {
         "kanji": "京と",
         "reading": "きょう.と",
-        "meaning": "Kyōto"
+        "meaning": "Kyōto",
+        "footnotes": []
       },
       {
         "kanji": "東京",
         "reading": "とう.きょう",
-        "meaning": "Tōkyō"
+        "meaning": "Tōkyō",
+        "footnotes": []
       }
     ],
     "笑": [
       {
         "kanji": "笑う",
         "reading": "わら.う",
-        "meaning": "smijati se"
+        "meaning": "smijati se",
+        "footnotes": []
       },
       {
         "kanji": "笑顔",
         "reading": "え.がお",
-        "meaning": "osmijeh"
+        "meaning": "osmijeh",
+        "footnotes": []
       }
     ],
     "顔": [
       {
         "kanji": "顔",
         "reading": "かお",
-        "meaning": "lice"
+        "meaning": "lice",
+        "footnotes": []
       },
       {
         "kanji": "顔面",
         "reading": "がん.めん",
-        "meaning": "lice"
+        "meaning": "lice",
+        "footnotes": []
       }
     ]
   }

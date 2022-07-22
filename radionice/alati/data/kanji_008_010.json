@@ -4,106 +4,128 @@
       {
         "kanji": "出る",
         "reading": "で.る",
-        "meaning": "izaći"
+        "meaning": "izaći",
+        "footnotes": []
       },
       {
         "kanji": "出す",
         "reading": "だ.す",
-        "meaning": "izvaditi nešto"
+        "meaning": "izvaditi nešto",
+        "footnotes": []
       },
       {
         "kanji": "出口",
         "reading": "で.ぐち",
-        "meaning": "izlaz"
+        "meaning": "izlaz",
+        "footnotes": []
       },
       {
         "kanji": "思い出",
         "reading": "おも.い.で",
-        "meaning": "sjećanje"
+        "meaning": "sjećanje",
+        "footnotes": []
       },
       {
         "kanji": "思い出す",
         "reading": "おも.い.だ.す",
-        "meaning": "sjetiti se"
+        "meaning": "sjetiti se",
+        "footnotes": []
       },
       {
         "kanji": "出会う",
         "reading": "で.あ.う",
-        "meaning": "nabasati na nekoga"
+        "meaning": "nabasati na nekoga",
+        "footnotes": []
       },
       {
         "kanji": "外出",
         "reading": "がい.しゅつ",
-        "meaning": "izlazak van"
+        "meaning": "izlazak van",
+        "footnotes": []
       },
       {
         "kanji": "出身",
         "reading": "しゅっ.しん",
-        "meaning": "rodni kraj, porijeklo"
+        "meaning": "rodni kraj, porijeklo",
+        "footnotes": []
       }
     ],
     "上": [
       {
         "kanji": "上",
         "reading": "うえ",
-        "meaning": "gore, iznad, na"
+        "meaning": "gore, iznad, na",
+        "footnotes": []
       },
       {
         "kanji": "年上",
         "reading": "とし.うえ",
-        "meaning": "stariji/a"
+        "meaning": "stariji/a",
+        "footnotes": []
       },
       {
         "kanji": "上がる",
         "reading": "あ.がる",
-        "meaning": "podići se"
+        "meaning": "podići se",
+        "footnotes": []
       },
       {
         "kanji": "上げる",
         "reading": "あ.げる",
-        "meaning": "podići nešto"
+        "meaning": "podići nešto",
+        "footnotes": []
       },
       {
         "kanji": "上る",
         "reading": "のぼ.る",
-        "meaning": "penjati se, uzlaziti"
+        "meaning": "penjati se, uzlaziti",
+        "footnotes": []
       },
       {
         "kanji": "上手",
         "reading": "じょう.ず",
-        "meaning": "vješt(a) u nečemu"
+        "meaning": "vješt(a) u nečemu",
+        "footnotes": []
       },
       {
         "kanji": "上手い",
-        "reading": "うまい <specijalno čitanje>",
-        "meaning": "vješt(a) u nečemu"
+        "reading": "うまい<0>",
+        "meaning": "vješt(a) u nečemu",
+        "footnotes": [
+          "specijalno čitanje"
+        ]
       },
       {
         "kanji": "以上",
         "reading": "い.じょう",
-        "meaning": "više od, dovoljno"
+        "meaning": "više od, dovoljno",
+        "footnotes": []
       }
     ],
     "食": [
       {
         "kanji": "食べる",
-        "reading": "た.える",
-        "meaning": "jesti"
+        "reading": "た.べる",
+        "meaning": "jesti",
+        "footnotes": []
       },
       {
         "kanji": "食べ物",
         "reading": "た.べ.もの",
-        "meaning": "hrana"
+        "meaning": "hrana",
+        "footnotes": []
       },
       {
         "kanji": "食う",
         "reading": "く.う",
-        "meaning": "jesti"
+        "meaning": "jesti",
+        "footnotes": []
       },
       {
         "kanji": "食事",
         "reading": "しょく.じ",
-        "meaning": "obrok"
+        "meaning": "obrok",
+        "footnotes": []
       }
     ]
   },
@@ -112,74 +134,88 @@
       {
         "kanji": "行く",
         "reading": "い.く",
-        "meaning": "ići"
+        "meaning": "ići",
+        "footnotes": []
       },
       {
         "kanji": "行う",
         "reading": "おこな.う",
-        "meaning": "izvršiti"
+        "meaning": "izvršiti",
+        "footnotes": []
       },
       {
         "kanji": "行き",
         "reading": "ゆ.き",
-        "meaning": "smjer vlaka"
+        "meaning": "smjer vlaka",
+        "footnotes": []
       },
       {
         "kanji": "旅行",
         "reading": "りょ.こう",
-        "meaning": "putovanje"
+        "meaning": "putovanje",
+        "footnotes": []
       },
       {
         "kanji": "飛行機",
         "reading": "ひ.こう.き",
-        "meaning": "avion"
+        "meaning": "avion",
+        "footnotes": []
       },
       {
         "kanji": "銀行",
         "reading": "ぎん.こう",
-        "meaning": "banka"
+        "meaning": "banka",
+        "footnotes": []
       },
       {
         "kanji": "行動",
         "reading": "こう.どう",
-        "meaning": "radnja, postupanje, ponašanje"
+        "meaning": "radnja, postupanje, ponašanje",
+        "footnotes": []
       },
       {
         "kanji": "行",
         "reading": "ぎょう",
-        "meaning": "redak teksta"
+        "meaning": "redak teksta",
+        "footnotes": []
       },
       {
         "kanji": "行儀",
         "reading": "ぎょう.ぎ",
-        "meaning": "ponašanje, vladanje"
+        "meaning": "ponašanje, vladanje",
+        "footnotes": []
       }
     ],
     "金": [
       {
         "kanji": "金",
         "reading": "きん",
-        "meaning": "zlato"
+        "meaning": "zlato",
+        "footnotes": []
       },
       {
         "kanji": "金曜日",
         "reading": "きん.よう.び",
-        "meaning": "petak"
+        "meaning": "petak",
+        "footnotes": []
       },
       {
         "kanji": "現金",
         "reading": "げん.きん",
-        "meaning": "gotovina"
+        "meaning": "gotovina",
+        "footnotes": []
       },
       {
         "kanji": "お金",
         "reading": "お.かね",
-        "meaning": "novac"
+        "meaning": "novac",
+        "footnotes": []
       },
       {
         "kanji": "金持ち",
         "reading": "かね.も.ち",
-        "meaning": "bogat"
+        "meaning": "bogat",
+        "footnotes": []
       }
     ]
   },
@@ -188,96 +224,114 @@
       {
         "kanji": "言う",
         "reading": "い.う",
-        "meaning": "reći"
+        "meaning": "reći",
+        "footnotes": []
       },
       {
         "kanji": "言い方",
         "reading": "い.い.かた",
-        "meaning": "način izražavanja, izgovor"
+        "meaning": "način izražavanja, izgovor",
+        "footnotes": []
       },
       {
         "kanji": "言い訳",
         "reading": "い.い.わけ",
-        "meaning": "isprika"
+        "meaning": "isprika",
+        "footnotes": []
       },
       {
         "kanji": "助言",
         "reading": "じょ.げん",
-        "meaning": "savjet"
+        "meaning": "savjet",
+        "footnotes": []
       },
       {
         "kanji": "方言",
         "reading": "ほう.げん",
-        "meaning": "dijalekt"
+        "meaning": "dijalekt",
+        "footnotes": []
       },
       {
         "kanji": "言語",
         "reading": "げん.ご",
-        "meaning": "jezik"
+        "meaning": "jezik",
+        "footnotes": []
       },
       {
         "kanji": "言葉",
         "reading": "こと.ば",
-        "meaning": "riječ"
+        "meaning": "riječ",
+        "footnotes": []
       }
     ],
     "休": [
       {
         "kanji": "休む",
         "reading": "やす.む",
-        "meaning": "odmarati"
+        "meaning": "odmarati",
+        "footnotes": []
       },
       {
         "kanji": "夏休み",
         "reading": "なつ.やす.み",
-        "meaning": "ljetni praznici"
+        "meaning": "ljetni praznici",
+        "footnotes": []
       },
       {
         "kanji": "休日",
         "reading": "きゅう.じつ",
-        "meaning": "praznik, godišnji odmor"
+        "meaning": "praznik, godišnji odmor",
+        "footnotes": []
       },
       {
         "kanji": "休止",
         "reading": "きゅう.し",
-        "meaning": "pauza (u radu nečega)"
+        "meaning": "pauza (u radu nečega)",
+        "footnotes": []
       }
     ],
     "立": [
       {
         "kanji": "立つ",
         "reading": "た.つ",
-        "meaning": "uspraviti se"
+        "meaning": "stajati",
+        "footnotes": []
       },
       {
         "kanji": "立てる",
         "reading": "た.てる",
-        "meaning": "uspraviti nekoga ili nešto"
+        "meaning": "uspraviti (nekoga ili nešto)",
+        "footnotes": []
       },
       {
         "kanji": "私立",
         "reading": "し.りつ",
-        "meaning": "privatno (vlasništvo)"
+        "meaning": "privatno (vlasništvo)",
+        "footnotes": []
       },
       {
         "kanji": "市立",
         "reading": "し.りつ",
-        "meaning": "gradski"
+        "meaning": "gradski",
+        "footnotes": []
       },
       {
         "kanji": "独立",
         "reading": "どく.りつ",
-        "meaning": "neovisnost"
+        "meaning": "neovisnost",
+        "footnotes": []
       },
       {
         "kanji": "立派",
         "reading": "りっ.ぱ",
-        "meaning": "izvrsno, sjajno, pohvalno"
+        "meaning": "izvrsno, sjajno, pohvalno",
+        "footnotes": []
       },
       {
         "kanji": "立入禁止",
         "reading": "たち.いり.きん.し",
-        "meaning": "zabranjen ulaz (upozorenje na znakovima)"
+        "meaning": "zabranjen ulaz (upozorenje na znakovima)",
+        "footnotes": []
       }
     ]
   }

@@ -4,148 +4,172 @@
       {
         "kanji": "一",
         "reading": "いち",
-        "meaning": "jedan"
+        "meaning": "jedan",
+        "footnotes": []
       },
       {
         "kanji": "一つ",
         "reading": "ひと.つ",
-        "meaning": "jedna stvar"
+        "meaning": "jedna stvar",
+        "footnotes": []
       }
     ],
     "二": [
       {
         "kanji": "二",
         "reading": "に",
-        "meaning": "dva"
+        "meaning": "dva",
+        "footnotes": []
       },
       {
         "kanji": "二つ",
         "reading": "ふた.つ",
-        "meaning": "dvije stvari"
+        "meaning": "dvije stvari",
+        "footnotes": []
       }
     ],
     "三": [
       {
         "kanji": "三",
         "reading": "さん",
-        "meaning": "tri"
+        "meaning": "tri",
+        "footnotes": []
       },
       {
         "kanji": "三つ",
         "reading": "みっ.つ",
-        "meaning": "tri stvari"
+        "meaning": "tri stvari",
+        "footnotes": []
       }
     ],
     "四": [
       {
         "kanji": "四",
         "reading": "よん/し",
-        "meaning": "četiri"
+        "meaning": "četiri",
+        "footnotes": []
       },
       {
         "kanji": "四つ",
         "reading": "よっ.つ",
-        "meaning": "četiri stvari"
+        "meaning": "četiri stvari",
+        "footnotes": []
       }
     ],
     "五": [
       {
         "kanji": "五",
         "reading": "ご",
-        "meaning": "pet"
+        "meaning": "pet",
+        "footnotes": []
       },
       {
         "kanji": "五つ",
         "reading": "いつ.つ",
-        "meaning": "pet stvari"
+        "meaning": "pet stvari",
+        "footnotes": []
       }
     ],
     "六": [
       {
         "kanji": "六",
         "reading": "ろく",
-        "meaning": "šest"
+        "meaning": "šest",
+        "footnotes": []
       },
       {
         "kanji": "六つ",
         "reading": "むっ.つ",
-        "meaning": "šest stvari"
+        "meaning": "šest stvari",
+        "footnotes": []
       }
     ],
     "七": [
       {
         "kanji": "七",
         "reading": "なな/しち",
-        "meaning": "sedam"
+        "meaning": "sedam",
+        "footnotes": []
       },
       {
         "kanji": "七つ",
         "reading": "なな.つ",
-        "meaning": "sedam stvari"
+        "meaning": "sedam stvari",
+        "footnotes": []
       }
     ],
     "八": [
       {
         "kanji": "八",
         "reading": "はち",
-        "meaning": "osam"
+        "meaning": "osam",
+        "footnotes": []
       },
       {
         "kanji": "八つ",
         "reading": "やっ.つ",
-        "meaning": "osam stvari"
+        "meaning": "osam stvari",
+        "footnotes": []
       }
     ],
     "九": [
       {
         "kanji": "九",
         "reading": "きゅう/く",
-        "meaning": "devet"
+        "meaning": "devet",
+        "footnotes": []
       },
       {
         "kanji": "九つ",
         "reading": "ここの.つ",
-        "meaning": "devet stvari"
+        "meaning": "devet stvari",
+        "footnotes": []
       }
     ],
     "十": [
       {
         "kanji": "十",
         "reading": "じゅう",
-        "meaning": "deset"
+        "meaning": "deset",
+        "footnotes": []
       },
       {
         "kanji": "十日",
         "reading": "とお.か",
-        "meaning": "deset dana ili deseti dan"
+        "meaning": "deset dana ili deseti dan",
+        "footnotes": []
       }
     ],
     "百": [
       {
         "kanji": "百",
         "reading": "ひゃく",
-        "meaning": "sto"
+        "meaning": "sto",
+        "footnotes": []
       }
     ],
     "千": [
       {
         "kanji": "千",
         "reading": "せん",
-        "meaning": "tisuću"
+        "meaning": "tisuću",
+        "footnotes": []
       }
     ],
     "万": [
       {
         "kanji": "万",
         "reading": "まん",
-        "meaning": "deset tisuća"
+        "meaning": "deset tisuća",
+        "footnotes": []
       }
     ],
     "個": [
       {
         "kanji": "個",
         "reading": "こ",
-        "meaning": "brojač za male stvari"
+        "meaning": "brojač za male stvari",
+        "footnotes": []
       }
     ]
   },
@@ -154,67 +178,78 @@
       {
         "kanji": "枚",
         "reading": "まい",
-        "meaning": "brojač za plosnate stvari"
+        "meaning": "brojač za plosnate stvari",
+        "footnotes": []
       }
     ],
     "台": [
       {
         "kanji": "台",
         "reading": "だい",
-        "meaning": "brojač za strojeve"
+        "meaning": "brojač za strojeve",
+        "footnotes": []
       },
       {
         "kanji": "台所",
         "reading": "だい.どころ",
-        "meaning": "kuhinja"
+        "meaning": "kuhinja",
+        "footnotes": []
       },
       {
         "kanji": "台風",
         "reading": "たい.ふう",
-        "meaning": "tajfun"
+        "meaning": "tajfun",
+        "footnotes": []
       }
     ],
     "匹": [
       {
         "kanji": "匹",
         "reading": "ひき",
-        "meaning": "brojač za male životinje"
+        "meaning": "brojač za male životinje",
+        "footnotes": []
       }
     ],
     "町": [
       {
         "kanji": "町",
         "reading": "まち",
-        "meaning": "grad, gradić, kvart (u većim gradovima)"
+        "meaning": "grad, gradić, kvart (u većim gradovima)",
+        "footnotes": []
       },
       {
         "kanji": "町民",
         "reading": "ちょう.みん",
-        "meaning": "građanin"
+        "meaning": "građanin",
+        "footnotes": []
       }
     ],
     "話": [
       {
         "kanji": "話す",
         "reading": "はな.す",
-        "meaning": "pričati"
+        "meaning": "pričati",
+        "footnotes": []
       },
       {
         "kanji": "電話",
         "reading": "でん.わ",
-        "meaning": "telefon"
+        "meaning": "telefon",
+        "footnotes": []
       }
     ],
     "会": [
       {
         "kanji": "会う",
         "reading": "あ.う",
-        "meaning": "naći se, susresti"
+        "meaning": "naći se, susresti",
+        "footnotes": []
       },
       {
         "kanji": "会話",
         "reading": "かい.わ",
-        "meaning": "razgovor"
+        "meaning": "razgovor",
+        "footnotes": []
       }
     ]
   },
@@ -223,70 +258,82 @@
       {
         "kanji": "何",
         "reading": "なに/なん",
-        "meaning": "upitni prefiks, upitna čestica \"što\""
+        "meaning": "upitni prefiks, upitna čestica \"što\"",
+        "footnotes": []
       }
     ],
     "最": [
       {
         "kanji": "最~",
         "reading": "さい~",
-        "meaning": "prefiks \"naj~\""
+        "meaning": "prefiks \"naj~\"",
+        "footnotes": []
       },
       {
         "kanji": "最近",
         "reading": "さい.きん",
-        "meaning": "nedavno"
+        "meaning": "nedavno",
+        "footnotes": []
       },
       {
         "kanji": "最初",
         "reading": "さい.しょ",
-        "meaning": "prvo, početak"
+        "meaning": "prvo, početak",
+        "footnotes": []
       },
       {
         "kanji": "最も",
         "reading": "もっと.も",
-        "meaning": "naj, najviše (u smislu stupnja)"
+        "meaning": "naj, najviše (u smislu stupnja)",
+        "footnotes": []
       }
     ],
     "度": [
       {
         "kanji": "~度",
         "reading": "~ど",
-        "meaning": "sufiks za stupnjeve (kut, temperatura) ili repeticije"
+        "meaning": "sufiks za stupnjeve (kut, temperatura) ili repeticije",
+        "footnotes": []
       },
       {
         "kanji": "丁度",
         "reading": "ちょう.ど",
-        "meaning": "točno, precizno"
+        "meaning": "točno, precizno",
+        "footnotes": []
       },
       {
         "kanji": "何度",
         "reading": "なん.ど",
-        "meaning": "koliko puta"
+        "meaning": "koliko puta",
+        "footnotes": []
       },
       {
         "kanji": "毎度",
         "reading": "まい.ど",
-        "meaning": "svaki put, uvijek, često"
+        "meaning": "svaki put, uvijek, često",
+        "footnotes": []
       }
     ],
     "買": [
       {
         "kanji": "買い物",
         "reading": "か.い.もの",
-        "meaning": "kupovanje, shopping, kupljene stvari"
+        "meaning": "kupovanje, shopping, kupljene stvari",
+        "footnotes": []
       },
       {
         "kanji": "購買",
         "reading": "こう.ばい",
-        "meaning": "kupovina"
+        "meaning": "kupovina",
+        "footnotes": []
       }
     ],
     "魚": [
       {
         "kanji": "魚",
         "reading": "さかな",
-        "meaning": "riba"
+        "meaning": "riba",
+        "footnotes": []
       }
     ]
   }

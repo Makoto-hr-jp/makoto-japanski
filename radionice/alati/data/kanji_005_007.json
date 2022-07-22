@@ -4,43 +4,50 @@
       {
         "kanji": "名前",
         "reading": "な.まえ",
-        "meaning": "ime"
+        "meaning": "ime",
+        "footnotes": []
       },
       {
         "kanji": "有名",
         "reading": "ゆう.めい",
-        "meaning": "poznato"
+        "meaning": "poznato",
+        "footnotes": []
       }
     ],
     "前": [
       {
         "kanji": "前",
         "reading": "まえ",
-        "meaning": "ispred, prije"
+        "meaning": "ispred, prije",
+        "footnotes": []
       },
       {
         "kanji": "午前",
         "reading": "ご.ぜん",
-        "meaning": "prijepodne"
+        "meaning": "prijepodne",
+        "footnotes": []
       }
     ],
     "友": [
       {
         "kanji": "友達",
         "reading": "とも.だち",
-        "meaning": "prijatelj"
+        "meaning": "prijatelj",
+        "footnotes": []
       },
       {
         "kanji": "友情",
         "reading": "ゆう.じょう",
-        "meaning": "prijateljstvo"
+        "meaning": "prijateljstvo",
+        "footnotes": []
       }
     ],
     "鳥": [
       {
         "kanji": "鳥",
         "reading": "とり",
-        "meaning": "ptica"
+        "meaning": "ptica",
+        "footnotes": []
       }
     ]
   },
@@ -49,137 +56,162 @@
       {
         "kanji": "白",
         "reading": "しろ",
-        "meaning": "bijelo"
+        "meaning": "bijelo",
+        "footnotes": []
       },
       {
         "kanji": "白人",
         "reading": "はく.じん",
-        "meaning": "bijelac"
+        "meaning": "bijelac",
+        "footnotes": []
       }
     ],
     "黒": [
       {
         "kanji": "黒",
         "reading": "くろ",
-        "meaning": "crno"
+        "meaning": "crno",
+        "footnotes": []
       },
       {
         "kanji": "黒板",
         "reading": "こく.ばん",
-        "meaning": "školska ploča (za kredu)"
+        "meaning": "školska ploča (za kredu)",
+        "footnotes": []
       }
     ],
     "暗": [
       {
         "kanji": "暗い",
         "reading": "くら.い",
-        "meaning": "tamno"
+        "meaning": "tamno",
+        "footnotes": []
       },
       {
         "kanji": "暗記",
         "reading": "あん.き",
-        "meaning": "memorizacija, pamćenje"
+        "meaning": "memorizacija, pamćenje",
+        "footnotes": []
       }
     ],
     "明": [
       {
         "kanji": "明るい",
         "reading": "あか.るい",
-        "meaning": "svijetlo"
+        "meaning": "svijetlo",
+        "footnotes": []
       },
       {
         "kanji": "不明",
-        "reading": "ふめ.い",
-        "meaning": "nejasno"
+        "reading": "ふ.めい",
+        "meaning": "nejasno",
+        "footnotes": []
       },
       {
         "kanji": "明日",
-        "reading": "あした <specijalno čitanje>",
-        "meaning": "sutra"
+        "reading": "あした<0>",
+        "meaning": "sutra",
+        "footnotes": [
+          "specijalno čitanje"
+        ]
       }
     ],
     "赤": [
       {
         "kanji": "赤",
         "reading": "あか",
-        "meaning": "crveno"
+        "meaning": "crveno",
+        "footnotes": []
       }
     ],
     "大": [
       {
         "kanji": "大きい",
         "reading": "おお.きい",
-        "meaning": "veliko"
+        "meaning": "veliko",
+        "footnotes": []
       },
       {
         "kanji": "大切",
         "reading": "たい.せつ",
-        "meaning": "bitno, važno"
+        "meaning": "bitno, važno",
+        "footnotes": []
       },
       {
         "kanji": "大体",
         "reading": "だい.たい",
-        "meaning": "općenito, ugrubo, ukratko"
+        "meaning": "općenito, ugrubo, ukratko",
+        "footnotes": []
       }
     ],
     "小": [
       {
         "kanji": "小さい",
         "reading": "ちい.さい",
-        "meaning": "malo"
+        "meaning": "malo",
+        "footnotes": []
       },
       {
         "kanji": "小学校",
         "reading": "しょう.がっ.こう",
-        "meaning": "osnovna škola"
+        "meaning": "osnovna škola",
+        "footnotes": []
       },
       {
         "kanji": "小鳥",
         "reading": "こ.とり",
-        "meaning": "mala ptica"
+        "meaning": "mala ptica",
+        "footnotes": []
       }
     ],
     "丸": [
       {
         "kanji": "丸",
         "reading": "まる",
-        "meaning": "krug"
+        "meaning": "krug",
+        "footnotes": []
       }
     ],
     "太": [
       {
         "kanji": "太い",
-        "reading": "ふ.とい",
-        "meaning": "debelo"
+        "reading": "ふと.い",
+        "meaning": "debelo",
+        "footnotes": []
       },
       {
         "kanji": "太陽",
         "reading": "たい.よう",
-        "meaning": "Sunce (nebesko tijelo)"
+        "meaning": "Sunce (nebesko tijelo)",
+        "footnotes": []
       }
     ],
     "目": [
       {
         "kanji": "目",
         "reading": "め",
-        "meaning": "oko"
+        "meaning": "oko",
+        "footnotes": []
       },
       {
         "kanji": "目標",
         "reading": "もく.ひょう",
-        "meaning": "cilj"
+        "meaning": "cilj",
+        "footnotes": []
       }
     ],
     "去": [
       {
         "kanji": "去年",
         "reading": "きょ.ねん",
-        "meaning": "prošla godina"
+        "meaning": "prošla godina",
+        "footnotes": []
       },
       {
         "kanji": "過去",
         "reading": "か.こ",
-        "meaning": "prošlost"
+        "meaning": "prošlost",
+        "footnotes": []
       }
     ]
   },
@@ -188,55 +220,66 @@
       {
         "kanji": "有名",
         "reading": "ゆう.めい",
-        "meaning": "poznato"
+        "meaning": "poznato",
+        "footnotes": []
       }
     ],
     "時": [
       {
         "kanji": "時",
         "reading": "とき",
-        "meaning": "vrijeme"
+        "meaning": "vrijeme",
+        "footnotes": []
       },
       {
         "kanji": "一時",
         "reading": "いち.じ",
-        "meaning": "1:00 h (točno vrijeme, ne trajanje)"
+        "meaning": "1:00 h (točno vrijeme, ne trajanje)",
+        "footnotes": []
       },
       {
         "kanji": "時計",
-        "reading": "と.けい <nepravilno čitanje>",
-        "meaning": "ručni sat"
+        "reading": "と.けい<0>",
+        "meaning": "ručni sat",
+        "footnotes": [
+          "nepravilno čitanje"
+        ]
       }
     ],
     "子": [
       {
         "kanji": "女の子",
         "reading": "おんな.の.こ",
-        "meaning": "djevojka, djevojčica"
+        "meaning": "djevojka, djevojčica",
+        "footnotes": []
       },
       {
         "kanji": "女子",
         "reading": "じょ.し",
-        "meaning": "žena, cura, djevojka"
+        "meaning": "žena, cura, djevojka",
+        "footnotes": []
       }
     ],
     "供": [
       {
         "kanji": "子供",
         "reading": "こ.ども",
-        "meaning": "dijete"
+        "meaning": "dijete",
+        "footnotes": []
       }
     ],
     "車": [
       {
         "kanji": "車",
         "reading": "くるま",
-        "meaning": "auto"
+        "meaning": "auto",
+        "footnotes": []
       },
       {
         "kanji": "電車",
         "reading": "でん.しゃ",
-        "meaning": "vlak"
+        "meaning": "vlak",
+        "footnotes": []
       }
     ]
   }

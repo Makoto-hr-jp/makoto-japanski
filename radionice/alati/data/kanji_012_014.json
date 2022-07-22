@@ -4,84 +4,100 @@
       {
         "kanji": "山",
         "reading": "やま",
-        "meaning": "planina"
+        "meaning": "planina",
+        "footnotes": []
       },
       {
         "kanji": "ふじ山",
         "reading": "ふじ.さん",
-        "meaning": "planina Fuji"
+        "meaning": "planina Fuji",
+        "footnotes": []
       },
       {
         "kanji": "火山",
         "reading": "か.ざん",
-        "meaning": "vulkan"
+        "meaning": "vulkan",
+        "footnotes": []
       }
     ],
     "安": [
       {
         "kanji": "安い",
         "reading": "やす.い",
-        "meaning": "jeftino"
+        "meaning": "jeftino",
+        "footnotes": []
       },
       {
         "kanji": "平安",
         "reading": "へい.あん",
-        "meaning": "mir"
+        "meaning": "mir",
+        "footnotes": []
       }
     ],
     "女": [
       {
         "kanji": "女",
         "reading": "おんな",
-        "meaning": "žena"
+        "meaning": "žena",
+        "footnotes": []
       },
       {
         "kanji": "女子",
         "reading": "じょ.し",
-        "meaning": "djevojka, cura"
+        "meaning": "djevojka, cura",
+        "footnotes": []
       }
     ],
     "男": [
       {
         "kanji": "男",
         "reading": "おとこ",
-        "meaning": "muškarac"
+        "meaning": "muškarac",
+        "footnotes": []
       },
       {
         "kanji": "男性",
         "reading": "だん.せい",
-        "meaning": "muškarac, muški spol"
+        "meaning": "muškarac, muški spol",
+        "footnotes": []
       }
     ],
     "声": [
       {
         "kanji": "声",
         "reading": "こえ",
-        "meaning": "glas"
+        "meaning": "glas",
+        "footnotes": []
       }
     ],
     "田": [
       {
         "kanji": "田",
         "reading": "た",
-        "meaning": "polje riže"
+        "meaning": "polje riže",
+        "footnotes": []
       },
       {
         "kanji": "田舎",
-        "reading": "いなか <specijalno čitanje>",
-        "meaning": "selo, ruralno područje"
+        "reading": "いなか<0>",
+        "meaning": "selo, ruralno područje",
+        "footnotes": [
+          "specijalno čitanje"
+        ]
       }
     ],
     "語": [
       {
         "kanji": "日本語",
         "reading": "に.ほん.ご",
-        "meaning": "japanski jezik"
+        "meaning": "japanski jezik",
+        "footnotes": []
       },
       {
         "kanji": "物語",
         "reading": "もの.がたり",
-        "meaning": "priča, pripovjetka"
+        "meaning": "priča, pripovjetka",
+        "footnotes": []
       }
     ]
   },
@@ -90,193 +106,228 @@
       {
         "kanji": "右",
         "reading": "みぎ",
-        "meaning": "desno"
+        "meaning": "desno",
+        "footnotes": []
       }
     ],
     "左": [
       {
         "kanji": "左",
         "reading": "ひだり",
-        "meaning": "lijevo"
+        "meaning": "lijevo",
+        "footnotes": []
       }
     ],
     "中": [
       {
         "kanji": "中",
         "reading": "なか",
-        "meaning": "sredina, unutar"
+        "meaning": "sredina, unutar",
+        "footnotes": []
       },
       {
         "kanji": "中々",
         "reading": "なか.なか",
-        "meaning": "podosta"
+        "meaning": "podosta",
+        "footnotes": []
       },
       {
         "kanji": "中央",
         "reading": "ちゅう.おう",
-        "meaning": "centar, centralno"
+        "meaning": "centar, centralno",
+        "footnotes": []
       }
     ],
     "下": [
       {
         "kanji": "下",
         "reading": "した",
-        "meaning": "dolje, ispod"
+        "meaning": "dolje, ispod",
+        "footnotes": []
       },
       {
         "kanji": "下さい",
         "reading": "くだ.さい",
-        "meaning": "molim lijepo"
+        "meaning": "molim lijepo",
+        "footnotes": []
       },
       {
         "kanji": "下げる",
         "reading": "さ.げる",
-        "meaning": "spustiti (nešto)"
+        "meaning": "spustiti (nešto)",
+        "footnotes": []
       },
       {
         "kanji": "下手",
-        "reading": "へた <specijalno čitanje (mislim, trebalo bi možda provjeriti na nekom japanskom sajtu jel 熟字訓 ili nepravilno čitanje)>",
-        "meaning": "loš(a) u nečemu"
+        "reading": "へた<0>",
+        "meaning": "loš(a) u nečemu, nevješt(a)",
+        "footnotes": [
+          "posebno čitanje"
+        ]
       },
       {
         "kanji": "地下",
         "reading": "ち.か",
-        "meaning": "podzemno"
+        "meaning": "podzemno",
+        "footnotes": []
       }
     ],
     "後": [
       {
         "kanji": "後で",
         "reading": "あと.で",
-        "meaning": "poslije, nakon (vremenski)"
+        "meaning": "poslije, nakon (vremenski)",
+        "footnotes": []
       },
       {
         "kanji": "後ろ",
         "reading": "うし.ろ",
-        "meaning": "iza (fizički), straga"
+        "meaning": "iza (fizički), straga",
+        "footnotes": []
       },
       {
         "kanji": "午後",
         "reading": "ご.ご",
-        "meaning": "poslijepodne"
+        "meaning": "poslijepodne",
+        "footnotes": []
       },
       {
         "kanji": "後輩",
         "reading": "こう.はい",
-        "meaning": "mlađi u nečemu (student, djelatnik, itd.)"
+        "meaning": "mlađi u nečemu (student, djelatnik, itd.)",
+        "footnotes": []
       }
     ],
     "外": [
       {
         "kanji": "外",
         "reading": "そと",
-        "meaning": "vani"
+        "meaning": "vani",
+        "footnotes": []
       },
       {
         "kanji": "外国人",
         "reading": "がい.こく.じん",
-        "meaning": "stranac"
+        "meaning": "stranac",
+        "footnotes": []
       },
       {
         "kanji": "外す",
         "reading": "はず.す",
-        "meaning": "odvojiti, odspojiti, odstraniti"
+        "meaning": "odvojiti, odspojiti, odstraniti",
+        "footnotes": []
       }
     ],
     "歩": [
       {
         "kanji": "歩く",
         "reading": "ある.く",
-        "meaning": "hodati"
+        "meaning": "hodati",
+        "footnotes": []
       },
       {
         "kanji": "歩道",
         "reading": "ほ.どう",
-        "meaning": "nogostup"
+        "meaning": "nogostup",
+        "footnotes": []
       },
       {
         "kanji": "散歩",
         "reading": "さん.ぽ",
-        "meaning": "šetnja"
+        "meaning": "šetnja",
+        "footnotes": []
       }
     ],
     "家": [
       {
         "kanji": "家",
         "reading": "いえ",
-        "meaning": "kuća, prebivalište"
+        "meaning": "kuća, prebivalište",
+        "footnotes": []
       },
       {
         "kanji": "家",
         "reading": "うち",
-        "meaning": "kuća, dom"
+        "meaning": "kuća, dom",
+        "footnotes": []
       },
       {
         "kanji": "家族",
         "reading": "か.ぞく",
-        "meaning": "obitelj"
+        "meaning": "obitelj",
+        "footnotes": []
       }
     ],
     "走": [
       {
         "kanji": "走る",
         "reading": "はし.る",
-        "meaning": "trčati"
+        "meaning": "trčati",
+        "footnotes": []
       },
       {
         "kanji": "走行",
         "reading": "そう.こう",
-        "meaning": "putovanje, kretanje (vozila)"
+        "meaning": "putovanje, kretanje (vozila)",
+        "footnotes": []
       }
     ],
     "学": [
       {
         "kanji": "学生",
         "reading": "がく.せい",
-        "meaning": "učenik, student"
+        "meaning": "učenik, student",
+        "footnotes": []
       },
       {
         "kanji": "文学",
         "reading": "ぶん.がく",
-        "meaning": "literatura"
+        "meaning": "literatura",
+        "footnotes": []
       }
     ],
     "校": [
       {
         "kanji": "学校",
         "reading": "がっ.こう",
-        "meaning": "škola"
+        "meaning": "škola",
+        "footnotes": []
       }
     ],
     "店": [
       {
         "kanji": "店",
         "reading": "みせ",
-        "meaning": "dućan, lokal"
+        "meaning": "dućan, lokal",
+        "footnotes": []
       },
       {
         "kanji": "店員",
         "reading": "てん.いん",
-        "meaning": "zaposlenik dućana ili lokala"
+        "meaning": "zaposlenik dućana ili lokala",
+        "footnotes": []
       }
     ],
     "近": [
       {
         "kanji": "近い",
         "reading": "ちか.い",
-        "meaning": "blizu"
+        "meaning": "blizu",
+        "footnotes": []
       },
       {
         "kanji": "近所",
         "reading": "きん.じょ",
-        "meaning": "susjedstvo"
+        "meaning": "susjedstvo",
+        "footnotes": []
       }
     ],
     "達": [
       {
         "kanji": "友達",
         "reading": "とも.だち",
-        "meaning": "prijatelj(i)"
+        "meaning": "prijatelj(i)",
+        "footnotes": []
       }
     ]
   },
@@ -285,31 +336,36 @@
       {
         "kanji": "夕べ",
         "reading": "ゆう.べ",
-        "meaning": "večer"
+        "meaning": "večer",
+        "footnotes": []
       }
     ],
     "思": [
       {
         "kanji": "思う",
         "reading": "おも.う",
-        "meaning": "misliti"
+        "meaning": "misliti",
+        "footnotes": []
       },
       {
         "kanji": "思想",
         "reading": "し.そう",
-        "meaning": "misao, ideja"
+        "meaning": "misao, ideja",
+        "footnotes": []
       }
     ],
     "夜": [
       {
         "kanji": "夜",
         "reading": "よる",
-        "meaning": "noć"
+        "meaning": "noć",
+        "footnotes": []
       },
       {
         "kanji": "今夜",
         "reading": "こん.や",
-        "meaning": "večeras"
+        "meaning": "večeras",
+        "footnotes": []
       }
     ]
   }
