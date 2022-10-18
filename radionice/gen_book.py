@@ -122,4 +122,4 @@ def generate_book(top_folder, title = "Skripta"):
         f.write(book)
     return lessons
 
-d = generate_book(top_folder = "pocetni/lekcije", title = "Skripta\\\\\n\\large za početne radionice japanskog\\\\\nMakoto")
+d = generate_book(top_folder = "pocetni/lekcije", title = "Skripta\\\\\n\\large za početnu grupu japanskog\\\\\nMakoto")
